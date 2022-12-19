@@ -16,8 +16,8 @@
 15,Sweden,1.46
 16,Australia,1.47
 ,,
-= 17,Croatia,1.48
-= 17,Germany,1.48
+17,Croatia,1.48
+17,Germany,1.48
 19,Hungary,1.494
 20,Belgium,1.496
 21,Netherlands,1.506
@@ -41,8 +41,8 @@
 39,Costa Rica,1.735
 40,North Macedonia,1.744
 41,Botswana,1.753
-= 42,Indonesia,1.783
-= 42,Mongolia,1.783
+42,Indonesia,1.783
+42,Mongolia,1.783
 44,Serbia,1.797
 null,null,
 45,Laos,1.809
@@ -59,8 +59,8 @@ null,null,
 56,Timor-Leste,1.873
 57,South Korea,1.877
 58,Tanzania,1.892
-= 59,Malawi,1.909
-= 59,Moldova,1.909
+59,Malawi,1.909
+59,Moldova,1.909
 61,Cyprus,1.912
 62,Equatorial Guinea,1.915
 63,Jordan,1.916
@@ -72,17 +72,17 @@ null,null,
 69,Eswatini,1.955
 70,Madagascar,1.963
 71,Zambia,1.964
-72,Bosnia and,1.97
-null,Herzegovina,
+72,Bosnia and Herzegovina,1.97
+null,,
 73,Oman,1.982
 74,Jamaica,1.992
 75,Paraguay,1.997
-= 76,Kyrgyz Republic,1.998
-= 76,Liberia,1.998
+76,Kyrgyz Republic,1.998
+76,Liberia,1.998
 78,Cambodia,2.008
 79,Morocco,2.015
-= 80,Angola,2.017
-= 80,Kosovo,2.017
+80,Angola,2.017
+80,Kosovo,2.017
 82,Dominican Republic,2.024
 83,Rwanda,2.028
 null,null,
@@ -103,12 +103,12 @@ null,null,
 97,Tajikistan,2.095
 98,Tunisia,2.108
 99,Guinea-Bissau,2.113
-= 100,China,2.114
-= 100,Guyana,2.114
+100,China,2.114
+100,Guyana,2.114
 102,Bahrain,2.121
-= 103,Cote d' Ivoire,2.123
+103,Cote d' Ivoire,2.123
 ,,
-= 103,Mozambique,2.123
+103,Mozambique,2.123
 105,Bolivia,2.14
 106,Djibouti,2.146
 107,Papua New Guinea,2.149
@@ -123,12 +123,12 @@ null,null,
 116,Kenya,2.254
 117,Belarus,2.285
 118,Mauritania,2.29
-119,Republic of the,2.291
-,Congo,
+119,Republic of the Congo,2.291
+,,
 120,Algeria,2.31
 121,Azerbaijan,2.334
-,United States of,
-122,America,2.337
+,,
+122,United States of America,2.337
 123,South Africa,2.344
 124,Honduras,2.371
 125,Saudi Arabia,2.376
@@ -167,8 +167,8 @@ null,null,
 Republic",3.131
 ,null,
 156,Libya,3.166
-157,Democratic Republic,3.196
-,of the Congo,
+157,Democratic Republic of the Congo,3.196
+,,
 158,Somalia,3.211
 159,Iraq,3.257
 160,South Sudan,3.363
