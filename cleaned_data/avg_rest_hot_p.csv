@@ -1,0 +1,223 @@
+,Country,Country Code,Average Hotel and Accomodation Cost,Type Traveler
+0,Albania,ALB,50.78,Budget Traveler
+1,Algeria,DZA,33.93,Budget Traveler
+2,American Samoa,ASM,,Non Applicable
+3,Angola,AGO,79.22,Comfort traveler
+4,Anguilla,AIA,122.3,Comfort traveler
+5,Antigua And Barbuda,ATG,105.93,Comfort traveler
+6,Argentina,ARG,89.24,Comfort traveler
+7,Armenia,ARM,68.35,Budget Traveler
+8,Aruba,ABW,96.84,Comfort traveler
+9,Australia,AUS,161.57,Luxury Travel
+10,Austria,AUT,132.87,Comfort traveler
+11,Azerbaijan,AZE,59.3,Budget Traveler
+12,"Bahamas, The",BHS,118.98,Comfort traveler
+13,Bahrain,BHR,79.28,Comfort traveler
+14,Bangladesh,BGD,40.86,Budget Traveler
+15,Barbados,BRB,124.83,Comfort traveler
+16,Belarus,BLR,66.36,Budget Traveler
+17,Belgium,BEL,149.13,Comfort traveler
+18,Belize,BLZ,66.3,Budget Traveler
+19,Benin,BEN,57.19,Budget Traveler
+20,Bermuda,BMU,198.36,Luxury Travel
+21,Bhutan,BTN,33.69,Budget Traveler
+22,Bolivia,BOL,43.09,Budget Traveler
+23,Bonaire,BON,156.57,Luxury Travel
+24,Bosnia And Herzegovina,BIH,68.98,Budget Traveler
+25,Botswana,BWA,93.59,Comfort traveler
+26,Brazil,BRA,90.79,Comfort traveler
+27,Brunei Darussalam,BRN,50.86,Budget Traveler
+28,Bulgaria,BGR,56.23,Budget Traveler
+29,Burkina Faso,BFA,44.87,Budget Traveler
+30,Burundi,BDI,43.29,Budget Traveler
+31,Cabo Verde,CPV,64.65,Budget Traveler
+32,Cambodia,KHM,41.38,Budget Traveler
+33,Cameroon,CMR,54.39,Budget Traveler
+34,Canada,CAN,148.32,Comfort traveler
+35,Cayman Islands,CYM,163.79,Luxury Travel
+36,Central African Republic,CAF,86.26,Comfort traveler
+37,Chad,TCD,46.19,Budget Traveler
+38,Chile,CHL,104.37,Comfort traveler
+39,China,CHN,75.24,Comfort traveler
+40,Colombia,COL,60.78,Budget Traveler
+41,Comoros,COM,62.8,Budget Traveler
+42,"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+43,"Congo, Rep.",COG,69.2,Budget Traveler
+44,Cook Islands,COK,,Non Applicable
+45,Costa Rica,CRI,90.98,Comfort traveler
+46,Côte D'Ivoire,CIV,50.04,Budget Traveler
+47,Croatia,HRV,92.46,Comfort traveler
+48,Cuba,CUB,,Non Applicable
+49,Curaçao,CUW,124.81,Comfort traveler
+50,Cyprus,CYP,115.34,Comfort traveler
+51,Czech Republic,CZE,75.54,Comfort traveler
+52,Denmark,DNK,189.75,Luxury Travel
+53,Djibouti,DJI,76.22,Comfort traveler
+54,Dominica,DMA,62.86,Budget Traveler
+55,Dominican Republic,DOM,69.79,Budget Traveler
+56,East Asia & Pacific (Icp),EAB,80.57,Comfort traveler
+57,Ecuador,ECU,118.35,Comfort traveler
+58,"Egypt, Arab Rep.",EGY,26.44,Budget Traveler
+59,El Salvador,SLV,65.92,Budget Traveler
+60,Equatorial Guinea,GNQ,80.17,Comfort traveler
+61,Eritrea,ERI,,Non Applicable
+62,Estonia,EST,106.71,Comfort traveler
+63,Eswatini,SWZ,66.54,Budget Traveler
+64,Ethiopia,ETH,33.08,Budget Traveler
+65,Europe & Central Asia (Icp),ECB,120.78,Comfort traveler
+66,Fiji,FJI,63.21,Budget Traveler
+67,Finland,FIN,160.6,Luxury Travel
+68,France,FRA,147.23,Comfort traveler
+69,French Polynesia,PYF,,Non Applicable
+70,Gabon,GAB,60.16,Budget Traveler
+71,"Gambia, The",GMB,45.97,Budget Traveler
+72,Georgia,GEO,60.71,Budget Traveler
+73,Germany,DEU,137.9,Comfort traveler
+74,Ghana,GHA,49.72,Budget Traveler
+75,Greece,GRC,103.71,Comfort traveler
+76,Grenada,GRD,70.45,Comfort traveler
+77,Guam,GUM,,Non Applicable
+78,Guatemala,GTM,,Non Applicable
+79,Guinea,GIN,33.39,Budget Traveler
+80,Guinea-Bissau,GNB,74.97,Comfort traveler
+81,Guyana,GUY,65.03,Budget Traveler
+82,Haiti,HTI,45.18,Budget Traveler
+83,Honduras,HND,47.1,Budget Traveler
+84,"Hong Kong Sar, China",HKG,88.62,Comfort traveler
+85,Hungary,HUN,75.87,Comfort traveler
+86,Iceland,ISL,232.37,Luxury Travel
+87,India,IND,42.25,Budget Traveler
+88,Indonesia,IDN,40.66,Budget Traveler
+89,"Iran, Islamic Rep.",IRN,74.6,Comfort traveler
+90,Iraq,IRQ,67.87,Budget Traveler
+91,Ireland,IRL,151.45,Luxury Travel
+92,Israel,ISR,176.01,Luxury Travel
+93,Italy,ITA,131.33,Comfort traveler
+94,Jamaica,JAM,62.09,Budget Traveler
+95,Japan,JPN,129.06,Comfort traveler
+96,Jordan,JOR,63.76,Budget Traveler
+97,Kazakhstan,KAZ,67.06,Budget Traveler
+98,Kenya,KEN,38.81,Budget Traveler
+99,Kiribati,KIR,,Non Applicable
+100,"Korea, Rep.",KOR,145.92,Comfort traveler
+101,Kosovo,KSV,,Non Applicable
+102,Kuwait,KWT,102.9,Comfort traveler
+103,Kyrgyzstan,KGZ,68.42,Budget Traveler
+104,Lao Pdr,LAO,58.18,Budget Traveler
+105,Latin America & Caribbean (Icp),LCB,78.35,Comfort traveler
+106,Latvia,LVA,102.56,Comfort traveler
+107,Lebanon,LBN,,Non Applicable
+108,Lesotho,LSO,59.4,Budget Traveler
+109,Liberia,LBR,55.09,Budget Traveler
+110,Libya,LBY,,Non Applicable
+111,Lithuania,LTU,86.66,Comfort traveler
+112,Luxembourg,LUX,141.12,Comfort traveler
+113,"Macao Sar, China",MAC,,Non Applicable
+114,Madagascar,MDG,33.01,Budget Traveler
+115,Malawi,MWI,49.24,Budget Traveler
+116,Malaysia,MYS,39.3,Budget Traveler
+117,Maldives,MDV,50.58,Budget Traveler
+118,Mali,MLI,67.27,Budget Traveler
+119,Malta,MLT,101.62,Comfort traveler
+120,Marshall Islands,MHL,,Non Applicable
+121,Mauritania,MRT,38.51,Budget Traveler
+122,Mauritius,MUS,86.66,Comfort traveler
+123,Mexico,MEX,63.31,Budget Traveler
+124,"Micronesia, Federated States Of",FSM,,Non Applicable
+125,Middle East & North Africa (Icp),MEB,64.5,Budget Traveler
+126,Moldova,MDA,64.37,Budget Traveler
+127,Mongolia,MNG,46.16,Budget Traveler
+128,Montenegro,MNE,73.7,Comfort traveler
+129,Montserrat,MSR,84.58,Comfort traveler
+130,Morocco,MAR,57.5,Budget Traveler
+131,Mozambique,MOZ,43.2,Budget Traveler
+132,Myanmar,MMR,36.81,Budget Traveler
+133,Namibia,NAM,67.54,Budget Traveler
+134,Nauru,NRU,,Non Applicable
+135,Nepal,NPL,29.76,Budget Traveler
+136,Netherlands,NLD,141.25,Comfort traveler
+137,New Caledonia,NCL,,Non Applicable
+138,New Zealand,NZL,140.97,Comfort traveler
+139,Nicaragua,NIC,56.13,Budget Traveler
+140,Niger,NER,49.29,Budget Traveler
+141,Nigeria,NGA,39.0,Budget Traveler
+142,Niue,NIU,,Non Applicable
+143,North America (Icp),NAB,128.94,Comfort traveler
+144,North Macedonia,MKD,53.86,Budget Traveler
+145,Northern Mariana Islands,MNP,,Non Applicable
+146,Norway,NOR,206.57,Luxury Travel
+147,Oman,OMN,58.29,Budget Traveler
+148,Pakistan,PAK,41.76,Budget Traveler
+149,Palau,PLW,,Non Applicable
+150,Panama,PAN,80.55,Comfort traveler
+151,Papua New Guinea,PNG,,Non Applicable
+152,Paraguay,PRY,60.5,Budget Traveler
+153,Peru,PER,72.12,Comfort traveler
+154,Philippines,PHL,48.52,Budget Traveler
+155,Poland,POL,92.4,Comfort traveler
+156,Portugal,PRT,96.82,Comfort traveler
+157,Puerto Rico,PRI,,Non Applicable
+158,Qatar,QAT,94.27,Comfort traveler
+159,Romania,ROU,66.04,Budget Traveler
+160,Russian Federation,RUS,80.01,Comfort traveler
+161,Rwanda,RWA,53.87,Budget Traveler
+162,Samoa,WSM,,Non Applicable
+163,San Marino,SMR,,Non Applicable
+164,São Tomé And Principe,STP,57.25,Budget Traveler
+165,Saudi Arabia,SAU,60.33,Budget Traveler
+166,Senegal,SEN,70.55,Comfort traveler
+167,Serbia,SRB,63.25,Budget Traveler
+168,Seychelles,SYC,160.02,Luxury Travel
+169,Sierra Leone,SLE,36.56,Budget Traveler
+170,Singapore,SGP,70.37,Comfort traveler
+171,Sint Maarten,SXM,128.48,Comfort traveler
+172,Slovakia,SVK,94.58,Comfort traveler
+173,Slovenia,SVN,102.99,Comfort traveler
+174,Solomon Islands,SLB,,Non Applicable
+175,Somalia,SOM,,Non Applicable
+176,South Africa,ZAF,62.93,Budget Traveler
+177,South Asia (Icp),SAB,42.21,Budget Traveler
+178,South Sudan,SSD,,Non Applicable
+179,Spain,ESP,107.28,Comfort traveler
+180,Sri Lanka,LKA,49.53,Budget Traveler
+181,St. Kitts And Nevis,KNA,136.67,Comfort traveler
+182,St. Lucia,LCA,113.97,Comfort traveler
+183,St. Vincent And The Grenadines,VCT,131.16,Comfort traveler
+184,Sub-Saharan Africa (Icp),SSB,46.83,Budget Traveler
+185,Sudan,SDN,28.8,Budget Traveler
+186,Suriname,SUR,57.35,Budget Traveler
+187,Sweden,SWE,182.92,Luxury Travel
+188,Switzerland,CHE,203.18,Luxury Travel
+189,Syrian Arab Republic,SYR,,Non Applicable
+190,"Taiwan, China",TWN,56.02,Budget Traveler
+191,Tajikistan,TJK,64.45,Budget Traveler
+192,Tanzania,TZA,30.13,Budget Traveler
+193,Thailand,THA,40.4,Budget Traveler
+194,Timor-Leste,TLS,,Non Applicable
+195,Togo,TGO,69.42,Budget Traveler
+196,Tokelau,TKL,,Non Applicable
+197,Tonga,TON,,Non Applicable
+198,Trinidad And Tobago,TTO,120.76,Comfort traveler
+199,Tunisia,TUN,37.86,Budget Traveler
+200,Turkey,TUR,78.22,Comfort traveler
+201,Turkmenistan,TKM,,Non Applicable
+202,Turks And Caicos Islands,TCA,162.15,Luxury Travel
+203,Tuvalu,TUV,,Non Applicable
+204,Uganda,UGA,59.97,Budget Traveler
+205,Ukraine,UKR,32.17,Budget Traveler
+206,United Arab Emirates,ARE,93.47,Comfort traveler
+207,United Kingdom,GBR,131.75,Comfort traveler
+208,United States,USA,127.71,Comfort traveler
+209,Uruguay,URY,114.64,Comfort traveler
+210,Uzbekistan,UZB,,Non Applicable
+211,Vanuatu,VUT,,Non Applicable
+212,"Venezuela, Rb",VEN,,Non Applicable
+213,Vietnam,VNM,35.01,Budget Traveler
+214,"Virgin Islands, British",VGB,116.88,Comfort traveler
+215,Wallis And Futuna,WLF,,Non Applicable
+216,West Bank And Gaza,PSE,96.53,Comfort traveler
+217,World,WLD,100.0,Comfort traveler
+218,Yemen,YEM,,Non Applicable
+219,Zambia,ZMB,47.62,Budget Traveler
+220,Zimbabwe,ZWE,73.27,Comfort traveler
+221,Afghanistan,AFG,,Non Applicable
