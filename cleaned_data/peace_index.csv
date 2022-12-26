@@ -1,165 +1,166 @@
-,Rank,Country
-0,1.0,Iceland
-1,2.0,New Zealand
-2,3.0,Denmark
-3,4.0,Portugal
-4,5.0,Slovenia
-5,6.0,Austria
-6,7.0,Switzerland
-7,8.0,Ireland
-8,9.0,Czech Republic
-9,10.0,Canada
-10,11.0,Singapore
-11,12.0,Japan
-12,13.0,Finland
-13,14.0,Norway
-14,15.0,Sweden
-15,16.0,Australia
-17,17.0,Croatia
-18,17.0,Germany
-19,19.0,Hungary
-20,20.0,Belgium
-21,21.0,Netherlands
-22,22.0,Bhutan
-23,23.0,Malaysia
-24,24.0,Poland
-25,25.0,Romania
-26,26.0,Slovakia
-27,27.0,Bulgaria
-28,28.0,Mauritius
-29,29.0,Qatar
-30,30.0,Estonia
-31,31.0,Spain
-32,32.0,Italy
-33,33.0,United Kingdom
-34,34.0,Taiwan
-35,35.0,Latvia
-36,36.0,Kuwait
-37,37.0,Lithuania
-38,38.0,Ghana
-39,39.0,Costa Rica
-40,40.0,North Macedonia
-41,41.0,Botswana
-42,42.0,Indonesia
-43,42.0,Mongolia
-44,44.0,Serbia
-46,45.0,Laos
-47,46.0,Sierra Leone
-48,47.0,Uruguay
-49,48.0,Albania
-50,49.0,Chile
-51,50.0,Vietnam
-52,51.0,Montenegro
-53,52.0,United Arab Emirates
-54,53.0,The Gambia
-55,54.0,Senegal
-56,55.0,France
-57,56.0,Timor-Leste
-58,57.0,South Korea
-59,58.0,Tanzania
-60,59.0,Malawi
-61,59.0,Moldova
-62,61.0,Cyprus
-63,62.0,Equatorial Guinea
-64,63.0,Jordan
-65,64.0,Panama
-66,65.0,Namibia
-67,66.0,Greece
-68,67.0,Kazakhstan
-69,68.0,Argentina
-70,69.0,Eswatini
-71,70.0,Madagascar
-72,71.0,Zambia
-73,72.0,Bosnia And Herzegovina
-75,73.0,Oman
-76,74.0,Jamaica
-77,75.0,Paraguay
-78,76.0,Kyrgyz Republic
-79,76.0,Liberia
-80,78.0,Cambodia
-81,79.0,Morocco
-82,80.0,Angola
-83,80.0,Kosovo
-84,82.0,Dominican Republic
-85,83.0,Rwanda
-87,84.0,Trinidad And Tobago
-88,85.0,Nepal
-89,86.0,Peru
-90,87.0,Cuba
-91,88.0,Ecuador
-92,89.0,Georgia
-93,90.0,Uzbekistan
-94,91.0,Bangladesh
-96,92.0,Guinea
-97,93.0,Gabon
-98,94.0,Armenia
-99,95.0,Sri Lanka
-100,96.0,Benin
-101,97.0,Tajikistan
-102,98.0,Tunisia
-103,99.0,Guinea-Bissau
-104,100.0,China
-105,100.0,Guyana
-106,102.0,Bahrain
-107,103.0,Cote D' Ivoire
-109,103.0,Mozambique
-110,105.0,Bolivia
-111,106.0,Djibouti
-112,107.0,Papua New Guinea
-113,108.0,Haiti
-114,109.0,Turkmenistan
-115,110.0,El Salvador
-116,111.0,Guatemala
-117,112.0,Lesotho
-118,113.0,Thailand
-119,114.0,Uganda
-120,115.0,Togo
-121,116.0,Kenya
-122,117.0,Belarus
-123,118.0,Mauritania
-124,119.0,Republic Of The Congo
-126,120.0,Algeria
-127,121.0,Azerbaijan
-129,122.0,United States Of America
-130,123.0,South Africa
-131,124.0,Honduras
-132,125.0,Saudi Arabia
-133,126.0,Egypt
-134,127.0,Philippines
-135,128.0,Brazil
-136,129.0,Burundi
-137,130.0,Nicaragua
-139,131.0,Myanmar
-140,132.0,Chad
-141,133.0,Zimbabwe
-142,134.0,Burkina Faso
-143,135.0,India
-144,136.0,Eritrea
-145,137.0,Niger
-146,138.0,Palestine
-147,139.0,Ethiopia
-148,140.0,Mexico
-149,141.0,Iran
-150,142.0,Ukraine
-151,143.0,Israel
-152,144.0,Colombia
-153,145.0,Cameroon
-154,146.0,Nigeria
-156,147.0,Lebanon
-157,148.0,Mali
-158,149.0,Turkey
-159,150.0,Pakistan
-160,151.0,North Korea
-161,152.0,Venezuela
-162,153.0,Sudan
-163,154.0,Russia
-164,155.0,"Central African
-Republic"
-166,156.0,Libya
-167,157.0,Democratic Republic Of The Congo
-169,158.0,Somalia
-170,159.0,Iraq
-171,160.0,South Sudan
-172,161.0,Syria
-173,162.0,Yemen
-174,163.0,Afghanistan
+,Rank,Country,Name,Iso3,Continent,SubContinent
+0,1.0,Iceland,Iceland,ISL,Europe,Northern Europe
+1,2.0,New Zealand,New Zealand,NZL,Oceania,Australia and New Zealand
+2,3.0,Denmark,Denmark,DNK,Europe,Northern Europe
+3,4.0,Portugal,Portugal,PRT,Europe,Southern Europe
+4,5.0,Slovenia,Slovenia,SVN,Europe,Southern Europe
+5,6.0,Austria,Austria,AUT,Europe,Western Europe
+6,7.0,Switzerland,Switzerland,CHE,Europe,Western Europe
+7,8.0,Ireland,Ireland,IRL,Europe,Northern Europe
+8,9.0,Czech Republic,Czech Republic,CZE,Europe,Eastern Europe
+9,10.0,Canada,Canada,CAN,Northern America,Northern America
+10,11.0,Singapore,Singapore,SGP,"South, East and South-Eastern Asia",South-Eastern Asia
+11,12.0,Japan,Japan,JPN,"South, East and South-Eastern Asia",Eastern Asia
+12,13.0,Finland,Finland,FIN,Europe,Northern Europe
+13,14.0,Norway,Norway,NOR,Europe,Northern Europe
+14,15.0,Sweden,Sweden,SWE,Europe,Northern Europe
+15,16.0,Australia,Australia,AUS,Oceania,Australia and New Zealand
+16,17.0,Croatia,Croatia,HRV,Europe,Southern Europe
+17,17.0,Germany,Germany,DEU,Europe,Western Europe
+18,19.0,Hungary,Hungary,HUN,Europe,Eastern Europe
+19,20.0,Belgium,Belgium,BEL,Europe,Western Europe
+20,21.0,Netherlands,Netherlands,NLD,Europe,Western Europe
+21,22.0,Bhutan,Bhutan,BTN,"South, East and South-Eastern Asia",Southern Asia
+22,23.0,Malaysia,Malaysia,MYS,"South, East and South-Eastern Asia",South-Eastern Asia
+23,24.0,Poland,Poland,POL,Europe,Eastern Europe
+24,25.0,Romania,Romania,ROU,Europe,Eastern Europe
+25,26.0,Slovakia,Slovakia,SVK,Europe,Eastern Europe
+26,27.0,Bulgaria,Bulgaria,BGR,Europe,Eastern Europe
+27,28.0,Mauritius,Mauritius,MUS,Africa,Eastern Africa
+28,29.0,Qatar,Qatar,QAT,Central Asia and the middle east,Western Asia
+29,30.0,Estonia,Estonia,EST,Europe,Northern Europe
+30,31.0,Spain,Spain,ESP,Europe,Southern Europe
+31,32.0,Italy,Italy,ITA,Europe,Southern Europe
+32,33.0,United Kingdom,United Kingdom,GBR,Europe,Northern Europe
+33,34.0,Taiwan,Taiwan,TWN,"South, East and South-Eastern Asia",Eastern Asia
+34,35.0,Latvia,Latvia,LVA,Europe,Northern Europe
+35,36.0,Kuwait,Kuwait,KWT,Central Asia and the middle east,Western Asia
+36,37.0,Lithuania,Lithuania,LTU,Europe,Northern Europe
+37,38.0,Ghana,Ghana,GHA,Africa,Western Africa
+38,39.0,Costa Rica,Costa Rica,CRI,Latin America and the Caribbean,Central America
+39,40.0,North Macedonia,North Macedonia,MKD,Europe,Southern Europe
+40,41.0,Botswana,Botswana,BWA,Africa,Southern Africa
+41,42.0,Indonesia,Indonesia,IDN,"South, East and South-Eastern Asia",South-Eastern Asia
+42,42.0,Mongolia,Mongolia,MNG,"South, East and South-Eastern Asia",Eastern Asia
+43,44.0,Serbia,Serbia,SRB,Europe,Southern Europe
+44,45.0,Laos,Laos,LAO,"South, East and South-Eastern Asia",South-Eastern Asia
+45,46.0,Sierra Leone,Sierra Leone,SLE,Africa,Western Africa
+46,47.0,Uruguay,Uruguay,URY,Latin America and the Caribbean,South America
+47,48.0,Albania,Albania,ALB,Europe,Southern Europe
+48,49.0,Chile,Chile,CHL,Latin America and the Caribbean,South America
+49,50.0,Vietnam,Vietnam,VNM,"South, East and South-Eastern Asia",South-Eastern Asia
+50,51.0,Montenegro,Montenegro,MNE,Europe,Southern Europe
+51,52.0,United Arab Emirates,United Arab Emirates,ARE,Central Asia and the middle east,Western Asia
+52,53.0,The Gambia,,,,
+53,54.0,Senegal,Senegal,SEN,Africa,Western Africa
+54,55.0,France,France,FRA,Europe,Western Europe
+55,56.0,Timor-Leste,Timor-Leste,TMP,"South, East and South-Eastern Asia",South-Eastern Asia
+56,57.0,South Korea,South Korea,KOR,"South, East and South-Eastern Asia",Eastern Asia
+57,58.0,Tanzania,Tanzania,TZA,Africa,Eastern Africa
+58,59.0,Malawi,Malawi,MWI,Africa,Eastern Africa
+59,59.0,Moldova,Moldova,MDA,Europe,Eastern Europe
+60,61.0,Cyprus,Cyprus,CYP,Central Asia and the middle east,Western Asia
+61,62.0,Equatorial Guinea,Equatorial Guinea,GNQ,Africa,Middle Africa
+62,63.0,Jordan,Jordan,JOR,Central Asia and the middle east,Western Asia
+63,64.0,Panama,Panama,PAN,Latin America and the Caribbean,Central America
+64,65.0,Namibia,Namibia,NAM,Africa,Southern Africa
+65,66.0,Greece,Greece,GRC,Europe,Southern Europe
+66,67.0,Kazakhstan,Kazakhstan,KAZ,Central Asia and the middle east,Central Asia
+67,68.0,Argentina,Argentina,ARG,Latin America and the Caribbean,South America
+68,69.0,Eswatini,,,,
+69,70.0,Madagascar,Madagascar,MDG,Africa,Eastern Africa
+70,71.0,Zambia,Zambia,ZMB,Africa,Eastern Africa
+71,72.0,Bosnia And Herzegovina,Bosnia And Herzegovina,BIH,Europe,Southern Europe
+72,73.0,Oman,Oman,OMN,Central Asia and the middle east,Western Asia
+73,74.0,Jamaica,Jamaica,JAM,Latin America and the Caribbean,Caribbean
+74,75.0,Paraguay,Paraguay,PRY,Latin America and the Caribbean,South America
+75,76.0,Kyrgyz Republic,Kyrgyz Republic,KGZ,Central Asia and the middle east,Central Asia
+76,76.0,Liberia,Liberia,LBR,Africa,Western Africa
+77,78.0,Cambodia,Cambodia,KHM,"South, East and South-Eastern Asia",South-Eastern Asia
+78,79.0,Morocco,Morocco,MAR,Africa,Northern Africa
+79,80.0,Angola,Angola,AGO,Africa,Middle Africa
+80,80.0,Kosovo,Kosovo,KSV,Europe,Eastern Europe
+81,82.0,Dominican Republic,Dominican Republic,DOM,Latin America and the Caribbean,Caribbean
+82,83.0,Rwanda,Rwanda,RWA,Africa,Eastern Africa
+83,84.0,Trinidad And Tobago,Trinidad And Tobago,TTO,Latin America and the Caribbean,Caribbean
+84,85.0,Nepal,Nepal,NPL,"South, East and South-Eastern Asia",Southern Asia
+85,86.0,Peru,Peru,PER,Latin America and the Caribbean,South America
+86,87.0,Cuba,Cuba,CUB,Latin America and the Caribbean,Caribbean
+87,88.0,Ecuador,Ecuador,ECU,Latin America and the Caribbean,South America
+88,89.0,Georgia,Georgia,GEO,Central Asia and the middle east,Western Asia
+89,90.0,Uzbekistan,Uzbekistan,UZB,Central Asia and the middle east,Central Asia
+90,91.0,Bangladesh,Bangladesh,BGD,"South, East and South-Eastern Asia",Southern Asia
+91,92.0,Guinea,Guinea,GIN,Africa,Western Africa
+92,93.0,Gabon,Gabon,GAB,Africa,Middle Africa
+93,94.0,Armenia,Armenia,ARM,Central Asia and the middle east,Western Asia
+94,95.0,Sri Lanka,Sri Lanka,LKA,"South, East and South-Eastern Asia",Southern Asia
+95,96.0,Benin,Benin,BEN,Africa,Western Africa
+96,97.0,Tajikistan,Tajikistan,TJK,Central Asia and the middle east,Central Asia
+97,98.0,Tunisia,Tunisia,TUN,Africa,Northern Africa
+98,99.0,Guinea-Bissau,Guinea-Bissau,GNB,Africa,Western Africa
+99,100.0,China,China,CHN,"South, East and South-Eastern Asia",Eastern Asia
+100,100.0,Guyana,Guyana,GUY,Latin America and the Caribbean,South America
+101,102.0,Bahrain,Bahrain,BHR,Central Asia and the middle east,Western Asia
+102,103.0,Cote D' Ivoire,Cote D' Ivoire,CIV,Africa,Western Africa
+103,103.0,Mozambique,Mozambique,MOZ,Africa,Eastern Africa
+104,105.0,Bolivia,Bolivia,BOL,Latin America and the Caribbean,South America
+105,106.0,Djibouti,Djibouti,DJI,Africa,Eastern Africa
+106,107.0,Papua New Guinea,Papua New Guinea,PNG,Oceania,Melanesia
+107,108.0,Haiti,Haiti,HTI,Latin America and the Caribbean,Caribbean
+108,109.0,Turkmenistan,Turkmenistan,TKM,Central Asia and the middle east,Central Asia
+109,110.0,El Salvador,El Salvador,SLV,Latin America and the Caribbean,Central America
+110,111.0,Guatemala,Guatemala,GTM,Latin America and the Caribbean,Central America
+111,112.0,Lesotho,Lesotho,LSO,Africa,Southern Africa
+112,113.0,Thailand,Thailand,THA,"South, East and South-Eastern Asia",South-Eastern Asia
+113,114.0,Uganda,Uganda,UGA,Africa,Eastern Africa
+114,115.0,Togo,Togo,TGO,Africa,Western Africa
+115,116.0,Kenya,Kenya,KEN,Africa,Eastern Africa
+116,117.0,Belarus,Belarus,BLR,Europe,Eastern Europe
+117,118.0,Mauritania,Mauritania,MRT,Africa,Western Africa
+118,119.0,Republic Of The Congo,Republic Of The Congo,COG,Africa,Middle Africa
+119,120.0,Algeria,Algeria,DZA,Africa,Northern Africa
+120,121.0,Azerbaijan,Azerbaijan,AZE,Central Asia and the middle east,Western Asia
+121,122.0,United States Of America,United States Of America,USA,Northern America,Northern America
+122,122.0,United States Of America,United States Of America,USA,Northern America,Northern America
+123,123.0,South Africa,South Africa,ZAF,Africa,Southern Africa
+124,124.0,Honduras,Honduras,HND,Latin America and the Caribbean,Central America
+125,125.0,Saudi Arabia,Saudi Arabia,SAU,Central Asia and the middle east,Western Asia
+126,126.0,Egypt,Egypt,EGY,Africa,Northern Africa
+127,127.0,Philippines,Philippines,PHL,"South, East and South-Eastern Asia",South-Eastern Asia
+128,128.0,Brazil,Brazil,BRA,Latin America and the Caribbean,South America
+129,129.0,Burundi,Burundi,BDI,Africa,Eastern Africa
+130,130.0,Nicaragua,Nicaragua,NIC,Latin America and the Caribbean,Central America
+131,131.0,Myanmar,Myanmar,MMR,"South, East and South-Eastern Asia",South-Eastern Asia
+132,132.0,Chad,Chad,TCD,Africa,Middle Africa
+133,133.0,Zimbabwe,Zimbabwe,ZWE,Africa,Eastern Africa
+134,134.0,Burkina Faso,Burkina Faso,BFA,Africa,Western Africa
+135,135.0,India,India,IND,"South, East and South-Eastern Asia",Southern Asia
+136,136.0,Eritrea,Eritrea,ERI,Africa,Eastern Africa
+137,137.0,Niger,Niger,NER,Africa,Western Africa
+138,138.0,Palestine,,,,
+139,139.0,Ethiopia,Ethiopia,ETH,Africa,Eastern Africa
+140,140.0,Mexico,Mexico,MEX,Latin America and the Caribbean,Central America
+141,141.0,Iran,Iran,IRN,"South, East and South-Eastern Asia",Southern Asia
+142,142.0,Ukraine,Ukraine,UKR,Europe,Eastern Europe
+143,143.0,Israel,Israel,ISR,Central Asia and the middle east,Western Asia
+144,144.0,Colombia,Colombia,COL,Latin America and the Caribbean,South America
+145,145.0,Cameroon,Cameroon,CMR,Africa,Middle Africa
+146,146.0,Nigeria,Nigeria,NGA,Africa,Western Africa
+147,147.0,Lebanon,Lebanon,LBN,Central Asia and the middle east,Western Asia
+148,148.0,Mali,Mali,MLI,Africa,Western Africa
+149,149.0,Turkey,Turkey,TUR,Central Asia and the middle east,Western Asia
+150,150.0,Pakistan,Pakistan,PAK,"South, East and South-Eastern Asia",Southern Asia
+151,151.0,North Korea,North Korea,PRK,"South, East and South-Eastern Asia",Eastern Asia
+152,152.0,Venezuela,Venezuela,VEN,Latin America and the Caribbean,South America
+153,153.0,Sudan,Sudan,SDN,Africa,Northern Africa
+154,154.0,Russia,Russia,RUS,Europe,Eastern Europe
+155,155.0,"Central African
+Republic",,,,
+156,156.0,Libya,Libya,LBY,Africa,Northern Africa
+157,157.0,Democratic Republic Of The Congo,Democratic Republic Of The Congo,COD,Africa,Middle Africa
+158,158.0,Somalia,Somalia,SOM,Africa,Eastern Africa
+159,159.0,Iraq,Iraq,IRQ,Central Asia and the middle east,Western Asia
+160,160.0,South Sudan,South Sudan,SSD,Africa,Eastern Africa
+161,161.0,Syria,Syria,SYR,Central Asia and the middle east,Western Asia
+162,162.0,Yemen,Yemen,YEM,Central Asia and the middle east,Western Asia
+163,163.0,Afghanistan,Afghanistan,AFG,"South, East and South-Eastern Asia",Southern Asia

@@ -319,12 +319,12 @@
 317,"Yemen, Democratic",YEM,Central Asia and the middle east,Western Asia
 318,Yemen,YEM,Central Asia and the middle east,Western Asia
 319,South Africa,ZAF,Africa,Southern Africa
-320,"Congo, Democratic Republic Of The",ZAR,Africa,Middle Africa
-321,Congo (Kinshasa),ZAR,Africa,Middle Africa
-322,"Congo, Drc",ZAR,Africa,Middle Africa
-323,Democratic Republic Of The Congo,ZAR,Africa,Middle Africa
-324,Republic Of The Congo,ZAR,Africa,Middle Africa
-325,"Congo, Dem. Rep.",ZAR,Africa,Middle Africa
-326,Congo_The Democratic Republic Of The,ZAR,Africa,Middle Africa
+320,"Congo, Democratic Republic Of The",COD,Africa,Middle Africa
+321,Congo (Kinshasa),COD,Africa,Middle Africa
+322,"Congo, Drc",COD,Africa,Middle Africa
+323,Democratic Republic Of The Congo,COD,Africa,Middle Africa
+324,Republic Of The Congo,COG,Africa,Middle Africa
+325,"Congo, Dem. Rep.",COD,Africa,Middle Africa
+326,Congo_The Democratic Republic Of The,COD,Africa,Middle Africa
 327,Zambia,ZMB,Africa,Eastern Africa
 328,Zimbabwe,ZWE,Africa,Eastern Africa

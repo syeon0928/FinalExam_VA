@@ -1,260 +1,260 @@
-,Country,variable,value
+,Country,Number,Official Language
 0,Afghanistan,1,Dari Persian
-1,Albania,1,Albanian
-2,Algeria,1,Arabic
-3,Andorra,1,Catalã¡N
-4,Angola,1,Portuguese
-5,Antigua And Barbuda,1,English
-6,Argentina,1,Spanish
-7,Armenia,1,Armenian
-8,Australia,1,English
-9,Austria,1,German
-10,Azerbaijan,1,Azerbaijani Turkic
-11,Bahamas,1,English
-12,Bahrain,1,Arabic
-13,Bangladesh,1,Bangla
-14,Barbados,1,English
-15,Belarus,1,Belorussian (White Russian)
-16,Belgium,1,Dutch
-17,Belize,1,English
-18,Benin,1,French
-19,Bhutan,1,Dzongkha
-20,Bolivia,1,Spanish
-21,Bosnia And Herzegovina,1,Bosnian
-22,Botswana,1,English
-23,Brazil,1,Portuguese
-24,Brunei,1,Malay
-25,Bulgaria,1,Bulgarian
-26,Burkina Faso,1,French
-27,Burundi,1,Kirundi
-28,Cambodia,1,Khmer
-29,Cameroon,1,French
-30,Canada,1,English
-31,Cape Verde,1,Portuguese
-32,Central African Republic,1,French
-33,Chad,1,French
-34,Chile,1,Spanish
-35,China,1,Mandarin
-36,Colombia,1,Spanish
-37,Comoros,1,Arabic
-38,"Congo, Democratic Republic Of The",1,French
-39,"Congo, Republic Of",1,French
-40,Costa Rica,1,Spanish
-41,CãÂ´Te D'Ivoire,1,French
-42,Croatia,1,Croatian
-43,Cuba,1,Spanish
-44,Cyprus,1,Greek
-45,Czech Republic,1,Czech
-46,Denmark,1,Danish
-47,Djibouti,1,French
-48,Dominica,1,English
-49,Dominican Republic,1,Spanish
-50,East Timor,1,Tetum
-51,Ecuador,1,Spanish
-52,Egypt,1,Arabic
-53,El Salvador,1,Spanish
-54,Equatorial Guinea,1,Spanish
-55,Eritrea,1,Afar
-56,Estonia,1,Estonian
-57,Ethiopia,1,Amharic
-58,Fiji,1,English
-59,Finland,1,Finnish
-60,France,1,French
-61,Gabon,1,French
-62,Gambia,1,English
-63,Georgia,1,Georgian
-64,Germany,1,German
-65,Ghana,1,English
-66,Greece,1,Greek
-67,Grenada,1,English
-68,Guatemala,1,Spanish
-69,Guinea,1,French
-70,Guinea-Bissau,1,Portuguese
-71,Guyana,1,English
-72,Haiti,1,Creole
-73,Honduras,1,Spanish
-74,Hungary,1,Magyar (Hungarian)
-75,Iceland,1,Icelandic
-76,India,1,Hindi
-77,Indonesia,1,Bahasa Indonesia
-78,Iran,1,Persian
-79,Iraq,1,Arabic
-80,Ireland,1,English
-81,Israel,1,Hebrew
-82,Italy,1,Italian
-83,Jamaica,1,English
-84,Japan,1,Japanese
-85,Jordan,1,Arabic
-86,Kazakhstan,1,Kazak
-87,Kenya,1,English
-88,Kiribati,1,English
-89,"Korea, North",1,Korean
-90,"Korea, South",1,Korean
-91,Kosovo,1,Albanian
-92,Kuwait,1,Arabic
-93,Kyrgyzstan,1,Kyrgyz
-94,Laos,1,Lao
-95,Latvia,1,Latvian
-96,Lebanon,1,Arabic
-97,Lesotho,1,English
-98,Liberia,1,English
-99,Libya,1,Arabic
-100,Liechtenstein,1,German
-101,Lithuania,1,Lithuanian
-102,Luxembourg,1,Luxermbourgish (National) French
-103,Macedonia,1,Macedonian
-104,Madagascar,1,Malagasy
-105,Malawi,1,Chichewa
-106,Malaysia,1,Bahasa Melayu
-107,Maldives,1,Maldivian Dhivehi
-108,Mali,1,French
-109,Malta,1,Maltese
-110,Marshall Islands,1,Marshallese
-111,Mauritania,1,Hassaniya Arabic
-112,Mauritius,1,English
-113,Mexico,1,Spanish
-114,Micronesia,1,English
-115,Moldova,1,Moldovan
-116,Monaco,1,French
-117,Mongolia,1,Mongolian
-118,Montenegro,1,Serbian/Montenegrin
-119,Morocco,1,Arabic
-120,Mozambique,1,Portuguese
-121,Myanmar,1,Burmese
-122,Namibia,1,English
-123,Nauru,1,Nauruan
-124,Nepal,1,Nepali
-125,Netherlands,1,Dutch
-126,New Zealand,1,English
-127,Nicaragua,1,Spanish
-128,Niger,1,French
-129,Nigeria,1,English
-130,Norway,1,BokmãÂ¥L Norwegian
-131,Oman,1,Arabic
-132,Pakistan,1,Urdu
-133,Palau,1,Palauan
-134,Palestinian State (Proposed),1,Arabic
-135,Panama,1,Spanish
-136,Papua New Guinea,1,Tok Pisin (Melanesian Pidgin
-137,Paraguay,1,Spanish
-138,Peru,1,Spanish
-139,Philippines,1,Filipino
-140,Poland,1,Polish  ()
-141,Portugal,1,Portuguese
-142,Qatar,1,Arabic
-143,Romania,1,Romanian
-144,Russia,1,Russian
-145,Rwanda,1,Kinyarwanda
-146,St. Kitts And Nevis,1,English
-147,St. Lucia,1,English
-148,St. Vincent And The Grenadines,1,English
-149,Samoa,1,Samoan
-150,San Marino,1,Italian
-151,Sã£O Tomã© E Princã­Pe,1,Portuguese
-152,Saudi Arabia,1,Arabic
-153,Senegal,1,French
-154,Serbia,1,Serbian
-155,Seychelles,1,Seselwa Creole
-156,Sierra Leone,1,English
-157,Singapore,1,Mandarin
-158,Slovakia,1,Slovak
-159,Slovenia,1,Slovenian
-160,Solomon Islands,1,English Ã¢ÂÂ
-161,Somalia,1,Somali
-162,South Africa,1,Isizulu
-163,South Sudan,1,English
-164,Spain,1,Castilian Spanish
-165,Sri Lanka,1,Sinhala
-166,Sudan,1,Arabic
-167,Suriname,1,Dutch
-168,Swaziland,1,English
-169,Sweden,1,Swedish
-170,Switzerland,1,German
-171,Syria,1,Arabic
-172,Taiwan,1,Chinese
-173,Tajikistan,1,Tajik
-174,Tanzania,1,Swahili
-175,Thailand,1,Thai (Siamese)
-176,Togo,1,French
-177,Tonga,1,Tongan (An Austronesian Language)
-178,Trinidad And Tobago,1,English
-179,Tunisia,1,Arabic
-180,Turkey,1,Turkish
-181,Turkmenistan,1,Turkmen
-182,Tuvalu,1,Tuvaluan
-183,Uganda,1,English
-184,Ukraine,1,Ukrainian
-185,United Arab Emirates,1,Arabic
-186,United Kingdom,1,English
-187,United States,1,English
-188,Uruguay,1,Spanish
-189,Uzbekistan,1,Uzbek
-190,Vanuatu,1,Bislama
-191,Vatican City (Holy See),1,Italian
-192,Venezuela,1,Spanish
-193,Vietnam,1,Vietnamese
-194,Western Sahara (Proposed State),1,Hassaniya Arabic
-195,Yemen,1,Arabic
-196,Zambia,1,English
-197,Zimbabwe,1,English
-198,Afghanistan,2,Pashtu
-214,Belgium,2,French
-218,Bolivia,2,Quechua
-225,Burundi,2,French
-227,Cameroon,2,English
-228,Canada,2,French
-231,Chad,2,Arabic
-233,China,2,Cantonese
-235,Comoros,2,French
-242,Cyprus,2,Turkish
-245,Djibouti,2,Arabic
-248,East Timor,2,Portuguese
-252,Equatorial Guinea,2,French
-257,Finland,2,Swedish
-266,Guatemala,2,Amerindian Languages
-270,Haiti,2,French
-274,India,2,English
-278,Ireland,2,Irish
-291,Kyrgyzstan,2,Russian
-295,Lesotho,2,Sesotho
-301,Macedonia,2,Albanian
-302,Madagascar,2,French
-307,Malta,2,English
-323,Netherlands,2,Frisian
-324,New Zealand,2,Maori
-328,Norway,2,Nynorsk Norwegian
-330,Pakistan,2,English
-331,Palau,2,English
-335,Paraguay,2,GuaranãÂ­
-336,Peru,2,QuãÂ©Chua
-337,Philippines,2,English
-343,Rwanda,2,French
-353,Seychelles,2,English
-355,Singapore,2,English
-366,Swaziland,2,Siswati
-368,Switzerland,2,French
-372,Tanzania,2,English
-412,Belgium,3,German Less Than
-416,Bolivia,3,Aymara
-472,India,3,Bengali
-529,Palau,3,Sonsoralese
-541,Rwanda,3,
-551,Seychelles,3,French
-553,Singapore,3,Malay
-566,Switzerland,3,Italian
-670,India,4,Gujarati
-727,Palau,4,Tobi
-739,Rwanda,4,English
-868,India,5,Kashmiri
-925,Palau,5,Angaur
-1066,India,6,Malayalam
-1264,India,7,Marathi
-1462,India,8,Oriya
-1660,India,9,Punjabi
-1858,India,10,Tamil
-2056,India,11,Telugu
-2254,India,12,Urdu
-2452,India,13,Kannada
-2650,India,14,Assamese
-2848,India,15,Sanskrit
-3046,India,16,Sindhi
+1,Afghanistan,2,Pashtu
+2,Albania,1,Albanian
+3,Algeria,1,Arabic
+4,Andorra,1,Catalã¡N
+5,Angola,1,Portuguese
+6,Antigua And Barbuda,1,English
+7,Argentina,1,Spanish
+8,Armenia,1,Armenian
+9,Australia,1,English
+10,Austria,1,German
+11,Azerbaijan,1,Azerbaijani Turkic
+12,Bahamas,1,English
+13,Bahrain,1,Arabic
+14,Bangladesh,1,Bangla
+15,Barbados,1,English
+16,Belarus,1,Belorussian (White Russian)
+17,Belgium,1,Dutch
+18,Belgium,2,French
+19,Belgium,3,German Less Than
+20,Belize,1,English
+21,Benin,1,French
+22,Bhutan,1,Dzongkha
+23,Bolivia,1,Spanish
+24,Bolivia,2,Quechua
+25,Bolivia,3,Aymara
+26,Bosnia And Herzegovina,1,Bosnian
+27,Botswana,1,English
+28,Brazil,1,Portuguese
+29,Brunei,1,Malay
+30,Bulgaria,1,Bulgarian
+31,Burkina Faso,1,French
+32,Burundi,1,Kirundi
+33,Burundi,2,French
+34,Cambodia,1,Khmer
+35,Cameroon,1,French
+36,Cameroon,2,English
+37,Canada,1,English
+38,Canada,2,French
+39,Cape Verde,1,Portuguese
+40,Central African Republic,1,French
+41,Chad,1,French
+42,Chad,2,Arabic
+43,Chile,1,Spanish
+44,China,1,Mandarin
+45,China,2,Cantonese
+46,Colombia,1,Spanish
+47,Comoros,1,Arabic
+48,Comoros,2,French
+49,"Congo, Democratic Republic Of The",1,French
+50,"Congo, Republic Of",1,French
+51,Costa Rica,1,Spanish
+52,Croatia,1,Croatian
+53,Cuba,1,Spanish
+54,Cyprus,1,Greek
+55,Cyprus,2,Turkish
+56,Czech Republic,1,Czech
+57,CãÂ´Te D'Ivoire,1,French
+58,Denmark,1,Danish
+59,Djibouti,1,French
+60,Djibouti,2,Arabic
+61,Dominica,1,English
+62,Dominican Republic,1,Spanish
+63,East Timor,1,Tetum
+64,East Timor,2,Portuguese
+65,Ecuador,1,Spanish
+66,Egypt,1,Arabic
+67,El Salvador,1,Spanish
+68,Equatorial Guinea,1,Spanish
+69,Equatorial Guinea,2,French
+70,Eritrea,1,Afar
+71,Estonia,1,Estonian
+72,Ethiopia,1,Amharic
+73,Fiji,1,English
+74,Finland,1,Finnish
+75,Finland,2,Swedish
+76,France,1,French
+77,Gabon,1,French
+78,Gambia,1,English
+79,Georgia,1,Georgian
+80,Germany,1,German
+81,Ghana,1,English
+82,Greece,1,Greek
+83,Grenada,1,English
+84,Guatemala,1,Spanish
+85,Guatemala,2,Amerindian Languages
+86,Guinea,1,French
+87,Guinea-Bissau,1,Portuguese
+88,Guyana,1,English
+89,Haiti,1,Creole
+90,Haiti,2,French
+91,Honduras,1,Spanish
+92,Hungary,1,Magyar (Hungarian)
+93,Iceland,1,Icelandic
+94,India,1,Hindi
+95,India,2,English
+96,India,3,Bengali
+97,India,4,Gujarati
+98,India,5,Kashmiri
+99,India,6,Malayalam
+100,India,7,Marathi
+101,India,8,Oriya
+102,India,9,Punjabi
+103,India,10,Tamil
+104,India,11,Telugu
+105,India,12,Urdu
+106,India,13,Kannada
+107,India,14,Assamese
+108,India,15,Sanskrit
+109,India,16,Sindhi
+110,Indonesia,1,Bahasa Indonesia
+111,Iran,1,Persian
+112,Iraq,1,Arabic
+113,Ireland,1,English
+114,Ireland,2,Irish
+115,Israel,1,Hebrew
+116,Italy,1,Italian
+117,Jamaica,1,English
+118,Japan,1,Japanese
+119,Jordan,1,Arabic
+120,Kazakhstan,1,Kazak
+121,Kenya,1,English
+122,Kiribati,1,English
+123,"Korea, North",1,Korean
+124,"Korea, South",1,Korean
+125,Kosovo,1,Albanian
+126,Kuwait,1,Arabic
+127,Kyrgyzstan,1,Kyrgyz
+128,Kyrgyzstan,2,Russian
+129,Laos,1,Lao
+130,Latvia,1,Latvian
+131,Lebanon,1,Arabic
+132,Lesotho,1,English
+133,Lesotho,2,Sesotho
+134,Liberia,1,English
+135,Libya,1,Arabic
+136,Liechtenstein,1,German
+137,Lithuania,1,Lithuanian
+138,Luxembourg,1,Luxermbourgish (National) French
+139,Macedonia,1,Macedonian
+140,Macedonia,2,Albanian
+141,Madagascar,1,Malagasy
+142,Madagascar,2,French
+143,Malawi,1,Chichewa
+144,Malaysia,1,Bahasa Melayu
+145,Maldives,1,Maldivian Dhivehi
+146,Mali,1,French
+147,Malta,1,Maltese
+148,Malta,2,English
+149,Marshall Islands,1,Marshallese
+150,Mauritania,1,Hassaniya Arabic
+151,Mauritius,1,English
+152,Mexico,1,Spanish
+153,Micronesia,1,English
+154,Moldova,1,Moldovan
+155,Monaco,1,French
+156,Mongolia,1,Mongolian
+157,Montenegro,1,Serbian/Montenegrin
+158,Morocco,1,Arabic
+159,Mozambique,1,Portuguese
+160,Myanmar,1,Burmese
+161,Namibia,1,English
+162,Nauru,1,Nauruan
+163,Nepal,1,Nepali
+164,Netherlands,1,Dutch
+165,Netherlands,2,Frisian
+166,New Zealand,1,English
+167,New Zealand,2,Maori
+168,Nicaragua,1,Spanish
+169,Niger,1,French
+170,Nigeria,1,English
+171,Norway,1,BokmãÂ¥L Norwegian
+172,Norway,2,Nynorsk Norwegian
+173,Oman,1,Arabic
+174,Pakistan,1,Urdu
+175,Pakistan,2,English
+176,Palau,1,Palauan
+177,Palau,2,English
+178,Palau,3,Sonsoralese
+179,Palau,4,Tobi
+180,Palau,5,Angaur
+181,Palestinian State (Proposed),1,Arabic
+182,Panama,1,Spanish
+183,Papua New Guinea,1,Tok Pisin (Melanesian Pidgin
+184,Paraguay,1,Spanish
+185,Paraguay,2,GuaranãÂ­
+186,Peru,1,Spanish
+187,Peru,2,QuãÂ©Chua
+188,Philippines,1,Filipino
+189,Philippines,2,English
+190,Poland,1,Polish  ()
+191,Portugal,1,Portuguese
+192,Qatar,1,Arabic
+193,Romania,1,Romanian
+194,Russia,1,Russian
+195,Rwanda,1,Kinyarwanda
+196,Rwanda,2,French
+197,Rwanda,3,
+198,Rwanda,4,English
+199,Samoa,1,Samoan
+200,San Marino,1,Italian
+201,Saudi Arabia,1,Arabic
+202,Senegal,1,French
+203,Serbia,1,Serbian
+204,Seychelles,1,Seselwa Creole
+205,Seychelles,2,English
+206,Seychelles,3,French
+207,Sierra Leone,1,English
+208,Singapore,1,Mandarin
+209,Singapore,2,English
+210,Singapore,3,Malay
+211,Slovakia,1,Slovak
+212,Slovenia,1,Slovenian
+213,Solomon Islands,1,English Ã¢ÂÂ
+214,Somalia,1,Somali
+215,South Africa,1,Isizulu
+216,South Sudan,1,English
+217,Spain,1,Castilian Spanish
+218,Sri Lanka,1,Sinhala
+219,St. Kitts And Nevis,1,English
+220,St. Lucia,1,English
+221,St. Vincent And The Grenadines,1,English
+222,Sudan,1,Arabic
+223,Suriname,1,Dutch
+224,Swaziland,1,English
+225,Swaziland,2,Siswati
+226,Sweden,1,Swedish
+227,Switzerland,1,German
+228,Switzerland,2,French
+229,Switzerland,3,Italian
+230,Syria,1,Arabic
+231,Sã£O Tomã© E Princã­Pe,1,Portuguese
+232,Taiwan,1,Chinese
+233,Tajikistan,1,Tajik
+234,Tanzania,1,Swahili
+235,Tanzania,2,English
+236,Thailand,1,Thai (Siamese)
+237,Togo,1,French
+238,Tonga,1,Tongan (An Austronesian Language)
+239,Trinidad And Tobago,1,English
+240,Tunisia,1,Arabic
+241,Turkey,1,Turkish
+242,Turkmenistan,1,Turkmen
+243,Tuvalu,1,Tuvaluan
+244,Uganda,1,English
+245,Ukraine,1,Ukrainian
+246,United Arab Emirates,1,Arabic
+247,United Kingdom,1,English
+248,United States,1,English
+249,Uruguay,1,Spanish
+250,Uzbekistan,1,Uzbek
+251,Vanuatu,1,Bislama
+252,Vatican City (Holy See),1,Italian
+253,Venezuela,1,Spanish
+254,Vietnam,1,Vietnamese
+255,Western Sahara (Proposed State),1,Hassaniya Arabic
+256,Yemen,1,Arabic
+257,Zambia,1,English
+258,Zimbabwe,1,English
