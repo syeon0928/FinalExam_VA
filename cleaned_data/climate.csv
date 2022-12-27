@@ -1,287 +1,210 @@
-,Country,Climate,Climate Zone
-0,Afghanistan,Arid To Semiarid; Cold Winters And Hot Summers,Tropical
-1,Akrotiri,"Temperate; Mediterranean With Hot, Dry Summers And Cool Winters",Temperate
-2,Albania,"Mild Temperate; Cool, Cloudy, Wet Winters; Hot, Clear, Dry Summers; Interior Is Cooler And Wetter",Temperate
-3,Algeria,"Arid To Semiarid; Mild, Wet Winters With Hot, Dry Summers Along Coast; Drier With Cold Winters And Hot Summers On High Plateau; Sirocco Is A Hot, Dust/Sand-Laden Wind Especially Common In Summer",Tropical
-4,American Samoa,"Tropical Marine, Moderated By Southeast Trade Winds; Annual Rainfall Averages About 3 M; Rainy Season (November To April), Dry Season (May To October); Little Seasonal Temperature Variation",Tropical
-5,Andorra,"Temperate; Snowy, Cold Winters And Warm, Dry Summers",Temperate
-6,Angola,"Semiarid In South And Along Coast To Luanda; North Has Cool, Dry Season (May To October) And Hot, Rainy Season (November To April)",Tropical
-7,Anguilla,Tropical; Moderated By Northeast Trade Winds,Tropical
-8,Antarctica,"Severe Low Temperatures Vary With Latitude, Elevation, And Distance From The Ocean; East Antarctica Is Colder Than West Antarctica Because Of Its Higher Elevation; Antarctic Peninsula Has The Most Moderate Climate; Higher Temperatures Occur In January Along The Coast And Average Slightly Below Freezing",Polar
-9,Antigua And Barbuda,Tropical Maritime; Little Seasonal Temperature Variation,Tropical
-10,Arctic Ocean,"Polar Climate Characterized By Persistent Cold And Relatively Narrow Annual Temperature Ranges; Winters Characterized By Continuous Darkness, Cold And Stable Weather Conditions, And Clear Skies; Summers Characterized By Continuous Daylight, Damp And Foggy Weather, And Weak Cyclones With Rain Or Snow",Polar
-11,Argentina,Mostly Temperate; Arid In Southeast; Subantarctic In Southwest,Tropical
-12,Armenia,"Highland Continental, Hot Summers, Cold Winters",Temperate
-13,Aruba,Tropical Marine; Little Seasonal Temperature Variation,Tropical
-14,Ashmore And Cartier Islands,Tropical,Tropical
-15,Atlantic Ocean,"Tropical Cyclones (Hurricanes) Develop Off The Coast Of Africa Near Cape Verde And Move Westward Into The Caribbean Sea; Hurricanes Can Occur From May To December, But Are Most Frequent From August To November",Tropical
-16,Australia,Generally Arid To Semiarid; Temperate In South And East; Tropical In North,Tropical
-17,Austria,"Temperate; Continental, Cloudy; Cold Winters With Frequent Rain And Some Snow In Lowlands And Snow In Mountains; Moderate Summers With Occasional Showers",Temperate
-18,Azerbaijan,"Dry, Semiarid Steppe",Tropical
-19,Bahrain,"Arid; Mild, Pleasant Winters; Very Hot, Humid Summers",Tropical
-20,Baker Island,"Equatorial; Scant Rainfall, Constant Wind, Burning Sun",Equatorial
-21,Bangladesh,"Tropical; Mild Winter (October To March); Hot, Humid Summer (March To June); Humid, Warm Rainy Monsoon (June To October)",Tropical
-22,Barbados,Tropical; Rainy Season (June To October),Tropical
-23,Bassas Da India,Tropical,Tropical
-24,Belarus,"Cold Winters, Cool And Moist Summers; Transitional Between Continental And Maritime",Temperate
-25,Belgium,"Temperate; Mild Winters, Cool Summers; Rainy, Humid, Cloudy",Temperate
-26,Belize,Tropical; Very Hot And Humid; Rainy Season (May To November); Dry Season (February To May),Tropical
-27,Benin,"Tropical; Hot, Humid In South; Semiarid In North",Tropical
-28,Bermuda,"Subtropical; Mild, Humid; Gales, Strong Winds Common In Winter",Subtropical
-29,Bhutan,Varies; Tropical In Southern Plains; Cool Winters And Hot Summers In Central Valleys; Severe Winters And Cool Summers In Himalayas,Tropical
-30,Bolivia,Varies With Altitude; Humid And Tropical To Cold And Semiarid,Tropical
-31,Bosnia And Herzegovina,"Hot Summers And Cold Winters; Areas Of High Elevation Have Short, Cool Summers And Long, Severe Winters; Mild, Rainy Winters Along Coast",Temperate
-32,Botswana,Semiarid; Warm Winters And Hot Summers,Tropical
-33,Bouvet Island,Antarctic,Polar
-34,Brazil,"Mostly Tropical, But Temperate In South",Tropical
-35,British Indian Ocean Territory,"Tropical Marine; Hot, Humid, Moderated By Trade Winds",Tropical
-36,British Virgin Islands,Subtropical; Humid; Temperatures Moderated By Trade Winds,Subtropical
-37,Brunei,"Tropical; Hot, Humid, Rainy",Tropical
-38,Bulgaria,"Temperate; Cold, Damp Winters; Hot, Dry Summers",Temperate
-39,Burkina Faso,"Tropical; Warm, Dry Winters; Hot, Wet Summers",Tropical
-40,Burma,"Tropical Monsoon; Cloudy, Rainy, Hot, Humid Summers (Southwest Monsoon, June To September); Less Cloudy, Scant Rainfall, Mild Temperatures, Lower Humidity During Winter (Northeast Monsoon, December To April)",Tropical
-41,Burundi,"Equatorial; High Plateau With Considerable Altitude Variation (772 M To 2,670 M Above Sea Level); Average Annual Temperature Varies With Altitude From 23 To 17 Degrees Centigrade But Is Generally Moderate As The Average Altitude Is About 1,700 M; Average Annual Rainfall Is About 150 Cm; Two Wet Seasons (February To May And September To November), And Two Dry Seasons (June To August And December To January)",Equatorial
-42,Cambodia,"Tropical; Rainy, Monsoon Season (May To November); Dry Season (December To April); Little Seasonal Temperature Variation",Tropical
-43,Cameroon,"Varies With Terrain, From Tropical Along Coast To Semiarid And Hot In North",Tropical
-44,Canada,Varies From Temperate In South To Subarctic And Arctic In North,Temperate
-45,Cape Verde,"Temperate; Warm, Dry Summer; Precipitation Meager And Erratic",Temperate
-46,Cayman Islands,"Tropical Marine; Warm, Rainy Summers (May To October) And Cool, Relatively Dry Winters (November To April)",Tropical
-47,Central African Republic,"Tropical; Hot, Dry Winters; Mild To Hot, Wet Summers",Tropical
-48,Chad,"Tropical In South, Desert In North",Tropical
-49,Chile,Temperate; Desert In North; Mediterranean In Central Region; Cool And Damp In South,Tropical
-50,China,Extremely Diverse; Tropical In South To Subarctic In North,Tropical
-51,Christmas Island,Tropical With A Wet Season (December To April) And Dry Season; Heat And Humidity Moderated By Trade Winds,Tropical
-52,Clipperton Island,"Tropical; Humid, Average Temperature 20-32 Degrees C, Wet Season (May To October)",Tropical
-53,Cocos (Keeling) Islandscocos,"Tropical With High Humidity, Moderated By The Southeast Trade Winds For About Nine Months Of The Year",Tropical
-54,Colombia,Tropical Along Coast And Eastern Plains; Cooler In Highlands,Tropical
-55,Comoros,Tropical Marine; Rainy Season (November To May),Tropical
-56,"Congo, Republic Of Thecongo",Tropical; Rainy Season (March To June); Dry Season (June To October); Persistent High Temperatures And Humidity; Particularly Enervating Climate Astride The Equator,Tropical
-57,Cook Islands,Tropical Oceanic; Moderated By Trade Winds; A Dry Season From April To November And A More Humid Season From December To March,Tropical
-58,Coral Sea Islands,Tropical,Tropical
-59,Costa Rica,Tropical And Subtropical; Dry Season (December To April); Rainy Season (May To November); Cooler In Highlands,Tropical
-60,Cote D'Ivoire,"Tropical Along Coast, Semiarid In Far North; Three Seasons - Warm And Dry (November To March), Hot And Dry (March To May), Hot And Wet (June To October)",Tropical
-61,Croatia,"Mediterranean And Continental; Continental Climate Predominant With Hot Summers And Cold Winters; Mild Winters, Dry Summers Along Coast",Temperate
-62,Cuba,Tropical; Moderated By Trade Winds; Dry Season (November To April); Rainy Season (May To October),Tropical
-63,Cyprus,"Temperate; Mediterranean With Hot, Dry Summers And Cool Winters",Temperate
-64,Czech Republic,"Temperate; Cool Summers; Cold, Cloudy, Humid Winters",Temperate
-65,Democratic Republic Of The Congo,"Tropical; Hot And Humid In Equatorial River Basin; Cooler And Drier In Southern Highlands; Cooler And Wetter In Eastern Highlands; North Of Equator - Wet Season (April To October), Dry Season (December To February); South Of Equator - Wet Season (November To March), Dry Season (April To October)",Tropical
-66,Denmark,"Temperate; Humid And Overcast; Mild, Windy Winters And Cool Summers",Temperate
-67,Dhekelia,"Temperate; Mediterranean With Hot, Dry Summers And Cool Winters",Temperate
-68,Djibouti,"Desert; Torrid, Dry",Tropical
-69,Dominica,Tropical; Moderated By Northeast Trade Winds; Heavy Rainfall,Tropical
-70,Dominican Republic,Tropical Maritime; Little Seasonal Temperature Variation; Seasonal Variation In Rainfall,Tropical
-71,East Timor,"Tropical; Hot, Humid; Distinct Rainy And Dry Seasons",Tropical
-72,Ecuador,"Tropical Along Coast, Becoming Cooler Inland At Higher Elevations; Tropical In Amazonian Jungle Lowlands",Tropical
-73,Egypt,"Desert; Hot, Dry Summers With Moderate Winters",Tropical
-74,El Salvador,Tropical; Rainy Season (May To October); Dry Season (November To April); Tropical On Coast; Temperate In Uplands,Tropical
-75,Equatorial Guinea,"Tropical; Always Hot, Humid",Tropical
-76,Eritrea,"Hot, Dry Desert Strip Along Red Sea Coast; Cooler And Wetter In The Central Highlands (Up To 61 Cm Of Rainfall Annually, Heaviest June To September); Semiarid In Western Hills And Lowlands",Tropical
-77,Estonia,"Maritime; Wet, Moderate Winters, Cool Summers",
-78,Ethiopia,Tropical Monsoon With Wide Topographic-Induced Variation,Tropical
-79,Europa Island,Tropical,Tropical
-80,European Union,Cold Temperate; Potentially Subarctic In The North To Temperate; Mild Wet Winters; Hot Dry Summers In The South,Temperate
-81,Falkland Islands (Islas Malvinas),"Cold Marine; Strong Westerly Winds, Cloudy, Humid; Rain Occurs On More Than Half Of Days In Year; Average Annual Rainfall Is 24 Inches In Stanley; Occasional Snow All Year, Except In January And February, But Typically Does Not Accumulate",
-82,Faroe Islands,"Mild Winters, Cool Summers; Usually Overcast; Foggy, Windy",
-83,Federated States Of Micronesia,"Tropical; Heavy Year-Round Rainfall, Especially In The Eastern Islands; Located On Southern Edge Of The Typhoon Belt With Occasionally Severe Damage",Tropical
-84,Fiji,Tropical Marine; Only Slight Seasonal Temperature Variation,Tropical
-85,Finland,"Cold Temperate; Potentially Subarctic But Comparatively Mild Because Of Moderating Influence Of The North Atlantic Current, Baltic Sea, And More Than 60,000 Lakes",Temperate
+,Country,Climate,Climate Zone,Iso3
+0,Afghanistan,Arid To Semiarid; Cold Winters And Hot Summers,Tropical,AFG
+2,Albania,"Mild Temperate; Cool, Cloudy, Wet Winters; Hot, Clear, Dry Summers; Interior Is Cooler And Wetter",Temperate,ALB
+3,Algeria,"Arid To Semiarid; Mild, Wet Winters With Hot, Dry Summers Along Coast; Drier With Cold Winters And Hot Summers On High Plateau; Sirocco Is A Hot, Dust/Sand-Laden Wind Especially Common In Summer",Tropical,DZA
+4,American Samoa,"Tropical Marine, Moderated By Southeast Trade Winds; Annual Rainfall Averages About 3 M; Rainy Season (November To April), Dry Season (May To October); Little Seasonal Temperature Variation",Tropical,ASM
+5,Andorra,"Temperate; Snowy, Cold Winters And Warm, Dry Summers",Temperate,ADO
+6,Angola,"Semiarid In South And Along Coast To Luanda; North Has Cool, Dry Season (May To October) And Hot, Rainy Season (November To April)",Tropical,AGO
+9,Antigua And Barbuda,Tropical Maritime; Little Seasonal Temperature Variation,Tropical,ATG
+11,Argentina,Mostly Temperate; Arid In Southeast; Subantarctic In Southwest,Tropical,ARG
+12,Armenia,"Highland Continental, Hot Summers, Cold Winters",Temperate,ARM
+13,Aruba,Tropical Marine; Little Seasonal Temperature Variation,Tropical,ABW
+16,Australia,Generally Arid To Semiarid; Temperate In South And East; Tropical In North,Tropical,AUS
+17,Austria,"Temperate; Continental, Cloudy; Cold Winters With Frequent Rain And Some Snow In Lowlands And Snow In Mountains; Moderate Summers With Occasional Showers",Temperate,AUT
+18,Azerbaijan,"Dry, Semiarid Steppe",Tropical,AZE
+19,Bahrain,"Arid; Mild, Pleasant Winters; Very Hot, Humid Summers",Tropical,BHR
+21,Bangladesh,"Tropical; Mild Winter (October To March); Hot, Humid Summer (March To June); Humid, Warm Rainy Monsoon (June To October)",Tropical,BGD
+22,Barbados,Tropical; Rainy Season (June To October),Tropical,BRB
+24,Belarus,"Cold Winters, Cool And Moist Summers; Transitional Between Continental And Maritime",Temperate,BLR
+25,Belgium,"Temperate; Mild Winters, Cool Summers; Rainy, Humid, Cloudy",Temperate,BEL
+26,Belize,Tropical; Very Hot And Humid; Rainy Season (May To November); Dry Season (February To May),Tropical,BLZ
+27,Benin,"Tropical; Hot, Humid In South; Semiarid In North",Tropical,BEN
+28,Bermuda,"Subtropical; Mild, Humid; Gales, Strong Winds Common In Winter",Subtropical,BMU
+29,Bhutan,Varies; Tropical In Southern Plains; Cool Winters And Hot Summers In Central Valleys; Severe Winters And Cool Summers In Himalayas,Tropical,BTN
+30,Bolivia,Varies With Altitude; Humid And Tropical To Cold And Semiarid,Tropical,BOL
+31,Bosnia And Herzegovina,"Hot Summers And Cold Winters; Areas Of High Elevation Have Short, Cool Summers And Long, Severe Winters; Mild, Rainy Winters Along Coast",Temperate,BIH
+32,Botswana,Semiarid; Warm Winters And Hot Summers,Tropical,BWA
+34,Brazil,"Mostly Tropical, But Temperate In South",Tropical,BRA
+37,Brunei,"Tropical; Hot, Humid, Rainy",Tropical,BRN
+38,Bulgaria,"Temperate; Cold, Damp Winters; Hot, Dry Summers",Temperate,BGR
+39,Burkina Faso,"Tropical; Warm, Dry Winters; Hot, Wet Summers",Tropical,BFA
+41,Burundi,"Equatorial; High Plateau With Considerable Altitude Variation (772 M To 2,670 M Above Sea Level); Average Annual Temperature Varies With Altitude From 23 To 17 Degrees Centigrade But Is Generally Moderate As The Average Altitude Is About 1,700 M; Average Annual Rainfall Is About 150 Cm; Two Wet Seasons (February To May And September To November), And Two Dry Seasons (June To August And December To January)",Equatorial,BDI
+42,Cambodia,"Tropical; Rainy, Monsoon Season (May To November); Dry Season (December To April); Little Seasonal Temperature Variation",Tropical,KHM
+43,Cameroon,"Varies With Terrain, From Tropical Along Coast To Semiarid And Hot In North",Tropical,CMR
+44,Canada,Varies From Temperate In South To Subarctic And Arctic In North,Temperate,CAN
+45,Cape Verde,"Temperate; Warm, Dry Summer; Precipitation Meager And Erratic",Temperate,CPV
+46,Cayman Islands,"Tropical Marine; Warm, Rainy Summers (May To October) And Cool, Relatively Dry Winters (November To April)",Tropical,CYM
+47,Central African Republic,"Tropical; Hot, Dry Winters; Mild To Hot, Wet Summers",Tropical,CAF
+48,Chad,"Tropical In South, Desert In North",Tropical,TCD
+49,Chile,Temperate; Desert In North; Mediterranean In Central Region; Cool And Damp In South,Tropical,CHL
+50,China,Extremely Diverse; Tropical In South To Subarctic In North,Tropical,CHN
+54,Colombia,Tropical Along Coast And Eastern Plains; Cooler In Highlands,Tropical,COL
+55,Comoros,Tropical Marine; Rainy Season (November To May),Tropical,COM
+59,Costa Rica,Tropical And Subtropical; Dry Season (December To April); Rainy Season (May To November); Cooler In Highlands,Tropical,CRI
+60,Cote D'Ivoire,"Tropical Along Coast, Semiarid In Far North; Three Seasons - Warm And Dry (November To March), Hot And Dry (March To May), Hot And Wet (June To October)",Tropical,CIV
+61,Croatia,"Mediterranean And Continental; Continental Climate Predominant With Hot Summers And Cold Winters; Mild Winters, Dry Summers Along Coast",Temperate,HRV
+62,Cuba,Tropical; Moderated By Trade Winds; Dry Season (November To April); Rainy Season (May To October),Tropical,CUB
+63,Cyprus,"Temperate; Mediterranean With Hot, Dry Summers And Cool Winters",Temperate,CYP
+64,Czech Republic,"Temperate; Cool Summers; Cold, Cloudy, Humid Winters",Temperate,CZE
+65,Democratic Republic Of The Congo,"Tropical; Hot And Humid In Equatorial River Basin; Cooler And Drier In Southern Highlands; Cooler And Wetter In Eastern Highlands; North Of Equator - Wet Season (April To October), Dry Season (December To February); South Of Equator - Wet Season (November To March), Dry Season (April To October)",Tropical,COD
+66,Denmark,"Temperate; Humid And Overcast; Mild, Windy Winters And Cool Summers",Temperate,DNK
+68,Djibouti,"Desert; Torrid, Dry",Tropical,DJI
+69,Dominica,Tropical; Moderated By Northeast Trade Winds; Heavy Rainfall,Tropical,DMA
+70,Dominican Republic,Tropical Maritime; Little Seasonal Temperature Variation; Seasonal Variation In Rainfall,Tropical,DOM
+72,Ecuador,"Tropical Along Coast, Becoming Cooler Inland At Higher Elevations; Tropical In Amazonian Jungle Lowlands",Tropical,ECU
+73,Egypt,"Desert; Hot, Dry Summers With Moderate Winters",Tropical,EGY
+74,El Salvador,Tropical; Rainy Season (May To October); Dry Season (November To April); Tropical On Coast; Temperate In Uplands,Tropical,SLV
+75,Equatorial Guinea,"Tropical; Always Hot, Humid",Tropical,GNQ
+76,Eritrea,"Hot, Dry Desert Strip Along Red Sea Coast; Cooler And Wetter In The Central Highlands (Up To 61 Cm Of Rainfall Annually, Heaviest June To September); Semiarid In Western Hills And Lowlands",Tropical,ERI
+77,Estonia,"Maritime; Wet, Moderate Winters, Cool Summers",,EST
+78,Ethiopia,Tropical Monsoon With Wide Topographic-Induced Variation,Tropical,ETH
+82,Faroe Islands,"Mild Winters, Cool Summers; Usually Overcast; Foggy, Windy",,FRO
+84,Fiji,Tropical Marine; Only Slight Seasonal Temperature Variation,Tropical,FJI
+85,Finland,"Cold Temperate; Potentially Subarctic But Comparatively Mild Because Of Moderating Influence Of The North Atlantic Current, Baltic Sea, And More Than 60,000 Lakes",Temperate,FIN
 86,France,"Metropolitan France:Generally Cool Winters And Mild Summers, But Mild Winters And Hot Summers Along The Mediterranean; Occasional Strong, Cold, Dry, North-To-Northwesterly Wind Known As Mistral
 French Guiana: Tropical; Hot, Humid; Little Seasonal Temperature Variation
 Guadeloupe And Martinique: Subtropical Tempered By Trade Winds; Moderately High Humidity; Rainy Season (June To October); Vulnerable To Devastating Cyclones (Hurricanes) Every Eight Years On Average
 Mayotte: Tropical; Marine; Hot, Humid, Rainy Season During Northeastern Monsoon (November To May); Dry Season Is Cooler (May To November)
-Reunion: Tropical, But Temperature Moderates With Elevation; Cool And Dry (May To November), Hot And Rainy (November To April)",Tropical
-87,French Guiana,"Tropical; Hot, Humid; Little Seasonal Temperature Variation",Tropical
-88,French Polynesia,"Tropical, But Moderate",Tropical
-89,French Southern And Antarctic Lands,"Ile Amsterdam Et Ile Saint-Paul:Oceanic With Persistent Westerly Winds And High Humidity
-Iles Crozet: Windy, Cold, Wet, And Cloudy
-Iles Kerguelen: Oceanic, Cold, Overcast, Windy
-Iles Eparses: Tropical",Tropical
-90,Gabon,"Tropical; Always Hot, Humid",Tropical
-91,Gaza Strip,"Temperate, Mild Winters, Dry And Warm To Hot Summers",Temperate
-92,Georgia,Warm And Pleasant; Mediterranean-Like On Black Sea Coast,Subtropical
-93,Germany,"Temperate And Marine; Cool, Cloudy, Wet Winters And Summers; Occasional Warm Mountain (Foehn) Wind",Temperate
-94,Ghana,Tropical; Warm And Comparatively Dry Along Southeast Coast; Hot And Humid In Southwest; Hot And Dry In North,Tropical
-95,Gibraltar,Mediterranean With Mild Winters And Warm Summers,Subtropical
-96,Glorioso Islands,Tropical,Tropical
-97,Greece,"Temperate; Mild, Wet Winters; Hot, Dry Summers",Temperate
-98,Greenland,"Arctic To Subarctic; Cool Summers, Cold Winters",
-99,Grenada,Tropical; Tempered By Northeast Trade Winds,Tropical
-100,Guadeloupe,Subtropical Tempered By Trade Winds; Moderately High Humidity,Subtropical
-101,Guam,"Tropical Marine; Generally Warm And Humid, Moderated By Northeast Trade Winds; Dry Season (January To June), Rainy Season (July To December); Little Seasonal Temperature Variation",Tropical
-102,Guatemala,"Tropical; Hot, Humid In Lowlands; Cooler In Highlands",Tropical
-103,Guernsey,Temperate With Mild Winters And Cool Summers; About 50% Of Days Are Overcast,Temperate
-104,Guinea,Generally Hot And Humid; Monsoonal-Type Rainy Season (June To November) With Southwesterly Winds; Dry Season (December To May) With Northeasterly Harmattan Winds,
-105,Guinea-Bissau,Tropical; Generally Hot And Humid; Monsoonal-Type Rainy Season (June To November) With Southwesterly Winds; Dry Season (December To May) With Northeasterly Harmattan Winds,Tropical
-106,Guyana,"Tropical; Hot, Humid, Moderated By Northeast Trade Winds; Two Rainy Seasons (May To August, November To January)",Tropical
-107,Haiti,Tropical; Semiarid Where Mountains In East Cut Off Trade Winds,Tropical
-108,Heard Island And Mcdonald Islands,Antarctic,Polar
-109,Holy See (Vatican City),"Temperate; Mild, Rainy Winters (September To May) With Hot, Dry Summers (May To September)",Temperate
-110,Honduras,"Subtropical In Lowlands, Temperate In Mountains",Temperate
-111,Hong Kong,"Subtropical Monsoon; Cool And Humid In Winter, Hot And Rainy From Spring Through Summer, Warm And Sunny In Fall",Subtropical
-112,Howland Island,"Equatorial; Scant Rainfall, Constant Wind, Burning Sun",Equatorial
-113,Hungary,"Temperate; Cold, Cloudy, Humid Winters; Warm Summers",Temperate
-114,Iceland,"Temperate; Moderated By North Atlantic Current; Mild, Windy Winters; Damp, Cool Summers",Temperate
-115,India,Varies From Tropical Monsoon In South To Temperate In North,Tropical
-116,Indian Ocean,"Northeast Monsoon (December To April), Southwest Monsoon (June To October); Tropical Cyclones Occur During May/June And October/November In The Northern Indian Ocean And January/February In The Southern Indian Ocean",Tropical
-117,Indonesia,"Tropical; Hot, Humid; More Moderate In Highlands",Tropical
-118,Iran,"Mostly Arid Or Semiarid, Subtropical Along Caspian Coast",Tropical
-119,Iraq,"Mostly Desert; Mild To Cool Winters With Dry, Hot, Cloudless Summers; Northern Mountainous Regions Along Iranian And Turkish Borders Experience Cold Winters With Occasionally Heavy Snows That Melt In Early Spring, Sometimes Causing Extensive Flooding In Central And Southern Iraq",Tropical
-120,Ireland,"Temperate Maritime; Modified By North Atlantic Current; Mild Winters, Cool Summers; Consistently Humid; Overcast About Half The Time",Temperate
-121,Isle Of Man,Temperate; Cool Summers And Mild Winters; Overcast About A Third Of The Time,Temperate
-122,Israel,Temperate; Hot And Dry In Southern And Eastern Desert Areas,Tropical
-123,Italy,"Predominantly Mediterranean; Alpine In Far North; Hot, Dry In South",Subtropical
-124,Jamaica,"Tropical; Hot, Humid; Temperate Interior",Tropical
-125,Jan Mayen,Arctic Maritime With Frequent Storms And Persistent Fog,
-126,Japan,Varies From Tropical In South To Cool Temperate In North,Tropical
-127,Jarvis Island,"Tropical; Scant Rainfall, Constant Wind, Burning Sun",Tropical
-128,Jersey,Temperate; Mild Winters And Cool Summers,Temperate
-129,Johnston Atoll,"Tropical, But Generally Dry; Consistent Northeast Trade Winds With Little Seasonal Temperature Variation",Tropical
-130,Jordan,Mostly Arid Desert; Rainy Season In West (November To April),Tropical
-131,Juan De Nova Island,Tropical,Tropical
-132,Kazakhstan,"Continental, Cold Winters And Hot Summers, Arid And Semiarid",Tropical
-133,Kenya,Varies From Tropical Along Coast To Arid In Interior,Tropical
-134,Kingman Reef,Tropical; Moderated By Prevailing Winds,Tropical
-135,Kiribati,"Tropical; Marine, Hot And Humid, Moderated By Trade Winds",Tropical
-136,Kosovo,"Influenced By Continental Air Masses Resulting In Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns; Mediterranean And Alpine Influences Create Regional Variation; Maximum Rainfall Between October And December",Temperate
-137,Kuwait,"Dry Desert; Intensely Hot Summers; Short, Cool Winters",Tropical
-138,Kyrgyzstan,Dry Continental To Polar In High Tien Shan Mountains; Subtropical In Southwest (Fergana Valley); Temperate In Northern Foothill Zone,Temperate
-139,Laos,Tropical Monsoon; Rainy Season (May To November); Dry Season (December To April),Tropical
-140,Latvia,"Maritime; Wet, Moderate Winters",
-141,Lebanon,"Mediterranean; Mild To Cool, Wet Winters With Hot, Dry Summers; Lebanon Mountains Experience Heavy Winter Snows",Subtropical
-142,Lesotho,"Temperate; Cool To Cold, Dry Winters; Hot, Wet Summers",Temperate
-143,Liberia,"Tropical; Hot, Humid; Dry Winters With Hot Days And Cool To Cold Nights; Wet, Cloudy Summers With Frequent Heavy Showers",Tropical
-144,Libya,"Mediterranean Along Coast; Dry, Extreme Desert Interior",Tropical
-145,Liechtenstein,"Continental; Cold, Cloudy Winters With Frequent Snow Or Rain; Cool To Moderately Warm, Cloudy, Humid Summers",Temperate
-146,Lithuania,"Transitional, Between Maritime And Continental; Wet, Moderate Winters And Summers",Temperate
-147,Luxembourg,"Modified Continental With Mild Winters, Cool Summers",Temperate
-148,Macau,"Subtropical; Marine With Cool Winters, Warm Summers",Subtropical
-149,Madagascar,"Tropical Along Coast, Temperate Inland, Arid In South",Tropical
-150,Malawi,Sub-Tropical; Rainy Season (November To May); Dry Season (May To November),Tropical
-151,Malaysia,Tropical; Annual Southwest (April To October) And Northeast (October To February) Monsoons,Tropical
-152,Maldives,"Tropical; Hot, Humid; Dry, Northeast Monsoon (November To March); Rainy, Southwest Monsoon (June To August)",Tropical
-153,Mali,"Subtropical To Arid; Hot And Dry (February To June); Rainy, Humid, And Mild (June To November); Cool And Dry (November To February)",Tropical
-154,Malta,"Mediterranean; Mild, Rainy Winters; Hot, Dry Summers",Subtropical
-155,Marshall Islands,Tropical; Hot And Humid; Wet Season May To November; Islands Border Typhoon Belt,Tropical
-156,Martinique,Tropical; Moderated By Trade Winds; Rainy Season (June To October); Vulnerable To Devastating Cyclones (Hurricanes) Every Eight Years On Average; Average Temperature 17.3 Degrees C; Humid,Tropical
-157,Mauritania,"Desert; Constantly Hot, Dry, Dusty",Tropical
-158,Mauritius,"Tropical, Modified By Southeast Trade Winds; Warm, Dry Winter (May To November); Hot, Wet, Humid Summer (November To May)",Tropical
-159,Mayotte,"Tropical; Marine; Hot, Humid, Rainy Season During Northeastern Monsoon (November To May); Dry Season Is Cooler (May To November)",Tropical
-160,Mexico,Varies From Tropical To Desert,Tropical
-161,Midway Islands,Subtropical; Moderated By Prevailing Easterly Winds,Subtropical
-162,Moldova,"Moderate Winters, Warm Summers",
-163,Monaco,"Mediterranean With Mild, Wet Winters And Hot, Dry Summers",Subtropical
-164,Mongolia,Desert; Continental (Large Daily And Seasonal Temperature Ranges),Tropical
-165,Montenegro,"Mediterranean Climate, Hot Dry Summers And Autumns And Relatively Cold Winters With Heavy Snowfalls Inland",Subtropical
-166,Montserrat,Tropical; Little Daily Or Seasonal Temperature Variation,Tropical
-167,Morocco,"Mediterranean, Becoming More Extreme In The Interior",Subtropical
-168,Mozambique,Tropical To Subtropical,Tropical
-169,Namibia,"Desert; Hot, Dry; Rainfall Sparse And Erratic",Tropical
-170,Nauru,Tropical With A Monsoonal Pattern; Rainy Season (November To February),Tropical
-171,Navassa Island,"Marine, Tropical",Tropical
-172,Nepal,Varies From Cool Summers And Severe Winters In North To Subtropical Summers And Mild Winters In South,Subtropical
-173,Netherlands,Temperate; Marine; Cool Summers And Mild Winters,Temperate
-174,Netherlands Antilles,Tropical; Ameliorated By Northeast Trade Winds,Tropical
-175,New Caledonia,"Tropical; Modified By Southeast Trade Winds; Hot, Humid",Tropical
-176,New Zealand,Temperate With Sharp Regional Contrasts,Temperate
-177,Nicaragua,"Tropical In Lowlands, Cooler In Highlands",Tropical
-178,Niger,"Desert; Mostly Hot, Dry, Dusty; Tropical In Extreme South",Tropical
-179,Nigeria,"Varies; Equatorial In South, Tropical In Center, Arid In North",Tropical
-180,Niue,Tropical; Modified By Southeast Trade Winds,Tropical
-181,Norfolk Island,"Subtropical; Mild, Little Seasonal Temperature Variation",Subtropical
-182,North Korea,Temperate With Rainfall Concentrated In Summer,Temperate
-183,Northern Mariana Islands,"Tropical Marine; Moderated By Northeast Trade Winds, Little Seasonal Temperature Variation; Dry Season December To June, Rainy Season July To October",Tropical
-184,Norway,"Temperate Along Coast, Modified By North Atlantic Current; Colder Interior With Increased Precipitation And Colder Summers; Rainy Year-Round On West Coast",Temperate
-185,Oman,"Dry Desert; Hot, Humid Along Coast; Hot, Dry Interior; Strong Southwest Summer Monsoon (May To September) In Far South",Tropical
-186,Pacific Ocean,"Planetary Air Pressure Systems And Resultant Wind Patterns Exhibit Remarkable Uniformity In The South And East; Trade Winds And Westerly Winds Are Well-Developed Patterns, Modified By Seasonal Fluctuations; Tropical Cyclones (Hurricanes) May Form South Of Mexico From June To October And Affect Mexico And Central America; Continental Influences Cause Climatic Uniformity To Be Much Less Pronounced In The Eastern And Western Regions At The Same Latitude In The North Pacific Ocean; The Western Pacific Is Monsoonal - A Rainy Season Occurs During The Summer Months, When Moisture-Laden Winds Blow From The Ocean Over The Land, And A Dry Season During The Winter Months, When Dry Winds Blow From The Asian Landmass Back To The Ocean; Tropical Cyclones (Typhoons) May Strike Southeast And East Asia From May To December",Tropical
-187,Pakistan,"Mostly Hot, Dry Desert; Temperate In Northwest; Arctic In North",Tropical
-188,Palau,Tropical; Hot And Humid; Wet Season May To November,Tropical
-189,Palmyra Atoll,"Equatorial, Hot, And Very Rainy",Equatorial
-190,Panama,"Tropical Maritime; Hot, Humid, Cloudy; Prolonged Rainy Season (May To January), Short Dry Season (January To May)",Tropical
-191,Papua New Guinea,"Tropical; Northwest Monsoon (December To March), Southeast Monsoon (May To October); Slight Seasonal Temperature Variation",Tropical
-192,Paracel Islands,Tropical,Tropical
-193,Paraguay,"Subtropical To Temperate; Substantial Rainfall In The Eastern Portions, Becoming Semiarid In The Far West",Tropical
-194,Peru,Varies From Tropical In East To Dry Desert In West; Temperate To Frigid In Andes,Tropical
-195,Philippines,Tropical Marine; Northeast Monsoon (November To April); Southwest Monsoon (May To October),Tropical
-196,Pitcairn Islands,Tropical; Hot And Humid; Modified By Southeast Trade Winds; Rainy Season (November To March),Tropical
-197,Poland,"Temperate With Cold, Cloudy, Moderately Severe Winters With Frequent Precipitation; Mild Summers With Frequent Showers And Thundershowers",Temperate
-198,Portugal,"Maritime Temperate; Cool And Rainy In North, Warmer And Drier In South",Temperate
-199,Puerto Rico,"Tropical Marine, Mild; Little Seasonal Temperature Variation",Tropical
-200,Qatar,"Arid; Mild, Pleasant Winters; Very Hot, Humid Summers",Tropical
-201,Republic Of Macedonia,"Warm, Dry Summers And Autumns; Relatively Cold Winters With Heavy Snowfall",
-202,Reunion,"Tropical, But Temperature Moderates With Elevation; Cool And Dry (May To November), Hot And Rainy (November To April)",Tropical
-203,Romania,"Temperate; Cold, Cloudy Winters With Frequent Snow And Fog; Sunny Summers With Frequent Showers And Thunderstorms",Temperate
-204,Russia,Ranges From Steppes In The South Through Humid Continental In Much Of European Russia; Subarctic In Siberia To Tundra Climate In The Polar North; Winters Vary From Cool Along Black Sea Coast To Frigid In Siberia; Summers Vary From Warm In The Steppes To Cool Along Arctic Coast,Temperate
-205,Rwanda,"Temperate; Two Rainy Seasons (February To April, November To January); Mild In Mountains With Frost And Snow Possible",Temperate
-206,Saint Barthelemy,"Tropical, With Practically No Variation In Temperature; Has Two Seasons (Dry And Humid)",Tropical
-207,Saint Helena,"Saint Helena - Tropical; Marine; Mild, Tempered By Trade Winds; Tristan Da Cunha - Temperate; Marine, Mild, Tempered By Trade Winds (Tends To Be Cooler Than Saint Helena)",Tropical
-208,"Saint Helena, Ascension, And Tristan Da Cunha","Saint Helena:Tropical Marine; Mild, Tempered By Trade Winds
-Ascension Island: Tropical Marine; Mild, Semi-Arid
-Tristan Da Cunha: Temperate Marine; Mild, Tempered By Trade Winds (Tends To Be Cooler Than Saint Helena)",Tropical
-209,Saint Kitts And Nevis,"Tropical, Tempered By Constant Sea Breezes; Little Seasonal Temperature Variation; Rainy Season (May To November)",Tropical
-210,Saint Lucia,"Tropical, Moderated By Northeast Trade Winds; Dry Season January To April, Rainy Season May To August",Tropical
-211,Saint Martin,"Temperature Averages 80-85 Degrees All Year Long; Low Humidity, Gentle Trade Winds, Brief, Intense Rain Showers; Hurricane Season Stretches From July To November",
-212,Saint Pierre And Miquelon,"Cold And Wet, With Considerable Mist And Fog; Spring And Autumn Are Often Windy",
-213,Saint Vincent And The Grenadines,Tropical; Little Seasonal Temperature Variation; Rainy Season (May To November),Tropical
-214,Samoa,"Tropical; Rainy Season (November To April), Dry Season (May To October)",Tropical
-215,San Marino,"Mediterranean; Mild To Cool Winters; Warm, Sunny Summers",Subtropical
-216,São Tome And Principe,"Tropical; Hot, Humid; One Rainy Season (October To May)",Tropical
-217,Saudi Arabia,"Harsh, Dry Desert With Great Temperature Extremes",Tropical
-218,Senegal,"Tropical; Hot, Humid; Rainy Season (May To November) Has Strong Southeast Winds; Dry Season (December To April) Dominated By Hot, Dry, Harmattan Wind",Tropical
-219,Serbia,"In The North, Continental Climate (Cold Winters And Hot, Humid Summers With Well-Distributed Rainfall); In Other Parts, Continental And Mediterranean Climate (Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns)",Temperate
-220,Serbia And Montenegro,"In The North, Continental Climate (Cold Winters And Hot, Humid Summers With Well Distributed Rainfall); In Other Parts, Continental And Mediterranean Climate (Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns)",Temperate
-221,Seychelles,Tropical Marine; Humid; Cooler Season During Southeast Monsoon (Late May To September); Warmer Season During Northwest Monsoon (March To May),Tropical
-222,Sierra Leone,"Tropical; Hot, Humid; Summer Rainy Season (May To December); Winter Dry Season (December To April)",Tropical
-223,Singapore,"Tropical; Hot, Humid, Rainy; Two Distinct Monsoon Seasons - Northeastern Monsoon (December To March) And Southwestern Monsoon (June To September); Inter-Monsoon - Frequent Afternoon And Early Evening Thunderstorms",Tropical
-224,Slovakia,"Temperate; Cool Summers; Cold, Cloudy, Humid Winters",Temperate
-225,Slovenia,"Mediterranean Climate On The Coast, Continental Climate With Mild To Hot Summers And Cold Winters In The Plateaus And Valleys To The East",Temperate
-226,Solomon Islands,Tropical Monsoon; Few Extremes Of Temperature And Weather,Tropical
-227,Somalia,"Principally Desert; Northeast Monsoon (December To February), Moderate Temperatures In North And Hot In South; Southwest Monsoon (May To October), Torrid In The North And Hot In The South, Irregular Rainfall, Hot And Humid Periods (Tangambili) Between Monsoons",Tropical
-228,South Africa,"Mostly Semiarid; Subtropical Along East Coast; Sunny Days, Cool Nights",Tropical
-229,South Georgia And The South Sandwich Islands,"Variable, With Mostly Westerly Winds Throughout The Year Interspersed With Periods Of Calm; Nearly All Precipitation Falls As Snow",
-230,South Korea,"Temperate, With Rainfall Heavier In Summer Than Winter",Temperate
-231,South Sudan,Hot With Seasonal Rainfall Influenced By The Annual Shift Of The Inter-Tropical Convergence Zone; Rainfall Is Heaviest In The Upland Areas Of The South And Diminishes To The North,Tropical
-232,Southern Ocean,"Sea Temperatures Vary From About 10 Degrees Celsius To -2 Degrees Celsius; Cyclonic Storms Travel Eastward Around The Continent And Frequently Are Intense Because Of The Temperature Contrast Between Ice And Open Ocean; The Ocean Area From About Latitude 40 South To The Antarctic Circle Has The Strongest Average Winds Found Anywhere On Earth; In Winter The Ocean Freezes Outward To 65 Degrees South Latitude In The Pacific Sector And 55 Degrees South Latitude In The Atlantic Sector, Lowering Surface Temperatures Well Below 0 Degrees Celsius; At Some Coastal Points Intense Persistent Drainage Winds From The Interior Keep The Shoreline Ice-Free Throughout The Winter",Polar
-233,Spain,"Temperate; Clear, Hot Summers In Interior, More Moderate And Cloudy Along Coast; Cloudy, Cold Winters In Interior, Partly Cloudy And Cool Along Coast",Temperate
-234,Spratly Islands,Tropical,Tropical
-235,Sri Lanka,Tropical Monsoon; Northeast Monsoon (December To March); Southwest Monsoon (June To October),Tropical
-236,Sudan,Hot And Dry; Arid Desert; Rainy Season Varies By Region (April To November),Tropical
-237,Surinamesuriname,Tropical; Moderated By Trade Winds,Tropical
-238,Svalbard,"Arctic, Tempered By Warm North Atlantic Current; Cool Summers, Cold Winters; North Atlantic Current Flows Along West And North Coasts Of Spitsbergen, Keeping Water Open And Navigable Most Of The Year",
-239,Swaziland,Varies From Tropical To Near Temperate,Tropical
-240,Sweden,"Temperate In South With Cold, Cloudy Winters And Cool, Partly Cloudy Summers; Subarctic In North",Temperate
-241,Switzerland,"Temperate, But Varies With Altitude; Cold, Cloudy, Rainy/Snowy Winters; Cool To Warm, Cloudy, Humid Summers With Occasional Showers",Temperate
-242,Syria,"Mostly Desert; Hot, Dry, Sunny Summers (June To August) And Mild, Rainy Winters (December To February) Along Coast; Cold Weather With Snow Or Sleet Periodically In Damascus",Tropical
-243,Taiwan,Tropical; Marine; Rainy Season During Southwest Monsoon (June To August); Cloudiness Is Persistent And Extensive All Year,Tropical
-244,Tajikistan,"Midlatitude Continental, Hot Summers, Mild Winters; Semiarid To Polar In Pamir Mountains",Tropical
-245,Tanzania,Varies From Tropical Along Coast To Temperate In Highlands,Tropical
-246,Thailand,"Tropical; Rainy, Warm, Cloudy Southwest Monsoon (Mid-May To September); Dry, Cool Northeast Monsoon (November To Mid-March); Southern Isthmus Always Hot And Humid",Tropical
-247,The Bahamas,Tropical Marine; Moderated By Warm Waters Of Gulf Stream,Tropical
-248,The Gambia,"Tropical; Hot, Rainy Season (June To November); Cooler, Dry Season (November To May)",Tropical
-249,Togo,"Tropical; Hot, Humid In South; Semiarid In North",Tropical
-250,Tokelau,Tropical; Moderated By Trade Winds (April To November),Tropical
-251,Tonga,"Tropical; Modified By Trade Winds; Warm Season (December To May), Cool Season (May To December)",Tropical
-252,Trinidad And Tobago,Tropical; Rainy Season (June To December),Tropical
-253,Tromelin Island,Tropical,Tropical
-254,Tunisia,"Temperate In North With Mild, Rainy Winters And Hot, Dry Summers; Desert In South",Tropical
-255,Turkey,"Temperate; Hot, Dry Summers With Mild, Wet Winters; Harsher In Interior",Temperate
-256,Turkmenistan,Subtropical Desert,Tropical
-257,Turks And Caicos Islands,Tropical; Marine; Moderated By Trade Winds; Sunny And Relatively Dry,Tropical
-258,Tuvalu,Tropical; Moderated By Easterly Trade Winds (March To November); Westerly Gales And Heavy Rain (November To March),Tropical
-259,Uganda,"Tropical; Generally Rainy With Two Dry Seasons (December To February, June To August); Semiarid In Northeast",Tropical
-260,Ukraine,"Temperate Continental; Mediterranean Only On The Southern Crimean Coast; Precipitation Disproportionately Distributed, Highest In West And North, Lesser In East And Southeast; Winters Vary From Cool Along The Black Sea To Cold Farther Inland; Summers Are Warm Across The Greater Part Of The Country, Hot In The South",Temperate
-261,United Arab Emirates,Desert; Cooler In Eastern Mountains,Tropical
-262,United Kingdom,Temperate; Moderated By Prevailing Southwest Winds Over The North Atlantic Current; More Than One-Half Of The Days Are Overcast,Temperate
-263,United States,"Mostly Temperate, But Tropical In Hawaii And Florida, Arctic In Alaska, Semiarid In The Great Plains West Of The Mississippi River, And Arid In The Great Basin Of The Southwest; Low Winter Temperatures In The Northwest Are Ameliorated Occasionally In January And February By Warm Chinook Winds From The Eastern Slopes Of The Rocky Mountains",Tropical
-264,Uruguay,Warm Temperate; Freezing Temperatures Almost Unknown,Temperate
-265,Uzbekistan,"Mostly Midlatitude Desert, Long, Hot Summers, Mild Winters; Semiarid Grassland In East",Tropical
-266,Vanuatu,Tropical; Moderated By Southeast Trade Winds From May To October; Moderate Rainfall From November To April; May Be Affected By Cyclones From December To April,Tropical
-267,Venezuela,"Tropical; Hot, Humid; More Moderate In Highlands",Tropical
-268,Vietnam,"Tropical In South; Monsoonal In North With Hot, Rainy Season (May To September) And Warm, Dry Season (October To March)",Tropical
-269,Virgin Islands,"Subtropical, Tempered By Easterly Trade Winds, Relatively Low Humidity, Little Seasonal Temperature Variation; Rainy Season September To November",Subtropical
-270,Wake Island,Tropical,Tropical
-271,Wallis And Futuna,"Tropical; Hot, Rainy Season (November To April); Cool, Dry Season (May To October); Rains 2,500-3,000 Mm Per Year (80% Humidity); Average Temperature 26.6 Degrees C",Tropical
-272,West Bank,"Temperate; Temperature And Precipitation Vary With Altitude, Warm To Hot Summers, Cool To Mild Winters",Temperate
-273,Western Sahara,"Hot, Dry Desert; Rain Is Rare; Cold Offshore Air Currents Produce Fog And Heavy Dew",Tropical
-274,Yemen,"Mostly Desert; Hot And Humid Along West Coast; Temperate In Western Mountains Affected By Seasonal Monsoon; Extraordinarily Hot, Dry, Harsh Desert In East",Tropical
-275,Zambia,Tropical; Modified By Altitude; Rainy Season (October To April),Tropical
-276,Zimbabwe,Tropical; Moderated By Altitude; Rainy Season (November To March),Tropical
+Reunion: Tropical, But Temperature Moderates With Elevation; Cool And Dry (May To November), Hot And Rainy (November To April)",Tropical,FRA
+87,French Guiana,"Tropical; Hot, Humid; Little Seasonal Temperature Variation",Tropical,GUF
+88,French Polynesia,"Tropical, But Moderate",Tropical,PYF
+90,Gabon,"Tropical; Always Hot, Humid",Tropical,GAB
+92,Georgia,Warm And Pleasant; Mediterranean-Like On Black Sea Coast,Subtropical,GEO
+93,Germany,"Temperate And Marine; Cool, Cloudy, Wet Winters And Summers; Occasional Warm Mountain (Foehn) Wind",Temperate,DEU
+94,Ghana,Tropical; Warm And Comparatively Dry Along Southeast Coast; Hot And Humid In Southwest; Hot And Dry In North,Tropical,GHA
+97,Greece,"Temperate; Mild, Wet Winters; Hot, Dry Summers",Temperate,GRC
+98,Greenland,"Arctic To Subarctic; Cool Summers, Cold Winters",,GRL
+99,Grenada,Tropical; Tempered By Northeast Trade Winds,Tropical,GRD
+101,Guam,"Tropical Marine; Generally Warm And Humid, Moderated By Northeast Trade Winds; Dry Season (January To June), Rainy Season (July To December); Little Seasonal Temperature Variation",Tropical,GUM
+102,Guatemala,"Tropical; Hot, Humid In Lowlands; Cooler In Highlands",Tropical,GTM
+104,Guinea,Generally Hot And Humid; Monsoonal-Type Rainy Season (June To November) With Southwesterly Winds; Dry Season (December To May) With Northeasterly Harmattan Winds,,GIN
+105,Guinea-Bissau,Tropical; Generally Hot And Humid; Monsoonal-Type Rainy Season (June To November) With Southwesterly Winds; Dry Season (December To May) With Northeasterly Harmattan Winds,Tropical,GNB
+106,Guyana,"Tropical; Hot, Humid, Moderated By Northeast Trade Winds; Two Rainy Seasons (May To August, November To January)",Tropical,GUY
+107,Haiti,Tropical; Semiarid Where Mountains In East Cut Off Trade Winds,Tropical,HTI
+110,Honduras,"Subtropical In Lowlands, Temperate In Mountains",Temperate,HND
+111,Hong Kong,"Subtropical Monsoon; Cool And Humid In Winter, Hot And Rainy From Spring Through Summer, Warm And Sunny In Fall",Subtropical,HKG
+113,Hungary,"Temperate; Cold, Cloudy, Humid Winters; Warm Summers",Temperate,HUN
+114,Iceland,"Temperate; Moderated By North Atlantic Current; Mild, Windy Winters; Damp, Cool Summers",Temperate,ISL
+115,India,Varies From Tropical Monsoon In South To Temperate In North,Tropical,IND
+117,Indonesia,"Tropical; Hot, Humid; More Moderate In Highlands",Tropical,IDN
+118,Iran,"Mostly Arid Or Semiarid, Subtropical Along Caspian Coast",Tropical,IRN
+119,Iraq,"Mostly Desert; Mild To Cool Winters With Dry, Hot, Cloudless Summers; Northern Mountainous Regions Along Iranian And Turkish Borders Experience Cold Winters With Occasionally Heavy Snows That Melt In Early Spring, Sometimes Causing Extensive Flooding In Central And Southern Iraq",Tropical,IRQ
+120,Ireland,"Temperate Maritime; Modified By North Atlantic Current; Mild Winters, Cool Summers; Consistently Humid; Overcast About Half The Time",Temperate,IRL
+121,Isle Of Man,Temperate; Cool Summers And Mild Winters; Overcast About A Third Of The Time,Temperate,IMY
+122,Israel,Temperate; Hot And Dry In Southern And Eastern Desert Areas,Tropical,ISR
+123,Italy,"Predominantly Mediterranean; Alpine In Far North; Hot, Dry In South",Subtropical,ITA
+124,Jamaica,"Tropical; Hot, Humid; Temperate Interior",Tropical,JAM
+126,Japan,Varies From Tropical In South To Cool Temperate In North,Tropical,JPN
+130,Jordan,Mostly Arid Desert; Rainy Season In West (November To April),Tropical,JOR
+132,Kazakhstan,"Continental, Cold Winters And Hot Summers, Arid And Semiarid",Tropical,KAZ
+133,Kenya,Varies From Tropical Along Coast To Arid In Interior,Tropical,KEN
+135,Kiribati,"Tropical; Marine, Hot And Humid, Moderated By Trade Winds",Tropical,KIR
+136,Kosovo,"Influenced By Continental Air Masses Resulting In Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns; Mediterranean And Alpine Influences Create Regional Variation; Maximum Rainfall Between October And December",Temperate,KSV
+137,Kuwait,"Dry Desert; Intensely Hot Summers; Short, Cool Winters",Tropical,KWT
+138,Kyrgyzstan,Dry Continental To Polar In High Tien Shan Mountains; Subtropical In Southwest (Fergana Valley); Temperate In Northern Foothill Zone,Temperate,KGZ
+139,Kyrgyzstan,Dry Continental To Polar In High Tien Shan Mountains; Subtropical In Southwest (Fergana Valley); Temperate In Northern Foothill Zone,Temperate,KGZ
+140,Laos,Tropical Monsoon; Rainy Season (May To November); Dry Season (December To April),Tropical,LAO
+141,Latvia,"Maritime; Wet, Moderate Winters",,LVA
+142,Lebanon,"Mediterranean; Mild To Cool, Wet Winters With Hot, Dry Summers; Lebanon Mountains Experience Heavy Winter Snows",Subtropical,LBN
+143,Lesotho,"Temperate; Cool To Cold, Dry Winters; Hot, Wet Summers",Temperate,LSO
+144,Liberia,"Tropical; Hot, Humid; Dry Winters With Hot Days And Cool To Cold Nights; Wet, Cloudy Summers With Frequent Heavy Showers",Tropical,LBR
+145,Libya,"Mediterranean Along Coast; Dry, Extreme Desert Interior",Tropical,LBY
+146,Liechtenstein,"Continental; Cold, Cloudy Winters With Frequent Snow Or Rain; Cool To Moderately Warm, Cloudy, Humid Summers",Temperate,LIE
+147,Lithuania,"Transitional, Between Maritime And Continental; Wet, Moderate Winters And Summers",Temperate,LTU
+148,Luxembourg,"Modified Continental With Mild Winters, Cool Summers",Temperate,LUX
+149,Macau,"Subtropical; Marine With Cool Winters, Warm Summers",Subtropical,MAC
+150,Madagascar,"Tropical Along Coast, Temperate Inland, Arid In South",Tropical,MDG
+151,Malawi,Sub-Tropical; Rainy Season (November To May); Dry Season (May To November),Tropical,MWI
+152,Malaysia,Tropical; Annual Southwest (April To October) And Northeast (October To February) Monsoons,Tropical,MYS
+153,Maldives,"Tropical; Hot, Humid; Dry, Northeast Monsoon (November To March); Rainy, Southwest Monsoon (June To August)",Tropical,MDV
+154,Mali,"Subtropical To Arid; Hot And Dry (February To June); Rainy, Humid, And Mild (June To November); Cool And Dry (November To February)",Tropical,MLI
+155,Malta,"Mediterranean; Mild, Rainy Winters; Hot, Dry Summers",Subtropical,MLT
+156,Marshall Islands,Tropical; Hot And Humid; Wet Season May To November; Islands Border Typhoon Belt,Tropical,MHL
+158,Mauritania,"Desert; Constantly Hot, Dry, Dusty",Tropical,MRT
+159,Mauritius,"Tropical, Modified By Southeast Trade Winds; Warm, Dry Winter (May To November); Hot, Wet, Humid Summer (November To May)",Tropical,MUS
+161,Mexico,Varies From Tropical To Desert,Tropical,MEX
+163,Moldova,"Moderate Winters, Warm Summers",,MDA
+164,Monaco,"Mediterranean With Mild, Wet Winters And Hot, Dry Summers",Subtropical,MCO
+165,Mongolia,Desert; Continental (Large Daily And Seasonal Temperature Ranges),Tropical,MNG
+166,Montenegro,"Mediterranean Climate, Hot Dry Summers And Autumns And Relatively Cold Winters With Heavy Snowfalls Inland",Subtropical,MNE
+168,Morocco,"Mediterranean, Becoming More Extreme In The Interior",Subtropical,MAR
+169,Mozambique,Tropical To Subtropical,Tropical,MOZ
+170,Namibia,"Desert; Hot, Dry; Rainfall Sparse And Erratic",Tropical,NAM
+173,Nepal,Varies From Cool Summers And Severe Winters In North To Subtropical Summers And Mild Winters In South,Subtropical,NPL
+174,Netherlands,Temperate; Marine; Cool Summers And Mild Winters,Temperate,NLD
+176,New Caledonia,"Tropical; Modified By Southeast Trade Winds; Hot, Humid",Tropical,NCL
+177,New Zealand,Temperate With Sharp Regional Contrasts,Temperate,NZL
+178,Nicaragua,"Tropical In Lowlands, Cooler In Highlands",Tropical,NIC
+179,Niger,"Desert; Mostly Hot, Dry, Dusty; Tropical In Extreme South",Tropical,NER
+180,Nigeria,"Varies; Equatorial In South, Tropical In Center, Arid In North",Tropical,NGA
+183,North Korea,Temperate With Rainfall Concentrated In Summer,Temperate,PRK
+184,Northern Mariana Islands,"Tropical Marine; Moderated By Northeast Trade Winds, Little Seasonal Temperature Variation; Dry Season December To June, Rainy Season July To October",Tropical,MNP
+185,Norway,"Temperate Along Coast, Modified By North Atlantic Current; Colder Interior With Increased Precipitation And Colder Summers; Rainy Year-Round On West Coast",Temperate,NOR
+186,Oman,"Dry Desert; Hot, Humid Along Coast; Hot, Dry Interior; Strong Southwest Summer Monsoon (May To September) In Far South",Tropical,OMN
+188,Pakistan,"Mostly Hot, Dry Desert; Temperate In Northwest; Arctic In North",Tropical,PAK
+189,Palau,Tropical; Hot And Humid; Wet Season May To November,Tropical,PLW
+191,Panama,"Tropical Maritime; Hot, Humid, Cloudy; Prolonged Rainy Season (May To January), Short Dry Season (January To May)",Tropical,PAN
+192,Papua New Guinea,"Tropical; Northwest Monsoon (December To March), Southeast Monsoon (May To October); Slight Seasonal Temperature Variation",Tropical,PNG
+194,Paraguay,"Subtropical To Temperate; Substantial Rainfall In The Eastern Portions, Becoming Semiarid In The Far West",Tropical,PRY
+195,Peru,Varies From Tropical In East To Dry Desert In West; Temperate To Frigid In Andes,Tropical,PER
+196,Philippines,Tropical Marine; Northeast Monsoon (November To April); Southwest Monsoon (May To October),Tropical,PHL
+198,Poland,"Temperate With Cold, Cloudy, Moderately Severe Winters With Frequent Precipitation; Mild Summers With Frequent Showers And Thundershowers",Temperate,POL
+199,Portugal,"Maritime Temperate; Cool And Rainy In North, Warmer And Drier In South",Temperate,PRT
+200,Puerto Rico,"Tropical Marine, Mild; Little Seasonal Temperature Variation",Tropical,PRI
+201,Qatar,"Arid; Mild, Pleasant Winters; Very Hot, Humid Summers",Tropical,QAT
+202,Republic Of Macedonia,"Warm, Dry Summers And Autumns; Relatively Cold Winters With Heavy Snowfall",,MKD
+204,Romania,"Temperate; Cold, Cloudy Winters With Frequent Snow And Fog; Sunny Summers With Frequent Showers And Thunderstorms",Temperate,ROU
+205,Russia,Ranges From Steppes In The South Through Humid Continental In Much Of European Russia; Subarctic In Siberia To Tundra Climate In The Polar North; Winters Vary From Cool Along Black Sea Coast To Frigid In Siberia; Summers Vary From Warm In The Steppes To Cool Along Arctic Coast,Temperate,RUS
+206,Rwanda,"Temperate; Two Rainy Seasons (February To April, November To January); Mild In Mountains With Frost And Snow Possible",Temperate,RWA
+210,Saint Kitts And Nevis,"Tropical, Tempered By Constant Sea Breezes; Little Seasonal Temperature Variation; Rainy Season (May To November)",Tropical,KNA
+211,Saint Lucia,"Tropical, Moderated By Northeast Trade Winds; Dry Season January To April, Rainy Season May To August",Tropical,LCA
+214,Saint Vincent And The Grenadines,Tropical; Little Seasonal Temperature Variation; Rainy Season (May To November),Tropical,VCT
+215,Samoa,"Tropical; Rainy Season (November To April), Dry Season (May To October)",Tropical,WSM
+216,San Marino,"Mediterranean; Mild To Cool Winters; Warm, Sunny Summers",Subtropical,SMR
+218,Saudi Arabia,"Harsh, Dry Desert With Great Temperature Extremes",Tropical,SAU
+219,Senegal,"Tropical; Hot, Humid; Rainy Season (May To November) Has Strong Southeast Winds; Dry Season (December To April) Dominated By Hot, Dry, Harmattan Wind",Tropical,SEN
+220,Serbia,"In The North, Continental Climate (Cold Winters And Hot, Humid Summers With Well-Distributed Rainfall); In Other Parts, Continental And Mediterranean Climate (Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns)",Temperate,SRB
+221,Serbia And Montenegro,"In The North, Continental Climate (Cold Winters And Hot, Humid Summers With Well Distributed Rainfall); In Other Parts, Continental And Mediterranean Climate (Relatively Cold Winters With Heavy Snowfall And Hot, Dry Summers And Autumns)",Temperate,SRB
+222,Seychelles,Tropical Marine; Humid; Cooler Season During Southeast Monsoon (Late May To September); Warmer Season During Northwest Monsoon (March To May),Tropical,SYC
+223,Sierra Leone,"Tropical; Hot, Humid; Summer Rainy Season (May To December); Winter Dry Season (December To April)",Tropical,SLE
+224,Singapore,"Tropical; Hot, Humid, Rainy; Two Distinct Monsoon Seasons - Northeastern Monsoon (December To March) And Southwestern Monsoon (June To September); Inter-Monsoon - Frequent Afternoon And Early Evening Thunderstorms",Tropical,SGP
+225,Slovakia,"Temperate; Cool Summers; Cold, Cloudy, Humid Winters",Temperate,SVK
+226,Slovenia,"Mediterranean Climate On The Coast, Continental Climate With Mild To Hot Summers And Cold Winters In The Plateaus And Valleys To The East",Temperate,SVN
+227,Solomon Islands,Tropical Monsoon; Few Extremes Of Temperature And Weather,Tropical,SLB
+228,Somalia,"Principally Desert; Northeast Monsoon (December To February), Moderate Temperatures In North And Hot In South; Southwest Monsoon (May To October), Torrid In The North And Hot In The South, Irregular Rainfall, Hot And Humid Periods (Tangambili) Between Monsoons",Tropical,SOM
+229,South Africa,"Mostly Semiarid; Subtropical Along East Coast; Sunny Days, Cool Nights",Tropical,ZAF
+231,South Korea,"Temperate, With Rainfall Heavier In Summer Than Winter",Temperate,KOR
+232,South Sudan,Hot With Seasonal Rainfall Influenced By The Annual Shift Of The Inter-Tropical Convergence Zone; Rainfall Is Heaviest In The Upland Areas Of The South And Diminishes To The North,Tropical,SSD
+234,Spain,"Temperate; Clear, Hot Summers In Interior, More Moderate And Cloudy Along Coast; Cloudy, Cold Winters In Interior, Partly Cloudy And Cool Along Coast",Temperate,ESP
+236,Sri Lanka,Tropical Monsoon; Northeast Monsoon (December To March); Southwest Monsoon (June To October),Tropical,LKA
+237,Sudan,Hot And Dry; Arid Desert; Rainy Season Varies By Region (April To November),Tropical,SDN
+240,Swaziland,Varies From Tropical To Near Temperate,Tropical,SWZ
+241,Sweden,"Temperate In South With Cold, Cloudy Winters And Cool, Partly Cloudy Summers; Subarctic In North",Temperate,SWE
+242,Switzerland,"Temperate, But Varies With Altitude; Cold, Cloudy, Rainy/Snowy Winters; Cool To Warm, Cloudy, Humid Summers With Occasional Showers",Temperate,CHE
+243,Syria,"Mostly Desert; Hot, Dry, Sunny Summers (June To August) And Mild, Rainy Winters (December To February) Along Coast; Cold Weather With Snow Or Sleet Periodically In Damascus",Tropical,SYR
+244,Taiwan,Tropical; Marine; Rainy Season During Southwest Monsoon (June To August); Cloudiness Is Persistent And Extensive All Year,Tropical,TWN
+245,Tajikistan,"Midlatitude Continental, Hot Summers, Mild Winters; Semiarid To Polar In Pamir Mountains",Tropical,TJK
+246,Tanzania,Varies From Tropical Along Coast To Temperate In Highlands,Tropical,TZA
+247,Thailand,"Tropical; Rainy, Warm, Cloudy Southwest Monsoon (Mid-May To September); Dry, Cool Northeast Monsoon (November To Mid-March); Southern Isthmus Always Hot And Humid",Tropical,THA
+248,The Bahamas,Tropical Marine; Moderated By Warm Waters Of Gulf Stream,Tropical,BHS
+250,Togo,"Tropical; Hot, Humid In South; Semiarid In North",Tropical,TGO
+252,Tonga,"Tropical; Modified By Trade Winds; Warm Season (December To May), Cool Season (May To December)",Tropical,TON
+253,Trinidad And Tobago,Tropical; Rainy Season (June To December),Tropical,TTO
+255,Tunisia,"Temperate In North With Mild, Rainy Winters And Hot, Dry Summers; Desert In South",Tropical,TUN
+256,Turkey,"Temperate; Hot, Dry Summers With Mild, Wet Winters; Harsher In Interior",Temperate,TUR
+257,Turkmenistan,Subtropical Desert,Tropical,TKM
+258,Turks And Caicos Islands,Tropical; Marine; Moderated By Trade Winds; Sunny And Relatively Dry,Tropical,TCA
+259,Tuvalu,Tropical; Moderated By Easterly Trade Winds (March To November); Westerly Gales And Heavy Rain (November To March),Tropical,TUV
+260,Uganda,"Tropical; Generally Rainy With Two Dry Seasons (December To February, June To August); Semiarid In Northeast",Tropical,UGA
+261,Ukraine,"Temperate Continental; Mediterranean Only On The Southern Crimean Coast; Precipitation Disproportionately Distributed, Highest In West And North, Lesser In East And Southeast; Winters Vary From Cool Along The Black Sea To Cold Farther Inland; Summers Are Warm Across The Greater Part Of The Country, Hot In The South",Temperate,UKR
+262,United Arab Emirates,Desert; Cooler In Eastern Mountains,Tropical,ARE
+263,United Kingdom,Temperate; Moderated By Prevailing Southwest Winds Over The North Atlantic Current; More Than One-Half Of The Days Are Overcast,Temperate,GBR
+264,United States,"Mostly Temperate, But Tropical In Hawaii And Florida, Arctic In Alaska, Semiarid In The Great Plains West Of The Mississippi River, And Arid In The Great Basin Of The Southwest; Low Winter Temperatures In The Northwest Are Ameliorated Occasionally In January And February By Warm Chinook Winds From The Eastern Slopes Of The Rocky Mountains",Tropical,USA
+265,Uruguay,Warm Temperate; Freezing Temperatures Almost Unknown,Temperate,URY
+266,Uzbekistan,"Mostly Midlatitude Desert, Long, Hot Summers, Mild Winters; Semiarid Grassland In East",Tropical,UZB
+267,Vanuatu,Tropical; Moderated By Southeast Trade Winds From May To October; Moderate Rainfall From November To April; May Be Affected By Cyclones From December To April,Tropical,VUT
+268,Venezuela,"Tropical; Hot, Humid; More Moderate In Highlands",Tropical,VEN
+269,Vietnam,"Tropical In South; Monsoonal In North With Hot, Rainy Season (May To September) And Warm, Dry Season (October To March)",Tropical,VNM
+275,Yemen,"Mostly Desert; Hot And Humid Along West Coast; Temperate In Western Mountains Affected By Seasonal Monsoon; Extraordinarily Hot, Dry, Harsh Desert In East",Tropical,YEM
+276,Zambia,Tropical; Modified By Altitude; Rainy Season (October To April),Tropical,ZMB
+277,Zimbabwe,Tropical; Moderated By Altitude; Rainy Season (November To March),Tropical,ZWE

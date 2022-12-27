@@ -1,0 +1,174 @@
+,RANK,COUNTRY,GAI,Iso3
+0,1,Iceland,9.78,ISL
+1,2,Netherlands,9.46,NLD
+2,3,Norway,9.38,NOR
+3,4,Sweden,9.18,SWE
+4,5,Canada,9.02,CAN
+5,6,Spain,8.77,ESP
+6,7,Denmark,8.69,DNK
+7,8,Ireland,8.41,IRL
+8,9,United Kingdom,8.34,GBR
+9,10,New Zealand,8.23,NZL
+10,11,Australia,8.03,AUS
+11,12,Malta,8.01,MLT
+12,13,Switzerland,8.0,CHE
+13,14,Finland,7.96,FIN
+14,15,Belgium,7.95,BEL
+15,16,Uruguay,7.9,URY
+16,17,Nepal,7.84,NPL
+17,18,Luxembourg,7.82,LUX
+18,19,France,7.73,FRA
+19,20,Germany,7.73,DEU
+20,21,Puerto Rico,7.52,PRI
+21,22,Andorra,7.48,ADO
+22,23,United States,7.42,USA
+23,24,Brazil,7.22,BRA
+24,25,Austria,7.2,AUT
+25,26,Argentina,7.07,ARG
+26,27,Italy,6.94,ITA
+27,28,Portugal,6.87,PRT
+28,29,Chile,6.83,CHL
+29,30,Cape Verde,6.78,CPV
+30,31,Mexico,6.5,MEX
+31,32,Hong Kong,6.38,HKG
+32,33,Costa Rica,6.35,CRI
+33,34,Slovenia,6.21,SVN
+34,35,Colombia,6.1,COL
+35,36,Philippines,6.06,PHL
+36,37,South Africa,6.01,ZAF
+37,38,Czech Republic,5.87,CZE
+38,39,Singapore,5.86,SGP
+39,40,Thailand,5.81,THA
+40,41,Cuba,5.8,CUB
+41,42,Taiwan,5.74,TWN
+42,43,Bahrain,5.73,BHR
+43,44,Israel,5.69,ISR
+45,46,Nicaragua,5.57,NIC
+46,47,Venezuela,5.51,VEN
+47,48,Ecuador,5.47,ECU
+48,49,Greece,5.44,GRC
+49,50,Mauritius,5.34,MUS
+50,51,India,5.28,IND
+51,52,Panama,5.28,PAN
+52,53,Japan,5.26,JPN
+53,54,Estonia,5.25,EST
+54,55,Bolivia,5.24,BOL
+55,56,El Salvador,5.22,SLV
+56,57,Syria,5.22,SYR
+57,58,Cyprus,5.16,CYP
+58,59,Poland,5.15,POL
+59,60,Honduras,5.15,HND
+60,61,Peru,5.15,PER
+61,62,Hungary,5.08,HUN
+62,63,Croatia,5.05,HRV
+63,64,Vietnam,4.99,VNM
+64,65,Dominican Republic,4.98,DOM
+65,66,Cambodia,4.96,KHM
+66,67,Namibia,4.93,NAM
+67,68,Mozambique,4.92,MOZ
+68,69,Laos,4.89,LAO
+69,70,Slovakia,4.82,SVK
+70,71,Paraguay,4.74,PRY
+71,72,Guatemala,4.71,GTM
+72,73,Trinidad And Tobago,4.7,TTO
+73,74,Suriname,4.64,SUR
+74,75,South Korea,4.53,KOR
+75,76,Barbados,4.43,BRB
+76,77,Latvia,4.42,LVA
+77,78,Lithuania,4.38,LTU
+78,79,Guyana,4.36,GUY
+79,80,Botswana,4.3,BWA
+80,81,Algeria,4.28,DZA
+81,82,Bulgaria,4.19,BGR
+82,83,Bhutan,4.18,BTN
+83,84,Lesotho,4.18,LSO
+84,85,Belize,4.14,BLZ
+85,86,Myanmar,4.11,MMR
+86,87,Romania,4.1,ROU
+87,88,Bahamas,4.09,BHS
+88,89,Macao,4.01,MAC
+89,90,Turkey,3.94,TUR
+90,91,Grenada,3.88,GRD
+91,92,Benin,3.88,BEN
+92,93,Jamaica,3.83,JAM
+93,94,Iraq,3.81,IRQ
+94,95,Saint Lucia,3.8,LCA
+95,96,Libya,3.78,LBY
+96,97,Serbia,3.71,SRB
+97,98,Saint Kitts And Nevis,3.71,KNA
+98,99,Bangladesh,3.69,BGD
+99,100,China,3.69,CHN
+100,101,Uzbekistan,3.68,UZB
+101,102,Pakistan,3.66,PAK
+102,103,Angola,3.66,AGO
+103,104,Uganda,3.63,UGA
+104,105,Lebanon,3.63,LBN
+105,106,Kenya,3.62,KEN
+106,107,Kuwait,3.61,KWT
+107,108,Saudi Arabia,3.6,SAU
+108,109,Dominica,3.56,DMA
+109,110,Cote D' Ivoire,3.55,CIV
+110,111,Qatar,3.54,QAT
+111,112,Montenegro,3.53,MNE
+112,113,Kosovo,3.52,KSV
+113,114,Antigua And Barbuda,3.52,ATG
+114,115,Malaysia,3.48,MYS
+115,116,Comoros,3.47,COM
+116,117,Yemen,3.41,YEM
+117,118,Morocco,3.39,MAR
+118,119,Tunisia,3.38,TUN
+119,120,Belarus,3.38,BLR
+120,121,Madagascar,3.36,MDG
+121,122,Afghanistan,3.32,AFG
+122,123,Haiti,3.32,HTI
+123,124,Democratic Republic Of The Congo,3.32,COD
+124,125,Burundi,3.3,BDI
+125,126,Russia,3.28,RUS
+126,127,Republic Of The Congo,3.27,COG
+127,128,Tanzania,3.27,TZA
+128,129,Sri Lanka,3.23,LKA
+130,131,Togo,3.15,TGO
+131,132,Sao Tome And Principe,3.15,STP
+132,133,North Macedonia,3.13,MKD
+133,134,Guinea,3.06,GIN
+134,135,Saint Vincent And The Grenadines,3.04,VCT
+135,136,Swaziland,3.02,SWZ
+136,137,Sudan,2.99,SDN
+137,138,Sierra Leone,2.97,SLE
+138,139,Niger,2.97,NER
+139,140,Burkina Faso,2.96,BFA
+140,141,Georgia,2.94,GEO
+141,142,Ukraine,2.91,UKR
+142,143,Djibouti,2.89,DJI
+143,144,Bosnia And Herzegovina,2.87,BIH
+144,145,Gabon,2.8,GAB
+145,146,Cameroon,2.79,CMR
+146,147,Indonesia,2.79,IDN
+147,148,Rwanda,2.77,RWA
+148,149,Mali,2.74,MLI
+149,150,South Sudan,2.73,SSD
+150,151,Chad,2.72,TCD
+151,152,Mongolia,2.71,MNG
+152,153,Kazakhstan,2.69,KAZ
+153,154,Ghana,2.68,GHA
+154,155,Albania,2.65,ALB
+155,156,Liberia,2.65,LBR
+156,157,Central African Republic,2.62,CAF
+158,159,Egypt,2.48,EGY
+159,160,Gambia,2.44,GMB
+160,161,Nigeria,2.18,NGA
+161,162,Armenia,2.17,ARM
+162,163,Kyrgyzstan,2.16,KGZ
+163,163,Kyrgyzstan,2.16,KGZ
+164,164,Iran,2.11,IRN
+165,165,Zambia,2.04,ZMB
+166,166,Moldova,1.91,MDA
+167,167,Jordan,1.87,JOR
+168,168,Senegal,1.85,SEN
+169,169,Mauritania,1.77,MRT
+170,170,Malawi,1.75,MWI
+171,171,Ethiopia,1.63,ETH
+172,172,Somalia,1.59,SOM
+173,173,Zimbabwe,1.57,ZWE
+174,174,Tajikistan,1.56,TJK
+175,175,Azerbaijan,1.42,AZE
