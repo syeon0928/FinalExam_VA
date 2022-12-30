@@ -6,31 +6,31 @@
 4,Angola,Portuguese,AGO
 5,Antigua And Barbuda,English,ATG
 6,Argentina,Spanish,ARG
-7,Armenia,Armenian,ARM
-8,Australia,English,AUS
+7,Armenia,"Armenian 98%, Yezidi, Russian",ARM
+8,Australia,"English 79%, Native, Other Languages",AUS
 9,Austria,German,AUT
-10,Azerbaijan,Azerbaijani Turkic,AZE
+10,Azerbaijan,"Azerbaijani Turkic 89%, Russian 3%, Armenian 2%, Other 6% (1995 Est.)",AZE
 11,Bahamas,English,BHS
-12,Bahrain,Arabic,BHR
+12,Bahrain,"Arabic, English, Farsi, Urdu",BHR
 13,Bangladesh,Bangla,BGD
 14,Barbados,English,BRB
-15,Belarus,Belorussian (White Russian),BLR
-16,Belgium,"Dutch, French, German",BEL
+15,Belarus,"Belorussian (White Russian), Russian, Other",BLR
+16,Belgium,"Dutch 60%, French 40%, German",BEL
 17,Belize,English,BLZ
 18,Benin,French,BEN
 19,Bhutan,Dzongkha,BTN
 20,Bolivia,"Spanish, Quechua, Aymara",BOL
-21,Bosnia And Herzegovina,Bosnian,BIH
-22,Botswana,English,BWA
+21,Bosnia And Herzegovina,"Bosnian, Croatian, Serbian",BIH
+22,Botswana,English 2%,BWA
 23,Brazil,Portuguese,BRA
 24,Brunei,Malay,BRN
-25,Bulgaria,Bulgarian,BGR
+25,Bulgaria,"Bulgarian 85%, Turkish 10%, Roma 4%",BGR
 26,Burkina Faso,French,BFA
 27,Burundi,"Kirundi, French",BDI
-28,Cambodia,Khmer,KHM
+28,Cambodia,Khmer 95%,KHM
 29,Cameroon,"French, English",CMR
-30,Canada,"English, French",CAN
-31,Cape Verde,Portuguese,CPV
+30,Canada,"English 59.3%, French 23.2%",CAN
+31,Cape Verde,"Portuguese, Criuolo",CPV
 32,Central African Republic,French,CAF
 33,Chad,"French, Arabic",TCD
 34,Chile,Spanish,CHL
@@ -40,152 +40,153 @@
 38,"Congo, Democratic Republic Of The",French,COD
 39,"Congo, Republic Of",French,COG
 40,Costa Rica,Spanish,CRI
-42,Croatia,Croatian,HRV
+41,Cote D'Ivoire,French,CIV
+42,Croatia,Croatian 96%,HRV
 43,Cuba,Spanish,CUB
 44,Cyprus,"Greek, Turkish",CYP
 45,Czech Republic,Czech,CZE
-46,Denmark,Danish,DNK
+46,Denmark,"Danish, Faroese, Greenlandic (Inuit Dialect), German; English Is The Predominant Second Language",DNK
 47,Djibouti,"French, Arabic",DJI
 48,Dominica,English,DMA
 49,Dominican Republic,Spanish,DOM
 51,Ecuador,Spanish,ECU
 52,Egypt,Arabic,EGY
-53,El Salvador,Spanish,SLV
+53,El Salvador,"Spanish, Nahua (Among Some Amerindians)",SLV
 54,Equatorial Guinea,"Spanish, French",GNQ
-55,Eritrea,Afar,ERI
-56,Estonia,Estonian,EST
-57,Ethiopia,Amharic,ETH
+55,Eritrea,"Afar, Arabic, Tigre, Kunama, Tigrinya, Other Cushitic Languages",ERI
+56,Estonia,Estonian 67%,EST
+57,Ethiopia,"Amharic, Tigrigna, Orominga, Guaragigna, Somali, Arabic, English, Over 70 Others",ETH
 58,Fiji,English,FJI
-59,Finland,"Finnish, Swedish",FIN
-60,France,French,FRA
+59,Finland,"Finnish 92%, Swedish 6%",FIN
+60,France,"French 100%, Rapidly Declining Regional Dialects (ProvenãÂ§Al, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",FRA
 61,Gabon,French,GAB
 62,Gambia,English,GMB
-63,Georgia,Georgian,GEO
+63,Georgia,Georgian 71%,GEO
 64,Germany,German,DEU
 65,Ghana,English,GHA
-66,Greece,Greek,GRC
+66,Greece,Greek 99%,GRC
 67,Grenada,English,GRD
-68,Guatemala,"Spanish, Amerindian Languages",GTM
+68,Guatemala,"Spanish 60%, Amerindian Languages 40%",GTM
 69,Guinea,French,GIN
 70,Guinea-Bissau,Portuguese,GNB
 71,Guyana,English,GUY
 72,Haiti,"Creole, French",HTI
 73,Honduras,Spanish,HND
-74,Hungary,Magyar (Hungarian),HUN
-75,Iceland,Icelandic,ISL
-76,India,"Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi",IND
+74,Hungary,"Magyar (Hungarian) 94%, Other 6%",HUN
+75,Iceland,"Icelandic, English, Nordic Languages, German Widely Spoken",ISL
+76,India,"Hindi 30%, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi",IND
 77,Indonesia,Bahasa Indonesia,IDN
-78,Iran,Persian,IRN
+78,Iran,"Persian, Persian Dialects 58%, Turkic, Turkic Dialects 26%, Kurdish 9%, Luri 2%, Balochi 1%, Arabic 1%, Turkish 1%, Other 2%",IRN
 79,Iraq,Arabic,IRQ
 80,Ireland,"English, Irish",IRL
 81,Israel,Hebrew,ISR
 82,Italy,Italian,ITA
-83,Jamaica,English,JAM
+83,Jamaica,"English, Jamaican Creole",JAM
 84,Japan,Japanese,JPN
 85,Jordan,Arabic,JOR
 86,Kazakhstan,Kazak,KAZ
 87,Kenya,English,KEN
 88,Kiribati,English,KIR
 89,"Korea, North",Korean,PRK
-90,"Korea, South",Korean,KOR
+90,"Korea, South","Korean, English Widely Taught",KOR
 91,Kosovo,Albanian,KSV
 92,Kuwait,Arabic,KWT
 93,Kyrgyzstan,"Kyrgyz, Russian",KGZ
 94,Kyrgyzstan,"Kyrgyz, Russian",KGZ
 95,Laos,Lao,LAO
-96,Latvia,Latvian,LVA
+96,Latvia,Latvian 58%,LVA
 97,Lebanon,Arabic,LBN
 98,Lesotho,"English, Sesotho",LSO
-99,Liberia,English,LBR
-100,Libya,Arabic,LBY
+99,Liberia,English 20%,LBR
+100,Libya,"Arabic, Italian,, English Widely Understood In Major Cities",LBY
 101,Liechtenstein,German,LIE
-102,Lithuania,Lithuanian,LTU
-103,Luxembourg,Luxermbourgish (National) French,LUX
-104,Macedonia,"Macedonian, Albanian",MKD
-105,Macedonia,"Macedonian, Albanian",MKD
+102,Lithuania,Lithuanian 82%,LTU
+103,Luxembourg,"Luxermbourgish (National) French, German (Both Administrative)",LUX
+104,Macedonia,"Macedonian 67%, Albanian 25%",MKD
+105,Macedonia,"Macedonian 67%, Albanian 25%",MKD
 106,Madagascar,"Malagasy, French",MDG
-107,Malawi,Chichewa,MWI
+107,Malawi,Chichewa 57.2%,MWI
 108,Malaysia,Bahasa Melayu,MYS
 109,Maldives,Maldivian Dhivehi,MDV
 110,Mali,French,MLI
 111,Malta,"Maltese, English",MLT
-112,Marshall Islands,Marshallese,MHL
+112,Marshall Islands,Marshallese 98%,MHL
 113,Mauritania,Hassaniya Arabic,MRT
 114,Mauritius,English,MUS
-115,Mexico,Spanish,MEX
+115,Mexico,"Spanish, Various Mayan, Nahuatl,, Other Regional Indigenous Languages",MEX
 117,Moldova,Moldovan,MDA
 118,Monaco,French,MCO
-119,Mongolia,Mongolian,MNG
+119,Mongolia,"Mongolian 90%, Also Turkic, Russian (1999)",MNG
 120,Montenegro,Serbian/Montenegrin,MNE
 121,Morocco,Arabic,MAR
-122,Mozambique,Portuguese,MOZ
-123,Myanmar,Burmese,MMR
-124,Namibia,English,NAM
-126,Nepal,Nepali,NPL
+122,Mozambique,Portuguese 9%,MOZ
+123,Myanmar,"Burmese, Minority Languages",MMR
+124,Namibia,English 7%,NAM
+126,Nepal,Nepali 48%,NPL
 127,Netherlands,"Dutch, Frisian",NLD
 128,New Zealand,"English, Maori",NZL
-129,Nicaragua,Spanish,NIC
+129,Nicaragua,Spanish 98%,NIC
 130,Niger,French,NER
 131,Nigeria,English,NGA
 132,Norway,"Bokmã¥L Norwegian, Nynorsk Norwegian",NOR
 133,Oman,Arabic,OMN
-134,Pakistan,"Urdu, English",PAK
-135,Palau,"Palauan, English, Sonsoralese, Tobi, Angaur",PLW
+134,Pakistan,"Urdu 8%, English",PAK
+135,Palau,"Palauan 64.7%, English 9.4%, Sonsoralese, Tobi, Angaur",PLW
 137,Panama,Spanish,PAN
-138,Papua New Guinea,Tok Pisin (Melanesian Pidgin,PNG
+138,Papua New Guinea,"Tok Pisin (Melanesian Pidgin, The Lingua Franca), Hiri Motu (In Papua Region), English 1%Ã¢ÂÂ2%; 715 Indigenous Languages",PNG
 139,Paraguay,"Spanish, Guaranã­",PRY
 140,Peru,"Spanish, Quechua",PER
 141,Philippines,"Filipino, English",PHL
-142,Poland,Polish,POL
+142,Poland,Polish 98%,POL
 143,Portugal,Portuguese,PRT
 144,Qatar,Arabic,QAT
 145,Romania,Romanian,ROU
-146,Russia,Russian,RUS
+146,Russia,"Russian, Others",RUS
 147,Rwanda,"Kinyarwanda, French, English",RWA
 148,St. Kitts And Nevis,English,KNA
 149,St. Lucia,English,LCA
-150,St. Vincent And The Grenadines,English,VCT
-151,Samoa,Samoan,WSM
+150,St. Vincent And The Grenadines,"English, French Patois",VCT
+151,Samoa,"Samoan, English",WSM
 152,San Marino,Italian,SMR
 154,Saudi Arabia,Arabic,SAU
 155,Senegal,French,SEN
 156,Serbia,Serbian,SRB
-157,Seychelles,"Seselwa Creole, English, French",SYC
+157,Seychelles,"Seselwa Creole 92%, English 5%, French",SYC
 158,Sierra Leone,English,SLE
-159,Singapore,"Mandarin, English, Malay",SGP
-160,Slovakia,Slovak,SVK
-161,Slovenia,Slovenian,SVN
-162,Solomon Islands,EnglishÃ¢ÂÂ2%,SLB
+159,Singapore,"Mandarin 35%, English 23%, Malay 14.1%",SGP
+160,Slovakia,Slovak 84%,SVK
+161,Slovenia,"Slovenian 91%, Serbo-Croatian 5% (2002)",SVN
+162,Solomon Islands,English 1%Ã¢ÂÂ2%,SLB
 163,Somalia,Somali,SOM
-164,South Africa,Isizulu,ZAF
+164,South Africa,"Isizulu 23.8%, Isixhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, Other 7.2%",ZAF
 165,South Sudan,English,SSD
-166,Spain,Castilian Spanish,ESP
-167,Sri Lanka,Sinhala,LKA
+166,Spain,Castilian Spanish 74%,ESP
+167,Sri Lanka,Sinhala 74%,LKA
 168,Sudan,Arabic,SDN
 169,Suriname,Dutch,SUR
 170,Swaziland,"English, Siswati",SWZ
-171,Sweden,Swedish,SWE
-172,Switzerland,"German, French, Italian",CHE
+171,Sweden,"Swedish, Small Sami-, Finnish-Speaking Minorities",SWE
+172,Switzerland,"German 64%, French 20%, Italian 7%",CHE
 173,Syria,Arabic,SYR
 174,Taiwan,Chinese,TWN
 175,Tajikistan,Tajik,TJK
 176,Tanzania,"Swahili, English",TZA
-177,Thailand,Thai (Siamese),THA
+177,Thailand,"Thai (Siamese), English (Secondary Language Of The Elite), Ethnic, Regional Dialects",THA
 178,Togo,French,TGO
-179,Tonga,Tongan (An Austronesian Language),TON
+179,Tonga,"Tongan (An Austronesian Language), English",TON
 180,Trinidad And Tobago,English,TTO
 181,Tunisia,Arabic,TUN
 182,Turkey,Turkish,TUR
-183,Turkmenistan,Turkmen,TKM
-184,Tuvalu,Tuvaluan,TUV
+183,Turkmenistan,"Turkmen 72%, Russian 12%, Uzbek 9%, Other 7%",TKM
+184,Tuvalu,"Tuvaluan, English, Samoan, Kiribati (On The Island Of Nui)",TUV
 185,Uganda,English,UGA
-186,Ukraine,Ukrainian,UKR
+186,Ukraine,"Ukrainian 67%, Russian 24%, Romanian, Polish, Hungarian",UKR
 187,United Arab Emirates,Arabic,ARE
-188,United Kingdom,English,GBR
-189,United States,English,USA
-190,Uruguay,Spanish,URY
-191,Uzbekistan,Uzbek,UZB
-192,Vanuatu,Bislama,VUT
+188,United Kingdom,"English, Welsh, Scots Gaelic",GBR
+189,United States,"English 82%, Spanish 11% (2000)",USA
+190,Uruguay,"Spanish, Portunol, Or Brazilero",URY
+191,Uzbekistan,"Uzbek 74.3%, Russian 14.2%, Tajik 4.4%, Other 7.1%",UZB
+192,Vanuatu,Bislama 23%,VUT
 194,Venezuela,Spanish,VEN
 195,Vietnam,Vietnamese,VNM
 197,Yemen,Arabic,YEM
