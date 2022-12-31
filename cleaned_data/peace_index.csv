@@ -1,161 +1,160 @@
 ,Rank,Country,Iso3
-0,1.0,Iceland,ISL
-1,2.0,New Zealand,NZL
-2,3.0,Denmark,DNK
-3,4.0,Portugal,PRT
-4,5.0,Slovenia,SVN
-5,6.0,Austria,AUT
-6,7.0,Switzerland,CHE
-7,8.0,Ireland,IRL
-8,9.0,Czech Republic,CZE
-9,10.0,Canada,CAN
-10,11.0,Singapore,SGP
-11,12.0,Japan,JPN
-12,13.0,Finland,FIN
-13,14.0,Norway,NOR
-14,15.0,Sweden,SWE
-15,16.0,Australia,AUS
-16,17.0,Croatia,HRV
-17,17.0,Germany,DEU
-18,19.0,Hungary,HUN
-19,20.0,Belgium,BEL
-20,21.0,Netherlands,NLD
-21,22.0,Bhutan,BTN
-22,23.0,Malaysia,MYS
-23,24.0,Poland,POL
-24,25.0,Romania,ROU
-25,26.0,Slovakia,SVK
-26,27.0,Bulgaria,BGR
-27,28.0,Mauritius,MUS
-28,29.0,Qatar,QAT
-29,30.0,Estonia,EST
-30,31.0,Spain,ESP
-31,32.0,Italy,ITA
-32,33.0,United Kingdom,GBR
-33,34.0,Taiwan,TWN
-34,35.0,Latvia,LVA
-35,36.0,Kuwait,KWT
-36,37.0,Lithuania,LTU
-37,38.0,Ghana,GHA
-38,39.0,Costa Rica,CRI
-39,40.0,North Macedonia,MKD
-40,41.0,Botswana,BWA
-41,42.0,Indonesia,IDN
-42,42.0,Mongolia,MNG
-43,44.0,Serbia,SRB
-44,45.0,Laos,LAO
-45,46.0,Sierra Leone,SLE
-46,47.0,Uruguay,URY
-47,48.0,Albania,ALB
-48,49.0,Chile,CHL
-49,50.0,Vietnam,VNM
-50,51.0,Montenegro,MNE
-51,52.0,United Arab Emirates,ARE
-53,54.0,Senegal,SEN
-54,55.0,France,FRA
-55,56.0,Timor-Leste,TMP
-56,57.0,South Korea,KOR
-57,58.0,Tanzania,TZA
-58,59.0,Malawi,MWI
-59,59.0,Moldova,MDA
-60,61.0,Cyprus,CYP
-61,62.0,Equatorial Guinea,GNQ
-62,63.0,Jordan,JOR
-63,64.0,Panama,PAN
-64,65.0,Namibia,NAM
-65,66.0,Greece,GRC
-66,67.0,Kazakhstan,KAZ
-67,68.0,Argentina,ARG
-69,70.0,Madagascar,MDG
-70,71.0,Zambia,ZMB
-71,72.0,Bosnia And Herzegovina,BIH
-72,73.0,Oman,OMN
-73,74.0,Jamaica,JAM
-74,75.0,Paraguay,PRY
-75,76.0,Kyrgyz Republic,KGZ
-76,76.0,Liberia,LBR
-77,78.0,Cambodia,KHM
-78,79.0,Morocco,MAR
-79,80.0,Angola,AGO
-80,80.0,Kosovo,KSV
-81,82.0,Dominican Republic,DOM
-82,83.0,Rwanda,RWA
-83,84.0,Trinidad And Tobago,TTO
-84,85.0,Nepal,NPL
-85,86.0,Peru,PER
-86,87.0,Cuba,CUB
-87,88.0,Ecuador,ECU
-88,89.0,Georgia,GEO
-89,90.0,Uzbekistan,UZB
-90,91.0,Bangladesh,BGD
-91,92.0,Guinea,GIN
-92,93.0,Gabon,GAB
-93,94.0,Armenia,ARM
-94,95.0,Sri Lanka,LKA
-95,96.0,Benin,BEN
-96,97.0,Tajikistan,TJK
-97,98.0,Tunisia,TUN
-98,99.0,Guinea-Bissau,GNB
-99,100.0,China,CHN
-100,100.0,Guyana,GUY
-101,102.0,Bahrain,BHR
-102,103.0,Cote D' Ivoire,CIV
-103,103.0,Mozambique,MOZ
-104,105.0,Bolivia,BOL
-105,106.0,Djibouti,DJI
-106,107.0,Papua New Guinea,PNG
-107,108.0,Haiti,HTI
-108,109.0,Turkmenistan,TKM
-109,110.0,El Salvador,SLV
-110,111.0,Guatemala,GTM
-111,112.0,Lesotho,LSO
-112,113.0,Thailand,THA
-113,114.0,Uganda,UGA
-114,115.0,Togo,TGO
-115,116.0,Kenya,KEN
-116,117.0,Belarus,BLR
-117,118.0,Mauritania,MRT
-118,119.0,Republic Of The Congo,COG
-119,120.0,Algeria,DZA
-120,121.0,Azerbaijan,AZE
-121,122.0,United States Of America,USA
-122,122.0,United States Of America,USA
-123,123.0,South Africa,ZAF
-124,124.0,Honduras,HND
-125,125.0,Saudi Arabia,SAU
-126,126.0,Egypt,EGY
-127,127.0,Philippines,PHL
-128,128.0,Brazil,BRA
-129,129.0,Burundi,BDI
-130,130.0,Nicaragua,NIC
-131,131.0,Myanmar,MMR
-132,132.0,Chad,TCD
-133,133.0,Zimbabwe,ZWE
-134,134.0,Burkina Faso,BFA
-135,135.0,India,IND
-136,136.0,Eritrea,ERI
-137,137.0,Niger,NER
-139,139.0,Ethiopia,ETH
-140,140.0,Mexico,MEX
-141,141.0,Iran,IRN
-142,142.0,Ukraine,UKR
-143,143.0,Israel,ISR
-144,144.0,Colombia,COL
-145,145.0,Cameroon,CMR
-146,146.0,Nigeria,NGA
-147,147.0,Lebanon,LBN
-148,148.0,Mali,MLI
-149,149.0,Turkey,TUR
-150,150.0,Pakistan,PAK
-151,151.0,North Korea,PRK
-152,152.0,Venezuela,VEN
-153,153.0,Sudan,SDN
-154,154.0,Russia,RUS
-156,156.0,Libya,LBY
-157,157.0,Democratic Republic Of The Congo,COD
-158,158.0,Somalia,SOM
-159,159.0,Iraq,IRQ
-160,160.0,South Sudan,SSD
-161,161.0,Syria,SYR
-162,162.0,Yemen,YEM
-163,163.0,Afghanistan,AFG
+0,1,Iceland,ISL
+1,2,New Zealand,NZL
+2,3,Denmark,DNK
+3,4,Portugal,PRT
+4,5,Slovenia,SVN
+5,6,Austria,AUT
+6,7,Switzerland,CHE
+7,8,Ireland,IRL
+8,9,Czech Republic,CZE
+9,10,Canada,CAN
+10,11,Singapore,SGP
+11,12,Japan,JPN
+12,13,Finland,FIN
+13,14,Norway,NOR
+14,15,Sweden,SWE
+15,16,Australia,AUS
+16,17,Croatia,HRV
+17,17,Germany,DEU
+18,19,Hungary,HUN
+19,20,Belgium,BEL
+20,21,Netherlands,NLD
+21,22,Bhutan,BTN
+22,23,Malaysia,MYS
+23,24,Poland,POL
+24,25,Romania,ROU
+25,26,Slovakia,SVK
+26,27,Bulgaria,BGR
+27,28,Mauritius,MUS
+28,29,Qatar,QAT
+29,30,Estonia,EST
+30,31,Spain,ESP
+31,32,Italy,ITA
+32,33,United Kingdom,GBR
+33,34,Taiwan,TWN
+34,35,Latvia,LVA
+35,36,Kuwait,KWT
+36,37,Lithuania,LTU
+37,38,Ghana,GHA
+38,39,Costa Rica,CRI
+39,40,North Macedonia,MKD
+40,41,Botswana,BWA
+41,42,Indonesia,IDN
+42,42,Mongolia,MNG
+43,44,Serbia,SRB
+44,45,Laos,LAO
+45,46,Sierra Leone,SLE
+46,47,Uruguay,URY
+47,48,Albania,ALB
+48,49,Chile,CHL
+49,50,Vietnam,VNM
+50,51,Montenegro,MNE
+51,52,United Arab Emirates,ARE
+53,54,Senegal,SEN
+54,55,France,FRA
+55,56,Timor-Leste,TMP
+56,57,South Korea,KOR
+57,58,Tanzania,TZA
+58,59,Malawi,MWI
+59,59,Moldova,MDA
+60,61,Cyprus,CYP
+61,62,Equatorial Guinea,GNQ
+62,63,Jordan,JOR
+63,64,Panama,PAN
+64,65,Namibia,NAM
+65,66,Greece,GRC
+66,67,Kazakhstan,KAZ
+67,68,Argentina,ARG
+69,70,Madagascar,MDG
+70,71,Zambia,ZMB
+71,72,Bosnia And Herzegovina,BIH
+72,73,Oman,OMN
+73,74,Jamaica,JAM
+74,75,Paraguay,PRY
+75,76,Kyrgyz Republic,KGZ
+76,76,Liberia,LBR
+77,78,Cambodia,KHM
+78,79,Morocco,MAR
+79,80,Angola,AGO
+80,80,Kosovo,KSV
+81,82,Dominican Republic,DOM
+82,83,Rwanda,RWA
+83,84,Trinidad And Tobago,TTO
+84,85,Nepal,NPL
+85,86,Peru,PER
+86,87,Cuba,CUB
+87,88,Ecuador,ECU
+88,89,Georgia,GEO
+89,90,Uzbekistan,UZB
+90,91,Bangladesh,BGD
+91,92,Guinea,GIN
+92,93,Gabon,GAB
+93,94,Armenia,ARM
+94,95,Sri Lanka,LKA
+95,96,Benin,BEN
+96,97,Tajikistan,TJK
+97,98,Tunisia,TUN
+98,99,Guinea-Bissau,GNB
+99,100,China,CHN
+100,100,Guyana,GUY
+101,102,Bahrain,BHR
+102,103,Cote D' Ivoire,CIV
+103,103,Mozambique,MOZ
+104,105,Bolivia,BOL
+105,106,Djibouti,DJI
+106,107,Papua New Guinea,PNG
+107,108,Haiti,HTI
+108,109,Turkmenistan,TKM
+109,110,El Salvador,SLV
+110,111,Guatemala,GTM
+111,112,Lesotho,LSO
+112,113,Thailand,THA
+113,114,Uganda,UGA
+114,115,Togo,TGO
+115,116,Kenya,KEN
+116,117,Belarus,BLR
+117,118,Mauritania,MRT
+118,119,Republic Of The Congo,COG
+119,120,Algeria,DZA
+120,121,Azerbaijan,AZE
+121,122,United States Of America,USA
+122,123,South Africa,ZAF
+123,124,Honduras,HND
+124,125,Saudi Arabia,SAU
+125,126,Egypt,EGY
+126,127,Philippines,PHL
+127,128,Brazil,BRA
+128,129,Burundi,BDI
+129,130,Nicaragua,NIC
+130,131,Myanmar,MMR
+131,132,Chad,TCD
+132,133,Zimbabwe,ZWE
+133,134,Burkina Faso,BFA
+134,135,India,IND
+135,136,Eritrea,ERI
+136,137,Niger,NER
+138,139,Ethiopia,ETH
+139,140,Mexico,MEX
+140,141,Iran,IRN
+141,142,Ukraine,UKR
+142,143,Israel,ISR
+143,144,Colombia,COL
+144,145,Cameroon,CMR
+145,146,Nigeria,NGA
+146,147,Lebanon,LBN
+147,148,Mali,MLI
+148,149,Turkey,TUR
+149,150,Pakistan,PAK
+150,151,North Korea,PRK
+151,152,Venezuela,VEN
+152,153,Sudan,SDN
+153,154,Russia,RUS
+155,156,Libya,LBY
+156,157,Democratic Republic Of The Congo,COD
+157,158,Somalia,SOM
+158,159,Iraq,IRQ
+159,160,South Sudan,SSD
+160,161,Syria,SYR
+161,162,Yemen,YEM
+162,163,Afghanistan,AFG

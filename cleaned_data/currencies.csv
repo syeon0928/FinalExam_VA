@@ -5,221 +5,202 @@
 4,American Samoa,Us Dollar,USD,ASM
 5,Andorra,Euro,EUR,ADO
 6,Angola,Kwanza,AOA,AGO
-9,Antigua And Barbuda,East Caribbean Dollar,XCD,ATG
-10,Argentina,Argentine Peso,ARS,ARG
-11,Armenia,Armenian Dram,AMD,ARM
-12,Aruba,Aruban Florin,AWG,ABW
-13,Australia,Australian Dollar,AUD,AUS
-14,Austria,Euro,EUR,AUT
-15,Azerbaijan,Azerbaijan Manat,AZN,AZE
-16,Bahamas,Bahamian Dollar,BSD,BHS
-17,Bahrain,Bahraini Dinar,BHD,BHR
-18,Bangladesh,Taka,BDT,BGD
-19,Barbados,Barbados Dollar,BBD,BRB
-20,Belarus,Belarusian Ruble,BYN,BLR
-21,Belgium,Euro,EUR,BEL
-22,Belize,Belize Dollar,BZD,BLZ
-23,Benin,Cfa Franc Bceao,XOF,BEN
-24,Bermuda,Bermudian Dollar,BMD,BMU
-25,Bhutan,Indian Rupee,INR,BTN
-26,Bhutan,Ngultrum,BTN,BTN
-27,Bolivia,Boliviano,BOB,BOL
-28,Bolivia,Mvdol,BOV,BOL
-30,Bosnia And Herzegovina,Convertible Mark,BAM,BIH
-31,Botswana,Pula,BWP,BWA
-33,Brazil,Brazilian Real,BRL,BRA
-35,Brunei Darussalam,Brunei Dollar,BND,BRN
-36,Bulgaria,Bulgarian Lev,BGN,BGR
-37,Burkina Faso,Cfa Franc Bceao,XOF,BFA
-38,Burundi,Burundi Franc,BIF,BDI
-39,Cabo Verde,Cabo Verde Escudo,CVE,CPV
-40,Cambodia,Riel,KHR,KHM
-41,Cameroon,Cfa Franc Beac,XAF,CMR
-42,Canada,Canadian Dollar,CAD,CAN
-43,Cayman Islands,Cayman Islands Dollar,KYD,CYM
-44,Central African Republic,Cfa Franc Beac,XAF,CAF
-45,Chad,Cfa Franc Beac,XAF,TCD
-46,Chile,Chilean Peso,CLP,CHL
-47,Chile,Unidad De Fomento,CLF,CHL
-48,China,Yuan Renminbi,CNY,CHN
-51,Colombia,Colombian Peso,COP,COL
-52,Colombia,Unidad De Valor Real,COU,COL
-53,Comoros,Comorian Franc ,KMF,COM
-55,Republic Of The Congo,Cfa Franc Beac,XAF,COG
-57,Costa Rica,Costa Rican Colon,CRC,CRI
-58,Côte D'Ivoire,Cfa Franc Bceao,XOF,CIV
-59,Croatia,Kuna,HRK,HRV
-60,Cuba,Cuban Peso,CUP,CUB
-61,Cuba,Peso Convertible,CUC,CUB
-63,Cyprus,Euro,EUR,CYP
-64,Czechia,Czech Koruna,CZK,CIV
-65,Denmark,Danish Krone,DKK,DNK
-66,Djibouti,Djibouti Franc,DJF,DJI
-67,Dominica,East Caribbean Dollar,XCD,DMA
-68,Dominican Republic,Dominican Peso,DOP,DOM
-69,Ecuador,Us Dollar,USD,ECU
-70,Egypt,Egyptian Pound,EGP,EGY
-71,El Salvador,El Salvador Colon,SVC,SLV
-72,El Salvador,Us Dollar,USD,SLV
-73,Equatorial Guinea,Cfa Franc Beac,XAF,GNQ
-74,Eritrea,Nakfa,ERN,ERI
-75,Estonia,Euro,EUR,EST
-77,Ethiopia,Ethiopian Birr,ETB,ETH
-80,Faroe Islands,Danish Krone,DKK,FRO
-81,Fiji,Fiji Dollar,FJD,FJI
-82,Finland,Euro,EUR,FIN
-83,France,Euro,EUR,FRA
-84,French Guiana,Euro,EUR,GUF
-85,French Polynesia,Cfp Franc,XPF,PYF
-87,Gabon,Cfa Franc Beac,XAF,GAB
-88,Gambia,Dalasi,GMD,GMB
-89,Georgia,Lari,GEL,GEO
-90,Germany,Euro,EUR,DEU
-91,Ghana,Ghana Cedi,GHS,GHA
-93,Greece,Euro,EUR,GRC
-94,Greenland,Danish Krone,DKK,GRL
-95,Grenada,East Caribbean Dollar,XCD,GRD
-97,Guam,Us Dollar,USD,GUM
-98,Guatemala,Quetzal,GTQ,GTM
-100,Guinea,Guinean Franc,GNF,GIN
-101,Guinea-Bissau,Cfa Franc Bceao,XOF,GNB
-102,Guyana,Guyana Dollar,GYD,GUY
-103,Haiti,Gourde,HTG,HTI
-104,Haiti,Us Dollar,USD,HTI
-107,Honduras,Lempira,HNL,HND
-108,Hong Kong,Hong Kong Dollar,HKD,HKG
-109,Hungary,Forint,HUF,HUN
-110,Iceland,Iceland Krona,ISK,ISL
-111,India,Indian Rupee,INR,IND
-112,Indonesia,Rupiah,IDR,IDN
-114,Iran,Iranian Rial,IRR,IRN
-115,Iraq,Iraqi Dinar,IQD,IRQ
-116,Ireland,Euro,EUR,IRL
-117,Isle Of Man,Pound Sterling,GBP,IMY
-118,Israel,New Israeli Sheqel,ILS,ISR
-119,Italy,Euro,EUR,ITA
-120,Jamaica,Jamaican Dollar,JMD,JAM
-121,Japan,Yen,JPY,JPN
-123,Jordan,Jordanian Dinar,JOD,JOR
-124,Kazakhstan,Tenge,KZT,KAZ
-125,Kenya,Kenyan Shilling,KES,KEN
-126,Kiribati,Australian Dollar,AUD,KIR
-127,North Korea,North Korean Won,KPW,PRK
-128,South Korea,Won,KRW,KOR
-129,Kuwait,Kuwaiti Dinar,KWD,KWT
-130,Kyrgyzstan,Som,KGS,KGZ
-131,Kyrgyzstan,Som,KGS,KGZ
-132,Lao People'S Democratic Republic,Lao Kip,LAK,LAO
-133,Latvia,Euro,EUR,LVA
-134,Lebanon,Lebanese Pound,LBP,LBN
-135,Lesotho,Loti,LSL,LSO
-136,Lesotho,Rand,ZAR,LSO
-137,Liberia,Liberian Dollar,LRD,LBR
-138,Libya,Libyan Dinar,LYD,LBY
-139,Liechtenstein,Swiss Franc,CHF,LIE
-140,Lithuania,Euro,EUR,LTU
-141,Luxembourg,Euro,EUR,LUX
-142,Macao,Pataca,MOP,MAC
-143,North Macedonia,Denar,MKD,MKD
-144,Madagascar,Malagasy Ariary,MGA,MDG
-145,Malawi,Malawi Kwacha,MWK,MWI
-146,Malaysia,Malaysian Ringgit,MYR,MYS
-147,Maldives,Rufiyaa,MVR,MDV
-148,Mali,Cfa Franc Bceao,XOF,MLI
-149,Malta,Euro,EUR,MLT
-150,Marshall Islands,Us Dollar,USD,MHL
-152,Mauritania,Ouguiya,MRU,MRT
-153,Mauritius,Mauritius Rupee,MUR,MUS
-156,Mexico,Mexican Peso,MXN,MEX
-157,Mexico,Mexican Unidad De Inversion (Udi),MXV,MEX
-159,Moldova,Moldovan Leu,MDL,MDA
-160,Monaco,Euro,EUR,MCO
-161,Mongolia,Tugrik,MNT,MNG
-162,Montenegro,Euro,EUR,MNE
-164,Morocco,Moroccan Dirham,MAD,MAR
-165,Mozambique,Mozambique Metical,MZN,MOZ
-166,Myanmar,Kyat,MMK,MMR
-167,Namibia,Namibia Dollar,NAD,NAM
-168,Namibia,Rand,ZAR,NAM
-170,Nepal,Nepalese Rupee,NPR,NPL
-171,Netherlands,Euro,EUR,NLD
-172,New Caledonia,Cfp Franc,XPF,NCL
-173,New Zealand,New Zealand Dollar,NZD,NZL
-174,Nicaragua,Cordoba Oro,NIO,NIC
-175,Niger,Cfa Franc Bceao,XOF,NER
-176,Nigeria,Naira,NGN,NGA
-179,Northern Mariana Islands,Us Dollar,USD,MNP
-180,Norway,Norwegian Krone,NOK,NOR
-181,Oman,Rial Omani,OMR,OMN
-182,Pakistan,Pakistan Rupee,PKR,PAK
-183,Palau,Us Dollar,USD,PLW
-185,Panama,Balboa,PAB,PAN
-186,Panama,Us Dollar,USD,PAN
-187,Papua New Guinea,Kina,PGK,PNG
-188,Paraguay,Guarani,PYG,PRY
-189,Peru,Sol,PEN,PER
-190,Philippines,Philippine Peso,PHP,PHL
-192,Poland,Zloty,PLN,POL
-193,Portugal,Euro,EUR,PRT
-194,Puerto Rico,Us Dollar,USD,PRI
-195,Qatar,Qatari Rial,QAR,QAT
-197,Romania,Romanian Leu,RON,ROU
-198,Russian Federation,Russian Ruble,RUB,RUS
-199,Rwanda,Rwanda Franc,RWF,RWA
-202,Saint Kitts And Nevis,East Caribbean Dollar,XCD,KNA
-203,Saint Lucia,East Caribbean Dollar,XCD,LCA
-206,Saint Vincent And The Grenadines,East Caribbean Dollar,XCD,VCT
-207,Samoa,Tala,WST,WSM
-208,San Marino,Euro,EUR,SMR
-209,Sao Tome And Principe,Dobra,STN,STP
-210,Saudi Arabia,Saudi Riyal,SAR,SAU
-211,Senegal,Cfa Franc Bceao,XOF,SEN
-212,Serbia,Serbian Dinar,RSD,SRB
-213,Seychelles,Seychelles Rupee,SCR,SYC
-214,Sierra Leone,Leone,SLL,SLE
-215,Singapore,Singapore Dollar,SGD,SGP
-218,Slovakia,Euro,EUR,SVK
-219,Slovenia,Euro,EUR,SVN
-220,Solomon Islands,Solomon Islands Dollar,SBD,SLB
-221,Somalia,Somali Shilling,SOS,SOM
-222,South Africa,Rand,ZAR,ZAF
-224,South Sudan,South Sudanese Pound,SSP,SSD
-225,Spain,Euro,EUR,ESP
-226,Sri Lanka,Sri Lanka Rupee,LKR,LKA
-227,Sudan,Sudanese Pound,SDG,SDN
-228,Suriname,Surinam Dollar,SRD,SUR
-230,Sweden,Swedish Krona,SEK,SWE
-231,Switzerland,Swiss Franc,CHF,CHE
-232,Switzerland,Wir Euro,CHE,CHE
-233,Switzerland,Wir Franc,CHW,CHE
-234,Syrian Arab Republic,Syrian Pound,SYP,SYR
-235,Taiwan,New Taiwan Dollar,TWD,TWN
-236,Tajikistan,Somoni,TJS,TJK
-238,Thailand,Baht,THB,THA
-239,Timor-Leste,Us Dollar,USD,TMP
-240,Togo,Cfa Franc Bceao,XOF,TGO
-242,Tonga,Pa'Anga,TOP,TON
-243,Trinidad And Tobago,Trinidad And Tobago Dollar,TTD,TTO
-244,Tunisia,Tunisian Dinar,TND,TUN
-245,Turkey,Turkish Lira,TRY,TUR
-246,Turkmenistan,Turkmenistan New Manat,TMT,TKM
-247,Turks And Caicos Islands,Us Dollar,USD,TCA
-248,Tuvalu,Australian Dollar,AUD,TUV
-249,Uganda,Uganda Shilling,UGX,UGA
-250,Ukraine,Hryvnia,UAH,UKR
-251,United Arab Emirates,Uae Dirham,AED,ARE
-252,United Kingdom Of Great Britain And Northern Ireland,Pound Sterling,GBP,GBR
-254,United States Of America,Us Dollar,USD,USA
-255,United States Of America,Us Dollar,USD,USA
-256,United States Of America,Us Dollar (Next Day),USN,USA
-257,United States Of America,Us Dollar (Next Day),USN,USA
-258,Uruguay,Peso Uruguayo,UYU,URY
-259,Uruguay,Uruguay Peso En Unidades Indexadas (Ui),UYI,URY
-260,Uruguay,Unidad Previsional,UYW,URY
-261,Uzbekistan,Uzbekistan Sum,UZS,UZB
-262,Vanuatu,Vatu,VUV,VUT
-263,Venezuela,Bolívar Soberano,VES,VEN
-264,Viet Nam,Dong,VND,VNM
-269,Yemen,Yemeni Rial,YER,YEM
-270,Zambia,Zambian Kwacha,ZMW,ZMB
-271,Zimbabwe,Zimbabwe Dollar,ZWL,ZWE
+8,Antigua And Barbuda,East Caribbean Dollar,XCD,ATG
+9,Argentina,Argentine Peso,ARS,ARG
+10,Armenia,Armenian Dram,AMD,ARM
+11,Aruba,Aruban Florin,AWG,ABW
+12,Australia,Australian Dollar,AUD,AUS
+13,Austria,Euro,EUR,AUT
+14,Azerbaijan,Azerbaijan Manat,AZN,AZE
+15,Bahamas,Bahamian Dollar,BSD,BHS
+16,Bahrain,Bahraini Dinar,BHD,BHR
+17,Bangladesh,Taka,BDT,BGD
+18,Barbados,Barbados Dollar,BBD,BRB
+19,Belarus,Belarusian Ruble,BYN,BLR
+20,Belgium,Euro,EUR,BEL
+21,Belize,Belize Dollar,BZD,BLZ
+22,Benin,Cfa Franc Bceao,XOF,BEN
+23,Bermuda,Bermudian Dollar,BMD,BMU
+24,Bhutan,Ngultrum,BTN,BTN
+25,Bolivia,Boliviano,BOB,BOL
+27,Bosnia And Herzegovina,Convertible Mark,BAM,BIH
+28,Botswana,Pula,BWP,BWA
+30,Brazil,Brazilian Real,BRL,BRA
+32,Brunei Darussalam,Brunei Dollar,BND,BRN
+33,Bulgaria,Bulgarian Lev,BGN,BGR
+34,Burkina Faso,Cfa Franc Bceao,XOF,BFA
+35,Burundi,Burundi Franc,BIF,BDI
+36,Cabo Verde,Cabo Verde Escudo,CVE,CPV
+37,Cambodia,Riel,KHR,KHM
+38,Cameroon,Cfa Franc Beac,XAF,CMR
+39,Canada,Canadian Dollar,CAD,CAN
+40,Cayman Islands,Cayman Islands Dollar,KYD,CYM
+41,Central African Republic,Cfa Franc Beac,XAF,CAF
+42,Chad,Cfa Franc Beac,XAF,TCD
+43,Chile,Chilean Peso,CLP,CHL
+44,China,Yuan Renminbi,CNY,CHN
+47,Colombia,Colombian Peso,COP,COL
+48,Comoros,Comorian Franc ,KMF,COM
+50,Republic Of The Congo,Cfa Franc Beac,XAF,COG
+52,Costa Rica,Costa Rican Colon,CRC,CRI
+53,Côte D'Ivoire,Cfa Franc Bceao,XOF,CIV
+54,Croatia,Kuna,HRK,HRV
+55,Cuba,Peso Convertible,CUC,CUB
+57,Cyprus,Euro,EUR,CYP
+58,Czechia,Czech Koruna,CZK,CIV
+59,Denmark,Danish Krone,DKK,DNK
+60,Djibouti,Djibouti Franc,DJF,DJI
+61,Dominica,East Caribbean Dollar,XCD,DMA
+62,Dominican Republic,Dominican Peso,DOP,DOM
+63,Ecuador,Us Dollar,USD,ECU
+64,Egypt,Egyptian Pound,EGP,EGY
+65,El Salvador,El Salvador Colon,SVC,SLV
+66,Equatorial Guinea,Cfa Franc Beac,XAF,GNQ
+67,Eritrea,Nakfa,ERN,ERI
+68,Estonia,Euro,EUR,EST
+70,Ethiopia,Ethiopian Birr,ETB,ETH
+73,Faroe Islands,Danish Krone,DKK,FRO
+74,Fiji,Fiji Dollar,FJD,FJI
+75,Finland,Euro,EUR,FIN
+76,France,Euro,EUR,FRA
+77,French Guiana,Euro,EUR,GUF
+78,French Polynesia,Cfp Franc,XPF,PYF
+80,Gabon,Cfa Franc Beac,XAF,GAB
+81,Gambia,Dalasi,GMD,GMB
+82,Georgia,Lari,GEL,GEO
+83,Germany,Euro,EUR,DEU
+84,Ghana,Ghana Cedi,GHS,GHA
+86,Greece,Euro,EUR,GRC
+87,Greenland,Danish Krone,DKK,GRL
+88,Grenada,East Caribbean Dollar,XCD,GRD
+90,Guam,Us Dollar,USD,GUM
+91,Guatemala,Quetzal,GTQ,GTM
+93,Guinea,Guinean Franc,GNF,GIN
+94,Guinea-Bissau,Cfa Franc Bceao,XOF,GNB
+95,Guyana,Guyana Dollar,GYD,GUY
+96,Haiti,Us Dollar,USD,HTI
+99,Honduras,Lempira,HNL,HND
+100,Hong Kong,Hong Kong Dollar,HKD,HKG
+101,Hungary,Forint,HUF,HUN
+102,Iceland,Iceland Krona,ISK,ISL
+103,India,Indian Rupee,INR,IND
+104,Indonesia,Rupiah,IDR,IDN
+106,Iran,Iranian Rial,IRR,IRN
+107,Iraq,Iraqi Dinar,IQD,IRQ
+108,Ireland,Euro,EUR,IRL
+109,Isle Of Man,Pound Sterling,GBP,IMY
+110,Israel,New Israeli Sheqel,ILS,ISR
+111,Italy,Euro,EUR,ITA
+112,Jamaica,Jamaican Dollar,JMD,JAM
+113,Japan,Yen,JPY,JPN
+115,Jordan,Jordanian Dinar,JOD,JOR
+116,Kazakhstan,Tenge,KZT,KAZ
+117,Kenya,Kenyan Shilling,KES,KEN
+118,Kiribati,Australian Dollar,AUD,KIR
+119,North Korea,North Korean Won,KPW,PRK
+120,South Korea,Won,KRW,KOR
+121,Kuwait,Kuwaiti Dinar,KWD,KWT
+122,Kyrgyzstan,Som,KGS,KGZ
+123,Lao People'S Democratic Republic,Lao Kip,LAK,LAO
+124,Latvia,Euro,EUR,LVA
+125,Lebanon,Lebanese Pound,LBP,LBN
+126,Lesotho,Loti,LSL,LSO
+127,Liberia,Liberian Dollar,LRD,LBR
+128,Libya,Libyan Dinar,LYD,LBY
+129,Liechtenstein,Swiss Franc,CHF,LIE
+130,Lithuania,Euro,EUR,LTU
+131,Luxembourg,Euro,EUR,LUX
+132,Macao,Pataca,MOP,MAC
+133,North Macedonia,Denar,MKD,MKD
+134,Madagascar,Malagasy Ariary,MGA,MDG
+135,Malawi,Malawi Kwacha,MWK,MWI
+136,Malaysia,Malaysian Ringgit,MYR,MYS
+137,Maldives,Rufiyaa,MVR,MDV
+138,Mali,Cfa Franc Bceao,XOF,MLI
+139,Malta,Euro,EUR,MLT
+140,Marshall Islands,Us Dollar,USD,MHL
+142,Mauritania,Ouguiya,MRU,MRT
+143,Mauritius,Mauritius Rupee,MUR,MUS
+146,Mexico,Mexican Peso,MXN,MEX
+148,Moldova,Moldovan Leu,MDL,MDA
+149,Monaco,Euro,EUR,MCO
+150,Mongolia,Tugrik,MNT,MNG
+151,Montenegro,Euro,EUR,MNE
+153,Morocco,Moroccan Dirham,MAD,MAR
+154,Mozambique,Mozambique Metical,MZN,MOZ
+155,Myanmar,Kyat,MMK,MMR
+156,Namibia,Namibia Dollar,NAD,NAM
+158,Nepal,Nepalese Rupee,NPR,NPL
+159,Netherlands,Euro,EUR,NLD
+160,New Caledonia,Cfp Franc,XPF,NCL
+161,New Zealand,New Zealand Dollar,NZD,NZL
+162,Nicaragua,Cordoba Oro,NIO,NIC
+163,Niger,Cfa Franc Bceao,XOF,NER
+164,Nigeria,Naira,NGN,NGA
+167,Northern Mariana Islands,Us Dollar,USD,MNP
+168,Norway,Norwegian Krone,NOK,NOR
+169,Oman,Rial Omani,OMR,OMN
+170,Pakistan,Pakistan Rupee,PKR,PAK
+171,Palau,Us Dollar,USD,PLW
+172,Panama,Balboa,PAB,PAN
+173,Papua New Guinea,Kina,PGK,PNG
+174,Paraguay,Guarani,PYG,PRY
+175,Peru,Sol,PEN,PER
+176,Philippines,Philippine Peso,PHP,PHL
+178,Poland,Zloty,PLN,POL
+179,Portugal,Euro,EUR,PRT
+180,Puerto Rico,Us Dollar,USD,PRI
+181,Qatar,Qatari Rial,QAR,QAT
+183,Romania,Romanian Leu,RON,ROU
+184,Russian Federation,Russian Ruble,RUB,RUS
+185,Rwanda,Rwanda Franc,RWF,RWA
+188,Saint Kitts And Nevis,East Caribbean Dollar,XCD,KNA
+189,Saint Lucia,East Caribbean Dollar,XCD,LCA
+192,Saint Vincent And The Grenadines,East Caribbean Dollar,XCD,VCT
+193,Samoa,Tala,WST,WSM
+194,San Marino,Euro,EUR,SMR
+195,Sao Tome And Principe,Dobra,STN,STP
+196,Saudi Arabia,Saudi Riyal,SAR,SAU
+197,Senegal,Cfa Franc Bceao,XOF,SEN
+198,Serbia,Serbian Dinar,RSD,SRB
+199,Seychelles,Seychelles Rupee,SCR,SYC
+200,Sierra Leone,Leone,SLL,SLE
+201,Singapore,Singapore Dollar,SGD,SGP
+204,Slovakia,Euro,EUR,SVK
+205,Slovenia,Euro,EUR,SVN
+206,Solomon Islands,Solomon Islands Dollar,SBD,SLB
+207,Somalia,Somali Shilling,SOS,SOM
+208,South Africa,Rand,ZAR,ZAF
+209,South Sudan,South Sudanese Pound,SSP,SSD
+210,Spain,Euro,EUR,ESP
+211,Sri Lanka,Sri Lanka Rupee,LKR,LKA
+212,Sudan,Sudanese Pound,SDG,SDN
+213,Suriname,Surinam Dollar,SRD,SUR
+215,Sweden,Swedish Krona,SEK,SWE
+216,Switzerland,Swiss Franc,CHF,CHE
+217,Syrian Arab Republic,Syrian Pound,SYP,SYR
+218,Taiwan,New Taiwan Dollar,TWD,TWN
+219,Tajikistan,Somoni,TJS,TJK
+221,Thailand,Baht,THB,THA
+222,Timor-Leste,Us Dollar,USD,TMP
+223,Togo,Cfa Franc Bceao,XOF,TGO
+225,Tonga,Pa'Anga,TOP,TON
+226,Trinidad And Tobago,Trinidad And Tobago Dollar,TTD,TTO
+227,Tunisia,Tunisian Dinar,TND,TUN
+228,Turkey,Turkish Lira,TRY,TUR
+229,Turkmenistan,Turkmenistan New Manat,TMT,TKM
+230,Turks And Caicos Islands,Us Dollar,USD,TCA
+231,Tuvalu,Australian Dollar,AUD,TUV
+232,Uganda,Uganda Shilling,UGX,UGA
+233,Ukraine,Hryvnia,UAH,UKR
+234,United Arab Emirates,Uae Dirham,AED,ARE
+235,United Kingdom Of Great Britain And Northern Ireland,Pound Sterling,GBP,GBR
+237,United States Of America,Us Dollar,USD,USA
+238,Uruguay,Peso Uruguayo,UYU,URY
+239,Uzbekistan,Uzbekistan Sum,UZS,UZB
+240,Vanuatu,Vatu,VUV,VUT
+241,Venezuela,Bolívar Soberano,VES,VEN
+242,Viet Nam,Dong,VND,VNM
+247,Yemen,Yemeni Rial,YER,YEM
+248,Zambia,Zambian Kwacha,ZMW,ZMB
+249,Zimbabwe,Zimbabwe Dollar,ZWL,ZWE
