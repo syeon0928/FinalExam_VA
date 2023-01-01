@@ -1,7 +1,6 @@
 Country,Country Code,Average Hotel and Restaurant Cost,Type Traveler
 Albania,ALB,50.78,Budget Traveler
 Algeria,DZA,33.93,Budget Traveler
-American Samoa,ASM,33.93,Budget Traveler
 Angola,AGO,79.22,Budget Traveler
 Antigua And Barbuda,ATG,105.93,Budget Traveler
 Argentina,ARG,89.24,Budget Traveler
@@ -66,7 +65,6 @@ Côte D'Ivoire,CIV,50.04,Budget Traveler
 Côte D'Ivoire,CIV,50.04,Budget Traveler
 Côte D'Ivoire,CIV,50.04,Budget Traveler
 Croatia,HRV,92.46,Budget Traveler
-Cuba,CUB,92.46,Budget Traveler
 Curaçao,CUW,124.81,Budget Traveler
 Cyprus,CYP,115.34,Budget Traveler
 Czech Republic,CZE,75.54,Budget Traveler
@@ -79,14 +77,12 @@ Ecuador,ECU,118.35,Budget Traveler
 "Egypt, Arab Rep.",EGY,26.44,Budget Traveler
 El Salvador,SLV,65.92,Budget Traveler
 Equatorial Guinea,GNQ,80.17,Budget Traveler
-Eritrea,ERI,80.17,Budget Traveler
 Estonia,EST,106.71,Budget Traveler
 Eswatini,SWZ,66.54,Budget Traveler
 Ethiopia,ETH,33.08,Budget Traveler
 Fiji,FJI,63.21,Budget Traveler
 Finland,FIN,160.6,Budget Traveler
 France,FRA,147.23,Budget Traveler
-French Polynesia,PYF,147.23,Budget Traveler
 Gabon,GAB,60.16,Budget Traveler
 "Gambia, The",GMB,45.97,Budget Traveler
 "Gambia, The",GMB,45.97,Budget Traveler
@@ -95,8 +91,6 @@ Germany,DEU,137.9,Budget Traveler
 Ghana,GHA,49.72,Budget Traveler
 Greece,GRC,103.71,Budget Traveler
 Grenada,GRD,70.45,Budget Traveler
-Guam,GUM,70.45,Budget Traveler
-Guatemala,GTM,70.45,Budget Traveler
 Guinea,GIN,33.39,Budget Traveler
 Guinea-Bissau,GNB,74.97,Budget Traveler
 Guyana,GUY,65.03,Budget Traveler
@@ -126,7 +120,6 @@ Japan,JPN,129.06,Comfort traveler
 Jordan,JOR,63.76,Comfort traveler
 Kazakhstan,KAZ,67.06,Comfort traveler
 Kenya,KEN,38.81,Comfort traveler
-Kiribati,KIR,38.81,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
@@ -134,7 +127,6 @@ Kiribati,KIR,38.81,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
 "Korea, Rep.",KOR,145.92,Comfort traveler
-Kosovo,KSV,145.92,Comfort traveler
 Kuwait,KWT,102.9,Comfort traveler
 Kyrgyzstan,KGZ,68.42,Comfort traveler
 Kyrgyzstan,KGZ,68.42,Comfort traveler
@@ -144,30 +136,19 @@ Lao Pdr,LAO,58.18,Comfort traveler
 Lao Pdr,LAO,58.18,Comfort traveler
 Lao Pdr,LAO,58.18,Comfort traveler
 Latvia,LVA,102.56,Comfort traveler
-Lebanon,LBN,102.56,Comfort traveler
 Lesotho,LSO,59.4,Comfort traveler
 Liberia,LBR,55.09,Comfort traveler
-Libya,LBY,55.09,Comfort traveler
-Libya,LBY,55.09,Comfort traveler
 Lithuania,LTU,86.66,Comfort traveler
 Luxembourg,LUX,141.12,Comfort traveler
-"Macao Sar, China",MAC,141.12,Comfort traveler
-"Macao Sar, China",MAC,141.12,Comfort traveler
-"Macao Sar, China",MAC,141.12,Comfort traveler
-"Macao Sar, China",MAC,141.12,Comfort traveler
 Madagascar,MDG,33.01,Comfort traveler
 Malawi,MWI,49.24,Comfort traveler
 Malaysia,MYS,39.3,Comfort traveler
 Maldives,MDV,50.58,Comfort traveler
 Mali,MLI,67.27,Comfort traveler
 Malta,MLT,101.62,Comfort traveler
-Marshall Islands,MHL,101.62,Comfort traveler
 Mauritania,MRT,38.51,Comfort traveler
 Mauritius,MUS,86.66,Comfort traveler
 Mexico,MEX,63.31,Comfort traveler
-"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
-"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
-"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
 Moldova,MDA,64.37,Comfort traveler
 Moldova,MDA,64.37,Comfort traveler
 Moldova,MDA,64.37,Comfort traveler
@@ -182,7 +163,6 @@ Namibia,NAM,67.54,Comfort traveler
 Nepal,NPL,29.76,Comfort traveler
 Netherlands,NLD,141.25,Comfort traveler
 Netherlands,NLD,141.25,Comfort traveler
-New Caledonia,NCL,141.25,Comfort traveler
 New Zealand,NZL,140.97,Comfort traveler
 New Zealand,NZL,140.97,Comfort traveler
 Nicaragua,NIC,56.13,Comfort traveler
@@ -197,26 +177,20 @@ North Macedonia,MKD,53.86,Comfort traveler
 North Macedonia,MKD,53.86,Comfort traveler
 North Macedonia,MKD,53.86,Comfort traveler
 North Macedonia,MKD,53.86,Comfort traveler
-Northern Mariana Islands,MNP,53.86,Comfort traveler
 Norway,NOR,206.57,Comfort traveler
 Oman,OMN,58.29,Comfort traveler
 Pakistan,PAK,41.76,Comfort traveler
-Palau,PLW,41.76,Comfort traveler
 Panama,PAN,80.55,Comfort traveler
-Papua New Guinea,PNG,80.55,Comfort traveler
 Paraguay,PRY,60.5,Comfort traveler
 Peru,PER,72.12,Comfort traveler
 Philippines,PHL,48.52,Comfort traveler
 Poland,POL,92.4,Comfort traveler
 Portugal,PRT,96.82,Comfort traveler
-Puerto Rico,PRI,96.82,Comfort traveler
 Qatar,QAT,94.27,Comfort traveler
 Romania,ROU,66.04,Comfort traveler
 Russian Federation,RUS,80.01,Comfort traveler
 Russian Federation,RUS,80.01,Comfort traveler
 Rwanda,RWA,53.87,Luxury Traveler
-Samoa,WSM,53.87,Luxury Traveler
-San Marino,SMR,53.87,Luxury Traveler
 São Tomé And Principe,STP,57.25,Luxury Traveler
 Saudi Arabia,SAU,60.33,Luxury Traveler
 Senegal,SEN,70.55,Luxury Traveler
@@ -229,10 +203,7 @@ Sint Maarten,SXM,128.48,Luxury Traveler
 Slovakia,SVK,94.58,Luxury Traveler
 Slovakia,SVK,94.58,Luxury Traveler
 Slovenia,SVN,102.99,Luxury Traveler
-Solomon Islands,SLB,102.99,Luxury Traveler
-Somalia,SOM,102.99,Luxury Traveler
 South Africa,ZAF,62.93,Luxury Traveler
-South Sudan,SSD,42.21,Luxury Traveler
 Spain,ESP,107.28,Luxury Traveler
 Sri Lanka,LKA,49.53,Luxury Traveler
 St. Kitts And Nevis,KNA,136.67,Luxury Traveler
@@ -247,9 +218,6 @@ Suriname,SUR,57.35,Luxury Traveler
 Suriname,SUR,57.35,Luxury Traveler
 Sweden,SWE,182.92,Luxury Traveler
 Switzerland,CHE,203.18,Luxury Traveler
-Syrian Arab Republic,SYR,203.18,Luxury Traveler
-Syrian Arab Republic,SYR,203.18,Luxury Traveler
-Syrian Arab Republic,SYR,203.18,Luxury Traveler
 "Taiwan, China",TWN,56.02,Luxury Traveler
 "Taiwan, China",TWN,56.02,Luxury Traveler
 "Taiwan, China",TWN,56.02,Luxury Traveler
@@ -265,15 +233,12 @@ Tanzania,TZA,30.13,Luxury Traveler
 Tanzania,TZA,30.13,Luxury Traveler
 Thailand,THA,40.4,Luxury Traveler
 Togo,TGO,69.42,Luxury Traveler
-Tonga,TON,69.42,Luxury Traveler
 Trinidad And Tobago,TTO,120.76,Luxury Traveler
 Trinidad And Tobago,TTO,120.76,Luxury Traveler
 Tunisia,TUN,37.86,Luxury Traveler
 Turkey,TUR,78.22,Luxury Traveler
 Turkey,TUR,78.22,Luxury Traveler
-Turkmenistan,TKM,78.22,Luxury Traveler
 Turks And Caicos Islands,TCA,162.15,Luxury Traveler
-Tuvalu,TUV,162.15,Luxury Traveler
 Uganda,UGA,59.97,Luxury Traveler
 Ukraine,UKR,32.17,Luxury Traveler
 United Arab Emirates,ARE,93.47,Luxury Traveler
@@ -286,16 +251,7 @@ United States,USA,127.71,Luxury Traveler
 United States,USA,127.71,Luxury Traveler
 United States,USA,127.71,Luxury Traveler
 Uruguay,URY,114.64,Luxury Traveler
-Uzbekistan,UZB,114.64,Luxury Traveler
-Vanuatu,VUT,114.64,Luxury Traveler
-"Venezuela, Rb",VEN,114.64,Luxury Traveler
-"Venezuela, Rb",VEN,114.64,Luxury Traveler
-"Venezuela, Rb",VEN,114.64,Luxury Traveler
 Vietnam,VNM,35.01,Luxury Traveler
 Vietnam,VNM,35.01,Luxury Traveler
-Yemen,YEM,100.0,Luxury Traveler
-Yemen,YEM,100.0,Luxury Traveler
-Yemen,YEM,100.0,Luxury Traveler
 Zambia,ZMB,47.62,Luxury Traveler
 Zimbabwe,ZWE,73.27,Luxury Traveler
-Afghanistan,AFG,73.27,Luxury Traveler
