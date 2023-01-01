@@ -1,114 +1,102 @@
-Country,Main Religion
-Albania,Muslim
-Anguilla,Anglican
-Antigua And Barbuda,Anglican
-Armenia,Armenian Apostolic
-Aruba,Roman Catholic
-Australia,No Religion
-Austria,Roman Catholic
-Bahamas,Baptist
-Bahrain,Muslim
-Bangladesh,Muslim
-Barbados,Anglican
-Belize,Roman Catholic
-Bermuda,Anglican
-Botswana,Christian
-Brazil,Catholic
-British Virgin Islands,Methodist
-Brunei Darussalam,Muslim
-Bulgaria,Eastern Orthodox
-Burkina Faso,Muslim
-Burundi,Catholic
-Cambodia,Buddhist
-Canada,Roman Catholic
-Cayman Islands,Church Of God
-Chile,Catholic
-Cook Islands,Christian
-Croatia,Catholic
-Cyprus,Orthodox
-Czechia,No Religion
-Côte D'Ivoire,Muslim
-Dominica,Roman Catholic
-Estonia,No Religion
-Ethiopia,Orthodox
-Falkland Islands (Malvinas),Christian
-Fiji,Christian
-Finland,Lutheran
-Georgia,Christian Orthodox
-Germany,Roman Catholic
-Ghana,Pentecostal
-Gibraltar,Roman Catholic
-Guinea,Muslim
-Guinea-Bissau,Muslim
-Hungary,Roman Catholic
-India,Hindu
-Indonesia,Muslim
-Iran (Islamic Republic Of),Muslim
-Ireland,Roman Catholic
-Israel,Jewish
-Jamaica,No Religion
-Kazakhstan,Islam 
-Kenya,Protestant
-Kiribati,Catholic
-Lao People'S Democratic Republic,Buddhist
-Liberia,Christian
-Liechtenstein,Roman Catholic
-Lithuania,Roman Catholic
-Malawi,Christian
-Malaysia,Islam 
-Maldives,Islam 
-Marshall Islands,Protestant
-Mauritius,Hindu
-Mexico,Catholic
-Micronesia (Federated States Of),Roman Catholic
-Mongolia,Buddhist
-Montenegro,Christian Orthodox
-Montserrat,Anglican
-Mozambique,Catholic
-Myanmar,Buddhist
-Nepal,Hindu
-New Zealand,No Religion
-Nicaragua,Catholic
-Niger,Muslim
-Niue,Ekalesia Niue
-Norfolk Island,Church Of England
-North Macedonia,Orthodox
-Pakistan,Muslim
-Palau,Catholic
-Paraguay,Catholic
-Peru,Catholic
-Philippines,Roman Catholic
-Poland,Roman Catholic
-Portugal,Catholic
-Qatar,Muslim
-Republic Of Korea,No Religion
-Republic Of Moldova,Orthodox
-Romania,Orthodox
-Rwanda,Catholic
-Saint Helena Ex. Dep.,Church Of England
-Saint Lucia,Roman Catholic
-Saint Vincent And The Grenadines,Anglican
-Samoa,Congregational
-Sao Tome And Principe,Roman Apostolic Catholic
-Serbia,Serbian Orthodox
-Seychelles,Roman Catholic
-Singapore,Buddhist
-Sint Maarten (Dutch Part),Roman Catholic
-Slovakia,Roman Catholic
-Slovenia,Catholic
-South Africa,No Religion
-Sri Lanka,Buddhist
-State Of Palestine,Islam 
-Suriname,Christian
-Switzerland,Roman Catholic
-Thailand,Buddhist
-Timor-Leste,Catholic
-Tokelau,Christian Congregational
-Tonga,Free Wesleyan Church
-Trinidad And Tobago,Roman Catholic
-Tuvalu,Ekalesia Kelisiano Tuvalu
-Uganda,Catholic
-United Kingdom Of Great Britain And Northern Ireland,Christian
-Vanuatu,Presbyterian
-Viet Nam,No Religion
-Zambia,Protestant
+Country,Main Religion,Iso3
+Albania,Muslim,ALB
+Antigua And Barbuda,Anglican,ATG
+Armenia,Armenian Apostolic,ARM
+Aruba,Roman Catholic,ABW
+Australia,No Religion,AUS
+Austria,Roman Catholic,AUT
+Bahamas,Baptist,BHS
+Bahrain,Muslim,BHR
+Bangladesh,Muslim,BGD
+Barbados,Anglican,BRB
+Belize,Roman Catholic,BLZ
+Bermuda,Anglican,BMU
+Botswana,Christian,BWA
+Brazil,Catholic,BRA
+Brunei Darussalam,Muslim,BRN
+Bulgaria,Eastern Orthodox,BGR
+Burkina Faso,Muslim,BFA
+Burundi,Catholic,BDI
+Cambodia,Buddhist,KHM
+Canada,Roman Catholic,CAN
+Cayman Islands,Church Of God,CYM
+Chile,Catholic,CHL
+Croatia,Catholic,HRV
+Cyprus,Orthodox,CYP
+Czechia,No Religion,CIV
+Côte D'Ivoire,Muslim,CIV
+Dominica,Roman Catholic,DMA
+Estonia,No Religion,EST
+Ethiopia,Orthodox,ETH
+Fiji,Christian,FJI
+Finland,Lutheran,FIN
+Georgia,Christian Orthodox,GEO
+Germany,Roman Catholic,DEU
+Ghana,Pentecostal,GHA
+Guinea,Muslim,GIN
+Guinea-Bissau,Muslim,GNB
+Hungary,Roman Catholic,HUN
+India,Hindu,IND
+Indonesia,Muslim,IDN
+Iran (Islamic Republic Of),Muslim,IRN
+Ireland,Roman Catholic,IRL
+Israel,Jewish,ISR
+Jamaica,No Religion,JAM
+Kazakhstan,Islam ,KAZ
+Kenya,Protestant,KEN
+Kiribati,Catholic,KIR
+Lao People'S Democratic Republic,Buddhist,LAO
+Liberia,Christian,LBR
+Liechtenstein,Roman Catholic,LIE
+Lithuania,Roman Catholic,LTU
+Malawi,Christian,MWI
+Malaysia,Islam ,MYS
+Maldives,Islam ,MDV
+Marshall Islands,Protestant,MHL
+Mauritius,Hindu,MUS
+Mexico,Catholic,MEX
+Mongolia,Buddhist,MNG
+Montenegro,Christian Orthodox,MNE
+Mozambique,Catholic,MOZ
+Myanmar,Buddhist,MMR
+Nepal,Hindu,NPL
+New Zealand,No Religion,NZL
+Nicaragua,Catholic,NIC
+Niger,Muslim,NER
+North Macedonia,Orthodox,MKD
+Pakistan,Muslim,PAK
+Palau,Catholic,PLW
+Paraguay,Catholic,PRY
+Peru,Catholic,PER
+Philippines,Roman Catholic,PHL
+Poland,Roman Catholic,POL
+Portugal,Catholic,PRT
+Qatar,Muslim,QAT
+Republic Of Korea,No Religion,KOR
+Republic Of Moldova,Orthodox,MDA
+Romania,Orthodox,ROU
+Rwanda,Catholic,RWA
+Saint Lucia,Roman Catholic,LCA
+Saint Vincent And The Grenadines,Anglican,VCT
+Samoa,Congregational,WSM
+Sao Tome And Principe,Roman Apostolic Catholic,STP
+Serbia,Serbian Orthodox,SRB
+Seychelles,Roman Catholic,SYC
+Singapore,Buddhist,SGP
+Sint Maarten (Dutch Part),Roman Catholic,SXM
+Slovakia,Roman Catholic,SVK
+Slovenia,Catholic,SVN
+South Africa,No Religion,ZAF
+Sri Lanka,Buddhist,LKA
+Suriname,Christian,SUR
+Switzerland,Roman Catholic,CHE
+Thailand,Buddhist,THA
+Timor-Leste,Catholic,TMP
+Tonga,Free Wesleyan Church,TON
+Trinidad And Tobago,Roman Catholic,TTO
+Tuvalu,Ekalesia Kelisiano Tuvalu,TUV
+Uganda,Catholic,UGA
+United Kingdom Of Great Britain And Northern Ireland,Christian,GBR
+Vanuatu,Presbyterian,VUT
+Viet Nam,No Religion,VNM
+Zambia,Protestant,ZMB

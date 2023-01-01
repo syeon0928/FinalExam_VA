@@ -1,90 +1,90 @@
-Country,Ratings,Iso3
-Italy,4.72,ITA
-Greece,4.69,GRC
-Spain,4.59,ESP
-Japan,4.59,JPN
-India,4.54,IND
-Mexico,4.53,MEX
-Turkiye,4.52,TUR
-Usa,4.51,USA
-France,4.51,FRA
-Peru,4.51,PER
-China,4.49,CHN
-Brazil,4.49,BRA
-Portugal,4.47,PRT
-Poland,4.44,POL
-Germany,4.37,DEU
-Indonesia,4.37,IDN
-Croatia,4.33,HRV
-Argentina,4.33,ARG
-Korea,4.31,KOR
-Vietnam,4.31,VNM
-Hungary,4.26,HUN
-Romania,4.25,ROU
-Philippines,4.25,PHL
-Iran,4.23,IRN
-Serbia,4.23,SRB
-Georgia,4.23,GEO
-Czech Republic,4.21,CZE
-Bulgaria,4.2,BGR
-Thailand,4.16,THA
-Belgium,4.14,BEL
-Netherlands,4.1,NLD
-Austria,4.09,AUT
-Algeria,4.07,DZA
-Denmark,4.05,DNK
-South Africa,4.03,ZAF
-Syria,4.03,SYR
-Malaysia,3.99,MYS
-Lebanon,3.99,LBN
-Ukraine,3.98,UKR
-Bangladesh,3.97,BGD
-Lithuania,3.96,LTU
-Taiwan,3.96,TWN
-Paraguay,3.96,PRY
-Pakistan,3.95,PAK
-Tunisia,3.95,TUN
-Uruguay,3.95,URY
-Slovakia,3.94,SVK
-Egypt,3.94,EGY
-Singapore,3.94,SGP
-Afghanistan,3.94,AFG
-Ecuador,3.93,ECU
-Ethiopia,3.93,ETH
-Belarus,3.93,BLR
-Haiti,3.93,HTI
-Russia,3.92,RUS
-North Macedonia,3.92,MKD
-Cuba,3.92,CUB
-Sri Lanka,3.92,LKA
-Sweden,3.91,SWE
-Chile,3.91,CHL
-Jamaica,3.91,JAM
-Slovenia,3.91,SVN
-Bolivia,3.91,BOL
-Venezuela,3.91,VEN
-Albania,3.91,ALB
-Nigeria,3.91,NGA
-Colombia,3.9,COL
-Finland,3.9,FIN
-Ireland,3.9,IRL
-Cyprus,3.9,CYP
-Estonia,3.9,EST
-New Zealand,3.89,NZL
-Guatemala,3.89,GTM
-El Salvador,3.88,SLV
-Trinidad And Tobago,3.88,TTO
-Israel,3.85,ISR
-Azerbaijan,3.85,AZE
-Honduras,3.85,HND
-Costa Rica,3.85,CRI
-Saudi Arabia,3.85,SAU
-Malta,3.84,MLT
-Switzerland,3.82,CHE
-Australia,3.8,AUS
-Armenia,3.8,ARM
-Iceland,3.8,ISL
-Canada,3.79,CAN
-Latvia,3.79,LVA
-Morocco,3.69,MAR
-Norway,3.58,NOR
+Country,Ratings,Iso3_x,Iso3_y
+Italy,4.72,ITA,ITA
+Greece,4.69,GRC,GRC
+Spain,4.59,ESP,ESP
+Japan,4.59,JPN,JPN
+India,4.54,IND,IND
+Mexico,4.53,MEX,MEX
+Turkiye,4.52,TUR,TUR
+Usa,4.51,USA,USA
+France,4.51,FRA,FRA
+Peru,4.51,PER,PER
+Brazil,4.49,BRA,BRA
+China,4.49,CHN,CHN
+Portugal,4.47,PRT,PRT
+Poland,4.44,POL,POL
+Germany,4.37,DEU,DEU
+Indonesia,4.37,IDN,IDN
+Croatia,4.33,HRV,HRV
+Argentina,4.33,ARG,ARG
+Korea,4.31,KOR,KOR
+Vietnam,4.31,VNM,VNM
+Hungary,4.26,HUN,HUN
+Philippines,4.25,PHL,PHL
+Romania,4.25,ROU,ROU
+Iran,4.23,IRN,IRN
+Serbia,4.23,SRB,SRB
+Georgia,4.23,GEO,GEO
+Czech Republic,4.21,CZE,CZE
+Bulgaria,4.2,BGR,BGR
+Thailand,4.16,THA,THA
+Belgium,4.14,BEL,BEL
+Netherlands,4.1,NLD,NLD
+Austria,4.09,AUT,AUT
+Algeria,4.07,DZA,DZA
+Denmark,4.05,DNK,DNK
+South Africa,4.03,ZAF,ZAF
+Syria,4.03,SYR,SYR
+Malaysia,3.99,MYS,MYS
+Lebanon,3.99,LBN,LBN
+Ukraine,3.98,UKR,UKR
+Bangladesh,3.97,BGD,BGD
+Lithuania,3.96,LTU,LTU
+Taiwan,3.96,TWN,TWN
+Paraguay,3.96,PRY,PRY
+Uruguay,3.95,URY,URY
+Tunisia,3.95,TUN,TUN
+Pakistan,3.95,PAK,PAK
+Singapore,3.94,SGP,SGP
+Afghanistan,3.94,AFG,AFG
+Slovakia,3.94,SVK,SVK
+Egypt,3.94,EGY,EGY
+Ethiopia,3.93,ETH,ETH
+Belarus,3.93,BLR,BLR
+Haiti,3.93,HTI,HTI
+Ecuador,3.93,ECU,ECU
+Sri Lanka,3.92,LKA,LKA
+Cuba,3.92,CUB,CUB
+North Macedonia,3.92,MKD,MKD
+Russia,3.92,RUS,RUS
+Chile,3.91,CHL,CHL
+Jamaica,3.91,JAM,JAM
+Slovenia,3.91,SVN,SVN
+Bolivia,3.91,BOL,BOL
+Venezuela,3.91,VEN,VEN
+Albania,3.91,ALB,ALB
+Nigeria,3.91,NGA,NGA
+Sweden,3.91,SWE,SWE
+Cyprus,3.9,CYP,CYP
+Estonia,3.9,EST,EST
+Finland,3.9,FIN,FIN
+Ireland,3.9,IRL,IRL
+Colombia,3.9,COL,COL
+New Zealand,3.89,NZL,NZL
+Guatemala,3.89,GTM,GTM
+El Salvador,3.88,SLV,SLV
+Trinidad And Tobago,3.88,TTO,TTO
+Honduras,3.85,HND,HND
+Costa Rica,3.85,CRI,CRI
+Saudi Arabia,3.85,SAU,SAU
+Azerbaijan,3.85,AZE,AZE
+Israel,3.85,ISR,ISR
+Malta,3.84,MLT,MLT
+Switzerland,3.82,CHE,CHE
+Australia,3.8,AUS,AUS
+Armenia,3.8,ARM,ARM
+Iceland,3.8,ISL,ISL
+Canada,3.79,CAN,CAN
+Latvia,3.79,LVA,LVA
+Morocco,3.69,MAR,MAR
+Norway,3.58,NOR,NOR
