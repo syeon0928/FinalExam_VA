@@ -56,7 +56,7 @@ Egypt,"Desert; Hot, Dry Summers With Moderate Winters",Tropical,EGY
 El Salvador,Tropical; Rainy Season (May To October); Dry Season (November To April); Tropical On Coast; Temperate In Uplands,Tropical,SLV
 Equatorial Guinea,"Tropical; Always Hot, Humid",Tropical,GNQ
 Eritrea,"Hot, Dry Desert Strip Along Red Sea Coast; Cooler And Wetter In The Central Highlands (Up To 61 Cm Of Rainfall Annually, Heaviest June To September); Semiarid In Western Hills And Lowlands",Tropical,ERI
-Estonia,"Maritime; Wet, Moderate Winters, Cool Summers",,EST
+Estonia,"Maritime; Wet, Moderate Winters, Cool Summers",Temperate,EST
 Ethiopia,Tropical Monsoon With Wide Topographic-Induced Variation,Tropical,ETH
 Faroe Islands,"Mild Winters, Cool Summers; Usually Overcast; Foggy, Windy",,FRO
 Fiji,Tropical Marine; Only Slight Seasonal Temperature Variation,Tropical,FJI
@@ -103,7 +103,7 @@ Kosovo,"Influenced By Continental Air Masses Resulting In Relatively Cold Winter
 Kuwait,"Dry Desert; Intensely Hot Summers; Short, Cool Winters",Tropical,KWT
 Kyrgyzstan,Dry Continental To Polar In High Tien Shan Mountains; Subtropical In Southwest (Fergana Valley); Temperate In Northern Foothill Zone,Temperate,KGZ
 Laos,Tropical Monsoon; Rainy Season (May To November); Dry Season (December To April),Tropical,LAO
-Latvia,"Maritime; Wet, Moderate Winters",,LVA
+Latvia,"Maritime; Wet, Moderate Winters",Temperate,LVA
 Lebanon,"Mediterranean; Mild To Cool, Wet Winters With Hot, Dry Summers; Lebanon Mountains Experience Heavy Winter Snows",Subtropical,LBN
 Lesotho,"Temperate; Cool To Cold, Dry Winters; Hot, Wet Summers",Temperate,LSO
 Liberia,"Tropical; Hot, Humid; Dry Winters With Hot Days And Cool To Cold Nights; Wet, Cloudy Summers With Frequent Heavy Showers",Tropical,LBR
@@ -111,7 +111,7 @@ Libya,"Mediterranean Along Coast; Dry, Extreme Desert Interior",Tropical,LBY
 Liechtenstein,"Continental; Cold, Cloudy Winters With Frequent Snow Or Rain; Cool To Moderately Warm, Cloudy, Humid Summers",Temperate,LIE
 Lithuania,"Transitional, Between Maritime And Continental; Wet, Moderate Winters And Summers",Temperate,LTU
 Luxembourg,"Modified Continental With Mild Winters, Cool Summers",Temperate,LUX
-Macau,"Subtropical; Marine With Cool Winters, Warm Summers",Subtropical,MAC
+Macau,"Subtropical; Marine With Cool Winters, Warm Summers",Temperate,MAC
 Madagascar,"Tropical Along Coast, Temperate Inland, Arid In South",Tropical,MDG
 Malawi,Sub-Tropical; Rainy Season (November To May); Dry Season (May To November),Tropical,MWI
 Malaysia,Tropical; Annual Southwest (April To October) And Northeast (October To February) Monsoons,Tropical,MYS
@@ -122,7 +122,7 @@ Marshall Islands,Tropical; Hot And Humid; Wet Season May To November; Islands Bo
 Mauritania,"Desert; Constantly Hot, Dry, Dusty",Tropical,MRT
 Mauritius,"Tropical, Modified By Southeast Trade Winds; Warm, Dry Winter (May To November); Hot, Wet, Humid Summer (November To May)",Tropical,MUS
 Mexico,Varies From Tropical To Desert,Tropical,MEX
-Moldova,"Moderate Winters, Warm Summers",,MDA
+Moldova,"Moderate Winters, Warm Summers",Temperate,MDA
 Monaco,"Mediterranean With Mild, Wet Winters And Hot, Dry Summers",Subtropical,MCO
 Mongolia,Desert; Continental (Large Daily And Seasonal Temperature Ranges),Tropical,MNG
 Montenegro,"Mediterranean Climate, Hot Dry Summers And Autumns And Relatively Cold Winters With Heavy Snowfalls Inland",Temperate,MNE

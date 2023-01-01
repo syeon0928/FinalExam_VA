@@ -1,257 +1,301 @@
-Country,Country Code,Average Hotel and Restaurant Cost,Type Traveler,Iso3
-Albania,ALB,50.78,Budget Traveler,ALB
-Algeria,DZA,33.93,Budget Traveler,DZA
-Angola,AGO,79.22,Budget Traveler,AGO
-Antigua And Barbuda,ATG,105.93,Budget Traveler,ATG
-Argentina,ARG,89.24,Budget Traveler,ARG
-Armenia,ARM,68.35,Budget Traveler,ARM
-Aruba,ABW,96.84,Budget Traveler,ABW
-Australia,AUS,161.57,Budget Traveler,AUS
-Austria,AUT,132.87,Budget Traveler,AUT
-Azerbaijan,AZE,59.3,Budget Traveler,AZE
-"Bahamas, The",BHS,118.98,Budget Traveler,BHS
-"Bahamas, The",BHS,118.98,Budget Traveler,BHS
-"Bahamas, The",BHS,118.98,Budget Traveler,BHS
-Bahrain,BHR,79.28,Budget Traveler,BHR
-Bangladesh,BGD,40.86,Budget Traveler,BGD
-Barbados,BRB,124.83,Budget Traveler,BRB
-Belarus,BLR,66.36,Budget Traveler,BLR
-Belgium,BEL,149.13,Budget Traveler,BEL
-Belize,BLZ,66.3,Budget Traveler,BLZ
-Benin,BEN,57.19,Budget Traveler,BEN
-Bermuda,BMU,198.36,Budget Traveler,BMU
-Bhutan,BTN,33.69,Budget Traveler,BTN
-Bolivia,BOL,43.09,Budget Traveler,BOL
-Bolivia,BOL,43.09,Budget Traveler,BOL
-Bolivia,BOL,43.09,Budget Traveler,BOL
-Bolivia,BOL,43.09,Budget Traveler,BOL
-Bosnia And Herzegovina,BIH,68.98,Budget Traveler,BIH
-Bosnia And Herzegovina,BIH,68.98,Budget Traveler,BIH
-Bosnia And Herzegovina,BIH,68.98,Budget Traveler,BIH
-Botswana,BWA,93.59,Budget Traveler,BWA
-Brazil,BRA,90.79,Budget Traveler,BRA
-Brunei Darussalam,BRN,50.86,Budget Traveler,BRN
-Brunei Darussalam,BRN,50.86,Budget Traveler,BRN
-Bulgaria,BGR,56.23,Budget Traveler,BGR
-Burkina Faso,BFA,44.87,Budget Traveler,BFA
-Burundi,BDI,43.29,Budget Traveler,BDI
-Cabo Verde,CPV,64.65,Budget Traveler,CPV
-Cabo Verde,CPV,64.65,Budget Traveler,CPV
-Cambodia,KHM,41.38,Budget Traveler,KHM
-Cameroon,CMR,54.39,Budget Traveler,CMR
-Canada,CAN,148.32,Budget Traveler,CAN
-Cayman Islands,CYM,163.79,Budget Traveler,CYM
-Central African Republic,CAF,86.26,Budget Traveler,CAF
-Chad,TCD,46.19,Budget Traveler,TCD
-Chile,CHL,104.37,Budget Traveler,CHL
-China,CHN,75.24,Budget Traveler,CHN
-Colombia,COL,60.78,Budget Traveler,COL
-Comoros,COM,62.8,Budget Traveler,COM
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Dem. Rep.",COD,67.02,Budget Traveler,COD
-"Congo, Rep.",COG,69.2,Budget Traveler,COG
-"Congo, Rep.",COG,69.2,Budget Traveler,COG
-"Congo, Rep.",COG,69.2,Budget Traveler,COG
-"Congo, Rep.",COG,69.2,Budget Traveler,COG
-"Congo, Rep.",COG,69.2,Budget Traveler,COG
-Costa Rica,CRI,90.98,Budget Traveler,CRI
-Côte D'Ivoire,CIV,50.04,Budget Traveler,CIV
-Côte D'Ivoire,CIV,50.04,Budget Traveler,CIV
-Côte D'Ivoire,CIV,50.04,Budget Traveler,CIV
-Côte D'Ivoire,CIV,50.04,Budget Traveler,CIV
-Côte D'Ivoire,CIV,50.04,Budget Traveler,CIV
-Croatia,HRV,92.46,Budget Traveler,HRV
-Curaçao,CUW,124.81,Budget Traveler,CUW
-Cyprus,CYP,115.34,Budget Traveler,CYP
-Czech Republic,CZE,75.54,Budget Traveler,CZE
-Denmark,DNK,189.75,Budget Traveler,DNK
-Djibouti,DJI,76.22,Budget Traveler,DJI
-Dominica,DMA,62.86,Budget Traveler,DMA
-Dominican Republic,DOM,69.79,Budget Traveler,DOM
-Ecuador,ECU,118.35,Budget Traveler,ECU
-"Egypt, Arab Rep.",EGY,26.44,Budget Traveler,EGY
-"Egypt, Arab Rep.",EGY,26.44,Budget Traveler,EGY
-El Salvador,SLV,65.92,Budget Traveler,SLV
-Equatorial Guinea,GNQ,80.17,Budget Traveler,GNQ
-Estonia,EST,106.71,Budget Traveler,EST
-Eswatini,SWZ,66.54,Budget Traveler,SWZ
-Ethiopia,ETH,33.08,Budget Traveler,ETH
-Fiji,FJI,63.21,Budget Traveler,FJI
-Finland,FIN,160.6,Budget Traveler,FIN
-France,FRA,147.23,Budget Traveler,FRA
-Gabon,GAB,60.16,Budget Traveler,GAB
-"Gambia, The",GMB,45.97,Budget Traveler,GMB
-"Gambia, The",GMB,45.97,Budget Traveler,GMB
-Georgia,GEO,60.71,Budget Traveler,GEO
-Germany,DEU,137.9,Budget Traveler,DEU
-Ghana,GHA,49.72,Budget Traveler,GHA
-Greece,GRC,103.71,Budget Traveler,GRC
-Grenada,GRD,70.45,Budget Traveler,GRD
-Guinea,GIN,33.39,Budget Traveler,GIN
-Guinea-Bissau,GNB,74.97,Budget Traveler,GNB
-Guyana,GUY,65.03,Budget Traveler,GUY
-Haiti,HTI,45.18,Budget Traveler,HTI
-Honduras,HND,47.1,Budget Traveler,HND
-"Hong Kong Sar, China",HKG,88.62,Budget Traveler,HKG
-"Hong Kong Sar, China",HKG,88.62,Budget Traveler,HKG
-"Hong Kong Sar, China",HKG,88.62,Budget Traveler,HKG
-"Hong Kong Sar, China",HKG,88.62,Budget Traveler,HKG
-Hungary,HUN,75.87,Budget Traveler,HUN
-Iceland,ISL,232.37,Budget Traveler,ISL
-India,IND,42.25,Budget Traveler,IND
-Indonesia,IDN,40.66,Budget Traveler,IDN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-"Iran, Islamic Rep.",IRN,74.6,Budget Traveler,IRN
-Iraq,IRQ,67.87,Budget Traveler,IRQ
-Ireland,IRL,151.45,Comfort traveler,IRL
-Ireland,IRL,151.45,Comfort traveler,IRL
-Israel,ISR,176.01,Comfort traveler,ISR
-Italy,ITA,131.33,Comfort traveler,ITA
-Jamaica,JAM,62.09,Comfort traveler,JAM
-Japan,JPN,129.06,Comfort traveler,JPN
-Jordan,JOR,63.76,Comfort traveler,JOR
-Kazakhstan,KAZ,67.06,Comfort traveler,KAZ
-Kenya,KEN,38.81,Comfort traveler,KEN
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-"Korea, Rep.",KOR,145.92,Comfort traveler,KOR
-Kuwait,KWT,102.9,Comfort traveler,KWT
-Kyrgyzstan,KGZ,68.42,Comfort traveler,KGZ
-Kyrgyzstan,KGZ,68.42,Comfort traveler,KGZ
-Lao Pdr,LAO,58.18,Comfort traveler,LAO
-Lao Pdr,LAO,58.18,Comfort traveler,LAO
-Lao Pdr,LAO,58.18,Comfort traveler,LAO
-Lao Pdr,LAO,58.18,Comfort traveler,LAO
-Lao Pdr,LAO,58.18,Comfort traveler,LAO
-Latvia,LVA,102.56,Comfort traveler,LVA
-Lesotho,LSO,59.4,Comfort traveler,LSO
-Liberia,LBR,55.09,Comfort traveler,LBR
-Lithuania,LTU,86.66,Comfort traveler,LTU
-Luxembourg,LUX,141.12,Comfort traveler,LUX
-Madagascar,MDG,33.01,Comfort traveler,MDG
-Malawi,MWI,49.24,Comfort traveler,MWI
-Malaysia,MYS,39.3,Comfort traveler,MYS
-Maldives,MDV,50.58,Comfort traveler,MDV
-Mali,MLI,67.27,Comfort traveler,MLI
-Malta,MLT,101.62,Comfort traveler,MLT
-Mauritania,MRT,38.51,Comfort traveler,MRT
-Mauritius,MUS,86.66,Comfort traveler,MUS
-Mexico,MEX,63.31,Comfort traveler,MEX
-Moldova,MDA,64.37,Comfort traveler,MDA
-Moldova,MDA,64.37,Comfort traveler,MDA
-Moldova,MDA,64.37,Comfort traveler,MDA
-Moldova,MDA,64.37,Comfort traveler,MDA
-Mongolia,MNG,46.16,Comfort traveler,MNG
-Montenegro,MNE,73.7,Comfort traveler,MNE
-Morocco,MAR,57.5,Comfort traveler,MAR
-Mozambique,MOZ,43.2,Comfort traveler,MOZ
-Myanmar,MMR,36.81,Comfort traveler,MMR
-Myanmar,MMR,36.81,Comfort traveler,MMR
-Namibia,NAM,67.54,Comfort traveler,NAM
-Nepal,NPL,29.76,Comfort traveler,NPL
-Netherlands,NLD,141.25,Comfort traveler,NLD
-Netherlands,NLD,141.25,Comfort traveler,NLD
-New Zealand,NZL,140.97,Comfort traveler,NZL
-New Zealand,NZL,140.97,Comfort traveler,NZL
-Nicaragua,NIC,56.13,Comfort traveler,NIC
-Niger,NER,49.29,Comfort traveler,NER
-Nigeria,NGA,39.0,Comfort traveler,NGA
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-North Macedonia,MKD,53.86,Comfort traveler,MKD
-Norway,NOR,206.57,Comfort traveler,NOR
-Oman,OMN,58.29,Comfort traveler,OMN
-Pakistan,PAK,41.76,Comfort traveler,PAK
-Panama,PAN,80.55,Comfort traveler,PAN
-Paraguay,PRY,60.5,Comfort traveler,PRY
-Peru,PER,72.12,Comfort traveler,PER
-Philippines,PHL,48.52,Comfort traveler,PHL
-Poland,POL,92.4,Comfort traveler,POL
-Portugal,PRT,96.82,Comfort traveler,PRT
-Qatar,QAT,94.27,Comfort traveler,QAT
-Romania,ROU,66.04,Comfort traveler,ROU
-Russian Federation,RUS,80.01,Comfort traveler,RUS
-Russian Federation,RUS,80.01,Comfort traveler,RUS
-Rwanda,RWA,53.87,Luxury Traveler,RWA
-São Tomé And Principe,STP,57.25,Luxury Traveler,STP
-Saudi Arabia,SAU,60.33,Luxury Traveler,SAU
-Senegal,SEN,70.55,Luxury Traveler,SEN
-Serbia,SRB,63.25,Luxury Traveler,SRB
-Serbia,SRB,63.25,Luxury Traveler,SRB
-Seychelles,SYC,160.02,Luxury Traveler,SYC
-Sierra Leone,SLE,36.56,Luxury Traveler,SLE
-Singapore,SGP,70.37,Luxury Traveler,SGP
-Sint Maarten,SXM,128.48,Luxury Traveler,SXM
-Slovakia,SVK,94.58,Luxury Traveler,SVK
-Slovakia,SVK,94.58,Luxury Traveler,SVK
-Slovenia,SVN,102.99,Luxury Traveler,SVN
-South Africa,ZAF,62.93,Luxury Traveler,ZAF
-Spain,ESP,107.28,Luxury Traveler,ESP
-Sri Lanka,LKA,49.53,Luxury Traveler,LKA
-St. Kitts And Nevis,KNA,136.67,Luxury Traveler,KNA
-St. Kitts And Nevis,KNA,136.67,Luxury Traveler,KNA
-St. Lucia,LCA,113.97,Luxury Traveler,LCA
-St. Lucia,LCA,113.97,Luxury Traveler,LCA
-St. Vincent And The Grenadines,VCT,131.16,Luxury Traveler,VCT
-St. Vincent And The Grenadines,VCT,131.16,Luxury Traveler,VCT
-Sudan,SDN,28.8,Luxury Traveler,SDN
-Sudan,SDN,28.8,Luxury Traveler,SDN
-Suriname,SUR,57.35,Luxury Traveler,SUR
-Suriname,SUR,57.35,Luxury Traveler,SUR
-Sweden,SWE,182.92,Luxury Traveler,SWE
-Switzerland,CHE,203.18,Luxury Traveler,CHE
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-"Taiwan, China",TWN,56.02,Luxury Traveler,TWN
-Tajikistan,TJK,64.45,Luxury Traveler,TJK
-Tanzania,TZA,30.13,Luxury Traveler,TZA
-Tanzania,TZA,30.13,Luxury Traveler,TZA
-Tanzania,TZA,30.13,Luxury Traveler,TZA
-Tanzania,TZA,30.13,Luxury Traveler,TZA
-Tanzania,TZA,30.13,Luxury Traveler,TZA
-Thailand,THA,40.4,Luxury Traveler,THA
-Togo,TGO,69.42,Luxury Traveler,TGO
-Trinidad And Tobago,TTO,120.76,Luxury Traveler,TTO
-Trinidad And Tobago,TTO,120.76,Luxury Traveler,TTO
-Tunisia,TUN,37.86,Luxury Traveler,TUN
-Turkey,TUR,78.22,Luxury Traveler,TUR
-Turkey,TUR,78.22,Luxury Traveler,TUR
-Turks And Caicos Islands,TCA,162.15,Luxury Traveler,TCA
-Uganda,UGA,59.97,Luxury Traveler,UGA
-Ukraine,UKR,32.17,Luxury Traveler,UKR
-United Arab Emirates,ARE,93.47,Luxury Traveler,ARE
-United Kingdom,GBR,131.75,Luxury Traveler,GBR
-United Kingdom,GBR,131.75,Luxury Traveler,GBR
-United Kingdom,GBR,131.75,Luxury Traveler,GBR
-United Kingdom,GBR,131.75,Luxury Traveler,GBR
-United States,USA,127.71,Luxury Traveler,USA
-United States,USA,127.71,Luxury Traveler,USA
-United States,USA,127.71,Luxury Traveler,USA
-United States,USA,127.71,Luxury Traveler,USA
-Uruguay,URY,114.64,Luxury Traveler,URY
-Vietnam,VNM,35.01,Luxury Traveler,VNM
-Vietnam,VNM,35.01,Luxury Traveler,VNM
-Zambia,ZMB,47.62,Luxury Traveler,ZMB
-Zimbabwe,ZWE,73.27,Luxury Traveler,ZWE
+Country,Country Code,Average Hotel and Restaurant Cost,Type Traveler
+Albania,ALB,50.78,Budget Traveler
+Algeria,DZA,33.93,Budget Traveler
+American Samoa,ASM,33.93,Budget Traveler
+Angola,AGO,79.22,Budget Traveler
+Antigua And Barbuda,ATG,105.93,Budget Traveler
+Argentina,ARG,89.24,Budget Traveler
+Armenia,ARM,68.35,Budget Traveler
+Aruba,ABW,96.84,Budget Traveler
+Australia,AUS,161.57,Budget Traveler
+Austria,AUT,132.87,Budget Traveler
+Azerbaijan,AZE,59.3,Budget Traveler
+"Bahamas, The",BHS,118.98,Budget Traveler
+"Bahamas, The",BHS,118.98,Budget Traveler
+"Bahamas, The",BHS,118.98,Budget Traveler
+Bahrain,BHR,79.28,Budget Traveler
+Bangladesh,BGD,40.86,Budget Traveler
+Barbados,BRB,124.83,Budget Traveler
+Belarus,BLR,66.36,Budget Traveler
+Belgium,BEL,149.13,Budget Traveler
+Belize,BLZ,66.3,Budget Traveler
+Benin,BEN,57.19,Budget Traveler
+Bermuda,BMU,198.36,Budget Traveler
+Bhutan,BTN,33.69,Budget Traveler
+Bolivia,BOL,43.09,Budget Traveler
+Bolivia,BOL,43.09,Budget Traveler
+Bolivia,BOL,43.09,Budget Traveler
+Bolivia,BOL,43.09,Budget Traveler
+Bosnia And Herzegovina,BIH,68.98,Budget Traveler
+Bosnia And Herzegovina,BIH,68.98,Budget Traveler
+Bosnia And Herzegovina,BIH,68.98,Budget Traveler
+Botswana,BWA,93.59,Budget Traveler
+Brazil,BRA,90.79,Budget Traveler
+Brunei Darussalam,BRN,50.86,Budget Traveler
+Brunei Darussalam,BRN,50.86,Budget Traveler
+Bulgaria,BGR,56.23,Budget Traveler
+Burkina Faso,BFA,44.87,Budget Traveler
+Burundi,BDI,43.29,Budget Traveler
+Cabo Verde,CPV,64.65,Budget Traveler
+Cabo Verde,CPV,64.65,Budget Traveler
+Cambodia,KHM,41.38,Budget Traveler
+Cameroon,CMR,54.39,Budget Traveler
+Canada,CAN,148.32,Budget Traveler
+Cayman Islands,CYM,163.79,Budget Traveler
+Central African Republic,CAF,86.26,Budget Traveler
+Chad,TCD,46.19,Budget Traveler
+Chile,CHL,104.37,Budget Traveler
+China,CHN,75.24,Budget Traveler
+Colombia,COL,60.78,Budget Traveler
+Comoros,COM,62.8,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Dem. Rep.",COD,67.02,Budget Traveler
+"Congo, Rep.",COG,69.2,Budget Traveler
+"Congo, Rep.",COG,69.2,Budget Traveler
+"Congo, Rep.",COG,69.2,Budget Traveler
+"Congo, Rep.",COG,69.2,Budget Traveler
+"Congo, Rep.",COG,69.2,Budget Traveler
+Costa Rica,CRI,90.98,Budget Traveler
+Côte D'Ivoire,CIV,50.04,Budget Traveler
+Côte D'Ivoire,CIV,50.04,Budget Traveler
+Côte D'Ivoire,CIV,50.04,Budget Traveler
+Côte D'Ivoire,CIV,50.04,Budget Traveler
+Côte D'Ivoire,CIV,50.04,Budget Traveler
+Croatia,HRV,92.46,Budget Traveler
+Cuba,CUB,92.46,Budget Traveler
+Curaçao,CUW,124.81,Budget Traveler
+Cyprus,CYP,115.34,Budget Traveler
+Czech Republic,CZE,75.54,Budget Traveler
+Denmark,DNK,189.75,Budget Traveler
+Djibouti,DJI,76.22,Budget Traveler
+Dominica,DMA,62.86,Budget Traveler
+Dominican Republic,DOM,69.79,Budget Traveler
+Ecuador,ECU,118.35,Budget Traveler
+"Egypt, Arab Rep.",EGY,26.44,Budget Traveler
+"Egypt, Arab Rep.",EGY,26.44,Budget Traveler
+El Salvador,SLV,65.92,Budget Traveler
+Equatorial Guinea,GNQ,80.17,Budget Traveler
+Eritrea,ERI,80.17,Budget Traveler
+Estonia,EST,106.71,Budget Traveler
+Eswatini,SWZ,66.54,Budget Traveler
+Ethiopia,ETH,33.08,Budget Traveler
+Fiji,FJI,63.21,Budget Traveler
+Finland,FIN,160.6,Budget Traveler
+France,FRA,147.23,Budget Traveler
+French Polynesia,PYF,147.23,Budget Traveler
+Gabon,GAB,60.16,Budget Traveler
+"Gambia, The",GMB,45.97,Budget Traveler
+"Gambia, The",GMB,45.97,Budget Traveler
+Georgia,GEO,60.71,Budget Traveler
+Germany,DEU,137.9,Budget Traveler
+Ghana,GHA,49.72,Budget Traveler
+Greece,GRC,103.71,Budget Traveler
+Grenada,GRD,70.45,Budget Traveler
+Guam,GUM,70.45,Budget Traveler
+Guatemala,GTM,70.45,Budget Traveler
+Guinea,GIN,33.39,Budget Traveler
+Guinea-Bissau,GNB,74.97,Budget Traveler
+Guyana,GUY,65.03,Budget Traveler
+Haiti,HTI,45.18,Budget Traveler
+Honduras,HND,47.1,Budget Traveler
+"Hong Kong Sar, China",HKG,88.62,Budget Traveler
+"Hong Kong Sar, China",HKG,88.62,Budget Traveler
+"Hong Kong Sar, China",HKG,88.62,Budget Traveler
+"Hong Kong Sar, China",HKG,88.62,Budget Traveler
+Hungary,HUN,75.87,Budget Traveler
+Iceland,ISL,232.37,Budget Traveler
+India,IND,42.25,Budget Traveler
+Indonesia,IDN,40.66,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+"Iran, Islamic Rep.",IRN,74.6,Budget Traveler
+Iraq,IRQ,67.87,Budget Traveler
+Ireland,IRL,151.45,Comfort traveler
+Ireland,IRL,151.45,Comfort traveler
+Israel,ISR,176.01,Comfort traveler
+Italy,ITA,131.33,Comfort traveler
+Jamaica,JAM,62.09,Comfort traveler
+Japan,JPN,129.06,Comfort traveler
+Jordan,JOR,63.76,Comfort traveler
+Kazakhstan,KAZ,67.06,Comfort traveler
+Kenya,KEN,38.81,Comfort traveler
+Kiribati,KIR,38.81,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+"Korea, Rep.",KOR,145.92,Comfort traveler
+Kosovo,KSV,145.92,Comfort traveler
+Kuwait,KWT,102.9,Comfort traveler
+Kyrgyzstan,KGZ,68.42,Comfort traveler
+Kyrgyzstan,KGZ,68.42,Comfort traveler
+Lao Pdr,LAO,58.18,Comfort traveler
+Lao Pdr,LAO,58.18,Comfort traveler
+Lao Pdr,LAO,58.18,Comfort traveler
+Lao Pdr,LAO,58.18,Comfort traveler
+Lao Pdr,LAO,58.18,Comfort traveler
+Latvia,LVA,102.56,Comfort traveler
+Lebanon,LBN,102.56,Comfort traveler
+Lesotho,LSO,59.4,Comfort traveler
+Liberia,LBR,55.09,Comfort traveler
+Libya,LBY,55.09,Comfort traveler
+Libya,LBY,55.09,Comfort traveler
+Lithuania,LTU,86.66,Comfort traveler
+Luxembourg,LUX,141.12,Comfort traveler
+"Macao Sar, China",MAC,141.12,Comfort traveler
+"Macao Sar, China",MAC,141.12,Comfort traveler
+"Macao Sar, China",MAC,141.12,Comfort traveler
+"Macao Sar, China",MAC,141.12,Comfort traveler
+Madagascar,MDG,33.01,Comfort traveler
+Malawi,MWI,49.24,Comfort traveler
+Malaysia,MYS,39.3,Comfort traveler
+Maldives,MDV,50.58,Comfort traveler
+Mali,MLI,67.27,Comfort traveler
+Malta,MLT,101.62,Comfort traveler
+Marshall Islands,MHL,101.62,Comfort traveler
+Mauritania,MRT,38.51,Comfort traveler
+Mauritius,MUS,86.66,Comfort traveler
+Mexico,MEX,63.31,Comfort traveler
+"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
+"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
+"Micronesia, Federated States Of",FSM,63.31,Comfort traveler
+Moldova,MDA,64.37,Comfort traveler
+Moldova,MDA,64.37,Comfort traveler
+Moldova,MDA,64.37,Comfort traveler
+Moldova,MDA,64.37,Comfort traveler
+Mongolia,MNG,46.16,Comfort traveler
+Montenegro,MNE,73.7,Comfort traveler
+Morocco,MAR,57.5,Comfort traveler
+Mozambique,MOZ,43.2,Comfort traveler
+Myanmar,MMR,36.81,Comfort traveler
+Myanmar,MMR,36.81,Comfort traveler
+Namibia,NAM,67.54,Comfort traveler
+Nepal,NPL,29.76,Comfort traveler
+Netherlands,NLD,141.25,Comfort traveler
+Netherlands,NLD,141.25,Comfort traveler
+New Caledonia,NCL,141.25,Comfort traveler
+New Zealand,NZL,140.97,Comfort traveler
+New Zealand,NZL,140.97,Comfort traveler
+Nicaragua,NIC,56.13,Comfort traveler
+Niger,NER,49.29,Comfort traveler
+Nigeria,NGA,39.0,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+North Macedonia,MKD,53.86,Comfort traveler
+Northern Mariana Islands,MNP,53.86,Comfort traveler
+Norway,NOR,206.57,Comfort traveler
+Oman,OMN,58.29,Comfort traveler
+Pakistan,PAK,41.76,Comfort traveler
+Palau,PLW,41.76,Comfort traveler
+Panama,PAN,80.55,Comfort traveler
+Papua New Guinea,PNG,80.55,Comfort traveler
+Paraguay,PRY,60.5,Comfort traveler
+Peru,PER,72.12,Comfort traveler
+Philippines,PHL,48.52,Comfort traveler
+Poland,POL,92.4,Comfort traveler
+Portugal,PRT,96.82,Comfort traveler
+Puerto Rico,PRI,96.82,Comfort traveler
+Qatar,QAT,94.27,Comfort traveler
+Romania,ROU,66.04,Comfort traveler
+Russian Federation,RUS,80.01,Comfort traveler
+Russian Federation,RUS,80.01,Comfort traveler
+Rwanda,RWA,53.87,Luxury Traveler
+Samoa,WSM,53.87,Luxury Traveler
+San Marino,SMR,53.87,Luxury Traveler
+São Tomé And Principe,STP,57.25,Luxury Traveler
+Saudi Arabia,SAU,60.33,Luxury Traveler
+Senegal,SEN,70.55,Luxury Traveler
+Serbia,SRB,63.25,Luxury Traveler
+Serbia,SRB,63.25,Luxury Traveler
+Seychelles,SYC,160.02,Luxury Traveler
+Sierra Leone,SLE,36.56,Luxury Traveler
+Singapore,SGP,70.37,Luxury Traveler
+Sint Maarten,SXM,128.48,Luxury Traveler
+Slovakia,SVK,94.58,Luxury Traveler
+Slovakia,SVK,94.58,Luxury Traveler
+Slovenia,SVN,102.99,Luxury Traveler
+Solomon Islands,SLB,102.99,Luxury Traveler
+Somalia,SOM,102.99,Luxury Traveler
+South Africa,ZAF,62.93,Luxury Traveler
+South Sudan,SSD,42.21,Luxury Traveler
+Spain,ESP,107.28,Luxury Traveler
+Sri Lanka,LKA,49.53,Luxury Traveler
+St. Kitts And Nevis,KNA,136.67,Luxury Traveler
+St. Kitts And Nevis,KNA,136.67,Luxury Traveler
+St. Lucia,LCA,113.97,Luxury Traveler
+St. Lucia,LCA,113.97,Luxury Traveler
+St. Vincent And The Grenadines,VCT,131.16,Luxury Traveler
+St. Vincent And The Grenadines,VCT,131.16,Luxury Traveler
+Sudan,SDN,28.8,Luxury Traveler
+Sudan,SDN,28.8,Luxury Traveler
+Suriname,SUR,57.35,Luxury Traveler
+Suriname,SUR,57.35,Luxury Traveler
+Sweden,SWE,182.92,Luxury Traveler
+Switzerland,CHE,203.18,Luxury Traveler
+Syrian Arab Republic,SYR,203.18,Luxury Traveler
+Syrian Arab Republic,SYR,203.18,Luxury Traveler
+Syrian Arab Republic,SYR,203.18,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+"Taiwan, China",TWN,56.02,Luxury Traveler
+Tajikistan,TJK,64.45,Luxury Traveler
+Tanzania,TZA,30.13,Luxury Traveler
+Tanzania,TZA,30.13,Luxury Traveler
+Tanzania,TZA,30.13,Luxury Traveler
+Tanzania,TZA,30.13,Luxury Traveler
+Tanzania,TZA,30.13,Luxury Traveler
+Thailand,THA,40.4,Luxury Traveler
+Togo,TGO,69.42,Luxury Traveler
+Tonga,TON,69.42,Luxury Traveler
+Trinidad And Tobago,TTO,120.76,Luxury Traveler
+Trinidad And Tobago,TTO,120.76,Luxury Traveler
+Tunisia,TUN,37.86,Luxury Traveler
+Turkey,TUR,78.22,Luxury Traveler
+Turkey,TUR,78.22,Luxury Traveler
+Turkmenistan,TKM,78.22,Luxury Traveler
+Turks And Caicos Islands,TCA,162.15,Luxury Traveler
+Tuvalu,TUV,162.15,Luxury Traveler
+Uganda,UGA,59.97,Luxury Traveler
+Ukraine,UKR,32.17,Luxury Traveler
+United Arab Emirates,ARE,93.47,Luxury Traveler
+United Kingdom,GBR,131.75,Luxury Traveler
+United Kingdom,GBR,131.75,Luxury Traveler
+United Kingdom,GBR,131.75,Luxury Traveler
+United Kingdom,GBR,131.75,Luxury Traveler
+United States,USA,127.71,Luxury Traveler
+United States,USA,127.71,Luxury Traveler
+United States,USA,127.71,Luxury Traveler
+United States,USA,127.71,Luxury Traveler
+Uruguay,URY,114.64,Luxury Traveler
+Uzbekistan,UZB,114.64,Luxury Traveler
+Vanuatu,VUT,114.64,Luxury Traveler
+"Venezuela, Rb",VEN,114.64,Luxury Traveler
+"Venezuela, Rb",VEN,114.64,Luxury Traveler
+"Venezuela, Rb",VEN,114.64,Luxury Traveler
+Vietnam,VNM,35.01,Luxury Traveler
+Vietnam,VNM,35.01,Luxury Traveler
+Yemen,YEM,100.0,Luxury Traveler
+Yemen,YEM,100.0,Luxury Traveler
+Yemen,YEM,100.0,Luxury Traveler
+Zambia,ZMB,47.62,Luxury Traveler
+Zimbabwe,ZWE,73.27,Luxury Traveler
+Afghanistan,AFG,73.27,Luxury Traveler
