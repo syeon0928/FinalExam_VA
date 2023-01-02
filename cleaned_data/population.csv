@@ -3,6 +3,7 @@ Aruba,ABW,107195.0
 Afghanistan,AFG,39835428.0
 Angola,AGO,33933611.0
 Albania,ALB,2811666.0
+Andorra,AND,77354.0
 United Arab Emirates,ARE,9991083.0
 Argentina,ARG,45808747.0
 Armenia,ARM,2968128.0
@@ -19,21 +20,13 @@ Bangladesh,BGD,166303494.0
 Bulgaria,BGR,6899125.0
 Bahrain,BHR,1748295.0
 "Bahamas, The",BHS,396914.0
-"Bahamas, The",BHS,396914.0
-"Bahamas, The",BHS,396914.0
-Bosnia And Herzegovina,BIH,3263459.0
-Bosnia And Herzegovina,BIH,3263459.0
 Bosnia And Herzegovina,BIH,3263459.0
 Belarus,BLR,9340314.0
 Belize,BLZ,404915.0
 Bermuda,BMU,63867.0
 Bolivia,BOL,11832936.0
-Bolivia,BOL,11832936.0
-Bolivia,BOL,11832936.0
-Bolivia,BOL,11832936.0
 Brazil,BRA,213993441.0
 Barbados,BRB,287708.0
-Brunei Darussalam,BRN,441532.0
 Brunei Darussalam,BRN,441532.0
 Bhutan,BTN,779900.0
 Botswana,BWA,2397240.0
@@ -44,25 +37,11 @@ Channel Islands,CHI,175244.0
 Chile,CHL,19212362.0
 China,CHN,1412360000.0
 Cote D'Ivoire,CIV,27053629.0
-Cote D'Ivoire,CIV,27053629.0
-Cote D'Ivoire,CIV,27053629.0
-Cote D'Ivoire,CIV,27053629.0
-Cote D'Ivoire,CIV,27053629.0
 Cameroon,CMR,27224262.0
 "Congo, Dem. Rep.",COD,92377986.0
-"Congo, Dem. Rep.",COD,92377986.0
-"Congo, Dem. Rep.",COD,92377986.0
-"Congo, Dem. Rep.",COD,92377986.0
-"Congo, Dem. Rep.",COD,92377986.0
-"Congo, Dem. Rep.",COD,92377986.0
-"Congo, Rep.",COG,5657017.0
-"Congo, Rep.",COG,5657017.0
-"Congo, Rep.",COG,5657017.0
-"Congo, Rep.",COG,5657017.0
 "Congo, Rep.",COG,5657017.0
 Colombia,COL,51265841.0
 Comoros,COM,888456.0
-Cabo Verde,CPV,561901.0
 Cabo Verde,CPV,561901.0
 Costa Rica,CRI,5139053.0
 Cuba,CUB,11317498.0
@@ -78,7 +57,6 @@ Dominican Republic,DOM,10953714.0
 Algeria,DZA,44616626.0
 Ecuador,ECU,17888474.0
 "Egypt, Arab Rep.",EGY,104258327.0
-"Egypt, Arab Rep.",EGY,104258327.0
 Spain,ESP,47326687.0
 Estonia,EST,1329254.0
 Ethiopia,ETH,117876226.0
@@ -86,19 +64,12 @@ Finland,FIN,5541696.0
 Fiji,FJI,902899.0
 France,FRA,67499343.0
 Faroe Islands,FRO,49053.0
-Faroe Islands,FRO,49053.0
-"Micronesia, Fed. Sts.",FSM,116255.0
-"Micronesia, Fed. Sts.",FSM,116255.0
 "Micronesia, Fed. Sts.",FSM,116255.0
 Gabon,GAB,2278829.0
-United Kingdom,GBR,67326569.0
-United Kingdom,GBR,67326569.0
-United Kingdom,GBR,67326569.0
 United Kingdom,GBR,67326569.0
 Georgia,GEO,3708610.0
 Ghana,GHA,31732128.0
 Guinea,GIN,13497237.0
-"Gambia, The",GMB,2486937.0
 "Gambia, The",GMB,2486937.0
 Guinea-Bissau,GNB,2015490.0
 Equatorial Guinea,GNQ,1449891.0
@@ -109,22 +80,14 @@ Guatemala,GTM,17109746.0
 Guam,GUM,170184.0
 Guyana,GUY,790329.0
 "Hong Kong Sar, China",HKG,7413100.0
-"Hong Kong Sar, China",HKG,7413100.0
-"Hong Kong Sar, China",HKG,7413100.0
-"Hong Kong Sar, China",HKG,7413100.0
 Honduras,HND,10062994.0
 Croatia,HRV,3899000.0
 Haiti,HTI,11541683.0
 Hungary,HUN,9709886.0
 Indonesia,IDN,276361788.0
+Isle Of Man,IMN,85410.0
 India,IND,1393409033.0
 Ireland,IRL,5028230.0
-Ireland,IRL,5028230.0
-"Iran, Islamic Rep.",IRN,85028760.0
-"Iran, Islamic Rep.",IRN,85028760.0
-"Iran, Islamic Rep.",IRN,85028760.0
-"Iran, Islamic Rep.",IRN,85028760.0
-"Iran, Islamic Rep.",IRN,85028760.0
 "Iran, Islamic Rep.",IRN,85028760.0
 Iraq,IRQ,41179351.0
 Iceland,ISL,372295.0
@@ -136,29 +99,15 @@ Japan,JPN,125681593.0
 Kazakhstan,KAZ,19002586.0
 Kenya,KEN,54985702.0
 Kyrgyz Republic,KGZ,6694200.0
-Kyrgyz Republic,KGZ,6694200.0
 Cambodia,KHM,16946446.0
 Kiribati,KIR,121388.0
 St. Kitts And Nevis,KNA,53546.0
-St. Kitts And Nevis,KNA,53546.0
-"Korea, Rep.",KOR,51744876.0
-"Korea, Rep.",KOR,51744876.0
-"Korea, Rep.",KOR,51744876.0
-"Korea, Rep.",KOR,51744876.0
-"Korea, Rep.",KOR,51744876.0
-"Korea, Rep.",KOR,51744876.0
 "Korea, Rep.",KOR,51744876.0
 Kuwait,KWT,4328553.0
-Lao Pdr,LAO,7379358.0
-Lao Pdr,LAO,7379358.0
-Lao Pdr,LAO,7379358.0
-Lao Pdr,LAO,7379358.0
 Lao Pdr,LAO,7379358.0
 Lebanon,LBN,6769151.0
 Liberia,LBR,5180208.0
 Libya,LBY,6958538.0
-Libya,LBY,6958538.0
-St. Lucia,LCA,184401.0
 St. Lucia,LCA,184401.0
 Liechtenstein,LIE,38254.0
 Sri Lanka,LKA,22156000.0
@@ -167,32 +116,17 @@ Lithuania,LTU,2795321.0
 Luxembourg,LUX,639070.0
 Latvia,LVA,1883162.0
 "Macao Sar, China",MAC,658391.0
-"Macao Sar, China",MAC,658391.0
-"Macao Sar, China",MAC,658391.0
-"Macao Sar, China",MAC,658391.0
 St. Martin (French Part),MAF,39239.0
 Morocco,MAR,37344787.0
 Monaco,MCO,39520.0
-Moldova,MDA,2573928.0
-Moldova,MDA,2573928.0
-Moldova,MDA,2573928.0
 Moldova,MDA,2573928.0
 Madagascar,MDG,28427333.0
 Maldives,MDV,543620.0
 Mexico,MEX,130262220.0
 Marshall Islands,MHL,59618.0
 North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
-North Macedonia,MKD,2065092.0
 Mali,MLI,20855724.0
 Malta,MLT,516869.0
-Myanmar,MMR,54806014.0
 Myanmar,MMR,54806014.0
 Montenegro,MNE,620173.0
 Mongolia,MNG,3329282.0
@@ -208,10 +142,8 @@ Niger,NER,25130810.0
 Nigeria,NGA,211400704.0
 Nicaragua,NIC,6702379.0
 Netherlands,NLD,17533405.0
-Netherlands,NLD,17533405.0
 Norway,NOR,5408320.0
 Nepal,NPL,29674920.0
-New Zealand,NZL,5122600.0
 New Zealand,NZL,5122600.0
 Oman,OMN,5223376.0
 Pakistan,PAK,225199929.0
@@ -222,22 +154,15 @@ Palau,PLW,18174.0
 Papua New Guinea,PNG,9119005.0
 Poland,POL,37781024.0
 Puerto Rico,PRI,3263584.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
-"Korea, Dem. People'S Rep.",PRK,25887045.0
 Portugal,PRT,10299423.0
 Paraguay,PRY,7219641.0
+West Bank And Gaza,PSE,4922749.0
 French Polynesia,PYF,282534.0
 Qatar,QAT,2930524.0
 Romania,ROU,19115146.0
 Russian Federation,RUS,143446060.0
-Russian Federation,RUS,143446060.0
 Rwanda,RWA,13276517.0
 Saudi Arabia,SAU,35340680.0
-Sudan,SDN,44909351.0
 Sudan,SDN,44909351.0
 Senegal,SEN,17196308.0
 Singapore,SGP,5453566.0
@@ -247,20 +172,14 @@ El Salvador,SLV,6518500.0
 San Marino,SMR,34010.0
 Somalia,SOM,16359500.0
 Serbia,SRB,6844078.0
-Serbia,SRB,6844078.0
 South Sudan,SSD,11381377.0
 Sao Tome And Principe,STP,223364.0
 Suriname,SUR,591798.0
-Suriname,SUR,591798.0
-Slovak Republic,SVK,5447247.0
 Slovak Republic,SVK,5447247.0
 Slovenia,SVN,2107007.0
 Sweden,SWE,10415811.0
-Eswatini,SWZ,1172369.0
 Sint Maarten (Dutch Part),SXM,42846.0
 Seychelles,SYC,99202.0
-Syrian Arab Republic,SYR,18275704.0
-Syrian Arab Republic,SYR,18275704.0
 Syrian Arab Republic,SYR,18275704.0
 Turks And Caicos Islands,TCA,39226.0
 Chad,TCD,16914985.0
@@ -268,41 +187,25 @@ Togo,TGO,8478242.0
 Thailand,THA,69950844.0
 Tajikistan,TJK,9749625.0
 Turkmenistan,TKM,6117933.0
+Timor-Leste,TLS,1343875.0
 Tonga,TON,106759.0
-Trinidad And Tobago,TTO,1403374.0
 Trinidad And Tobago,TTO,1403374.0
 Tunisia,TUN,11935764.0
 Turkiye,TUR,85042736.0
-Turkiye,TUR,85042736.0
 Tuvalu,TUV,11925.0
-Tanzania,TZA,61498438.0
-Tanzania,TZA,61498438.0
-Tanzania,TZA,61498438.0
-Tanzania,TZA,61498438.0
 Tanzania,TZA,61498438.0
 Uganda,UGA,47123533.0
 Ukraine,UKR,43814581.0
 Uruguay,URY,3485152.0
 United States,USA,331893745.0
-United States,USA,331893745.0
-United States,USA,331893745.0
-United States,USA,331893745.0
 Uzbekistan,UZB,34915100.0
 St. Vincent And The Grenadines,VCT,111269.0
-St. Vincent And The Grenadines,VCT,111269.0
-"Venezuela, Rb",VEN,28704947.0
-"Venezuela, Rb",VEN,28704947.0
 "Venezuela, Rb",VEN,28704947.0
 Virgin Islands (U.S.),VIR,105870.0
-Virgin Islands (U.S.),VIR,105870.0
-Virgin Islands (U.S.),VIR,105870.0
-Virgin Islands (U.S.),VIR,105870.0
-Vietnam,VNM,98168829.0
 Vietnam,VNM,98168829.0
 Vanuatu,VUT,314464.0
 Samoa,WSM,200144.0
-"Yemen, Rep.",YEM,30490639.0
-"Yemen, Rep.",YEM,30490639.0
+Kosovo,XKX,1806279.0
 "Yemen, Rep.",YEM,30490639.0
 South Africa,ZAF,60041996.0
 Zambia,ZMB,18920657.0
